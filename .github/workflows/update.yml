@@ -28,6 +28,12 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      - name: Check whether gc.cuny.edu is reachable from GitHub
+        continue-on-error: true
+        run: |
+          for u in https://www.gc.cuny.edu/english/curriculum-and-degree-information/courses https://www.gc.cuny.edu/ https://qualitativeconcentration.commons.gc.cuny.edu/ ; do
+            echo "$(curl -s -o /tmp/p.html -w '%{http_code}' -A 'Mozilla/5.0' "$u") $u :: $(grep -o '<title>[^<]*' /tmp/p.html | head -1)"
+          done
       - run: npm ci
       - run: npx playwright install --with-deps chromium
       - name: Scrape program pages

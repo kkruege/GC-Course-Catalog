@@ -21,7 +21,7 @@ jobs:
   scrape:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -37,8 +37,11 @@ jobs:
       - run: npm ci
       - run: npx playwright install --with-deps chromium
       - name: Scrape program pages
+        timeout-minutes: 60
+        continue-on-error: true
         run: node scraper/scrape.mjs
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

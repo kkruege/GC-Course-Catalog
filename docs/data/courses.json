@@ -1,6 +1,7 @@
 {
  "term": "Spring 2027",
- "generated": "2026-11-13T03:36:40.436Z",
+ "generated": "2026-11-13T04:46:21.517Z",
+ "classUrl": "",
  "extraLinks": [
   {
    "label": "Other certificate programs (Center for the Humanities)",
@@ -317,7 +318,7 @@
    "source": "https://www.gc.cuny.edu/english/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/English",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ENGL-GRD/courses",
-   "checked": "2026-11-13T03:35:39.144Z",
+   "checked": "2026-11-13T04:46:20.975Z",
    "sections": []
   },
   {
@@ -545,7 +546,7 @@
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/NURS-GRD/courses",
-   "checked": "2026-11-13T03:36:01.860Z",
+   "checked": "2026-11-13T04:46:19.027Z",
    "sections": []
   },
   {
@@ -605,7 +606,7 @@
    "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
    "site": "https://www.gc.cuny.edu/Psychology",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PSYC-GRD/courses",
-   "checked": "2026-11-13T03:36:06.497Z",
+   "checked": "2026-11-13T04:46:19.627Z",
    "sections": [
     {
      "code": "PSYC 70340",
@@ -2400,7 +2401,7 @@
    "source": "https://qualitativeconcentration.commons.gc.cuny.edu/qualitative-methods-courses-2026-2027/",
    "site": "",
    "catalogUrl": "",
-   "checked": "2026-11-13T03:36:39.072Z",
+   "checked": "2026-11-13T04:46:21.478Z",
    "sections": []
   },
   {

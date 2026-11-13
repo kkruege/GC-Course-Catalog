@@ -15,6 +15,8 @@ export async function scrapeCatalog(browser, log = console.log) {
 
   const out = [];
   for (const d of depts) {
+    // Stop early if the catalog is not answering at all (first 3 departments empty).
+    if (out.length === 3 && out.every(x => !x.courses.length && !x.programs.length)) { log('catalog: not answering, skipping the rest'); out.push(...depts.slice(3).map(x => ({ ...x, site: '', programs: [], courses: [] }))); break; }
     const got = {};
     const onResp = async r => {
       const u = r.url();
@@ -26,8 +28,11 @@ export async function scrapeCatalog(browser, log = console.log) {
     };
     page.on('response', onResp);
     try {
-      await page.goto(`${BASE}/departments/${encodeURIComponent(d.code)}/courses`, { waitUntil: 'networkidle', timeout: 90000 });
-      await page.waitForTimeout(500);
+      // Wait only for the course list request, not for the whole page to go quiet.
+      const coursesLoaded = page.waitForResponse(r => r.url().includes('/courses/search/'), { timeout: 25000 }).catch(() => null);
+      await page.goto(`${BASE}/departments/${encodeURIComponent(d.code)}/courses`, { waitUntil: 'domcontentloaded', timeout: 30000 });
+      await coursesLoaded;
+      await page.waitForTimeout(700);
     } catch (e) { log(`catalog: ${d.code} load problem: ${e.message.split('\n')[0]}`); }
     page.off('response', onResp);
 

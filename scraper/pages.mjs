@@ -32,8 +32,9 @@ async function readGoogleDoc(url) {
 
 /** Load a web page in the browser, open collapsed sections, and return text + tables + links. */
 async function loadPage(page, url) {
-  const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+  const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  await page.waitForLoadState('load', { timeout: 8000 }).catch(() => {});
+  await page.waitForTimeout(1000);
   const status = resp ? resp.status() : 0;
   const title = await page.title().catch(() => '');
   if (status >= 400 || /attention required|just a moment|captcha|access denied/i.test(title)) {
@@ -106,7 +107,8 @@ export async function readPages(browser, urls, log = console.log) {
       if (seg != null && !sections.length) sections.push(...parseCourseBlocks(seg, url));
 
       // Follow links that point at Spring 2027 listings.
-      if (depth < 1) for (const l of r.links) {
+      if (depth < 1) for (const l of r.links.slice(0, 400)) {
+        if (queue.length >= 6) break;
         if (TERM.match.test(l.text) || TERM.match.test(decodeURIComponent(l.href)) || (/spring/i.test(l.text) && /course|schedule|class/i.test(l.text) && /2027|27/.test(l.href))) {
           if (!seen.has(l.href)) queue.push({ url: l.href, depth: depth + 1 });
         }

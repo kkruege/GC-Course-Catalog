@@ -18,7 +18,7 @@ const previous = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) :
 const prevByCode = new Map(previous.programs.map(p => [p.code, p]));
 
 const browser = await chromium.launch();
-const catalog = await scrapeCatalog(browser, () => {});
+const catalog = await scrapeCatalog(browser, log);
 log(`catalog: ${catalog.length} departments, ${catalog.reduce((n, d) => n + d.courses.length, 0)} courses`);
 
 // Course code -> catalog entry (for filling in missing descriptions/titles/credits).
@@ -37,41 +37,49 @@ const programs = [
 ];
 
 fs.mkdirSync(DEBUG, { recursive: true });
-const results = [];
-for (const p of programs) {
-  if (only.length && !only.includes(p.code)) { if (prevByCode.has(p.code)) results.push(prevByCode.get(p.code)); continue; }
-  log(`\n== ${p.name} (${p.code})`);
-  let r;
-  if (p.sheet) {
-    r = await readSheet(p.sheet);
-    r.url = p.sheet;
-  } else {
-    let urls = p.pages || [];
-    if (!urls.length && p.site) urls = GUESS_PATHS.map(s => p.site.replace(/\/$/, '') + s);
-    if (!urls.length) r = { status: 'unknown', sections: [], note: 'no department course page known', raw: '' };
-    else if (p.pages) r = await readPages(browser, urls, log);
-    else {
-      // Guessed pages: stop at the first one that loads and is not a 404.
-      for (const u of urls) { r = await readPages(browser, [u], log); if (r.status !== 'unavailable' || /blocked/.test(r.note)) break; }
-    }
-  }
-  fs.writeFileSync(path.join(DEBUG, `${p.code.replace(/\W+/g, '_')}.txt`), `${r.url || ''}\nstatus: ${r.status} ${r.note || ''}\n\n${r.raw || ''}`.slice(0, 300000));
+const results = new Map();
+const PER_PROGRAM_MS = 4 * 60 * 1000;   // give up on a program after 4 minutes
+const PARALLEL = 4;                     // programs read at the same time
 
+async function readProgram(p) {
+  if (p.sheet) { const r = await readSheet(p.sheet); r.url = p.sheet; return r; }
+  let urls = p.pages || [];
+  if (!urls.length && p.site) urls = GUESS_PATHS.map(s => p.site.replace(/\/$/, '') + s);
+  if (!urls.length) return { status: 'unknown', sections: [], note: 'no department course page known', raw: '' };
+  if (p.pages) return readPages(browser, urls, log);
+  // Guessed pages: stop at the first one that loads and is not a 404.
+  let r;
+  for (const u of urls) { r = await readPages(browser, [u], log); if (r.status !== 'unavailable' || /blocked/.test(r.note)) break; }
+  return r;
+}
+
+async function handle(p) {
+  const t0 = Date.now();
+  let timer;
+  const r = await Promise.race([
+    readProgram(p).catch(e => ({ status: 'unavailable', sections: [], note: `error: ${e.message.split('\n')[0]}`, raw: '' })),
+    new Promise(res => { timer = setTimeout(() => res({ status: 'unavailable', sections: [], note: 'timed out', raw: '' }), PER_PROGRAM_MS); }),
+  ]);
+  clearTimeout(timer);
+  fs.writeFileSync(path.join(DEBUG, `${p.code.replace(/\W+/g, '_')}.txt`), `${r.url || ''}\nstatus: ${r.status} ${r.note || ''}\n\n${r.raw || ''}`.slice(0, 300000));
   const prev = prevByCode.get(p.code);
+  let entry;
   // If a source could not be reached this week, keep last week's courses rather than wiping them.
-  if ((r.status === 'unavailable' || r.status === 'unknown') && prev?.sections?.length) {
-    log(`  kept ${prev.sections.length} sections from ${prev.checked}`);
-    results.push({ ...prev, stale: true, note: r.note });
-    continue;
-  }
-  const sections = r.sections.map(s => fillFromCatalog(s));
-  log(`  ${r.status}: ${sections.length} sections ${r.note || ''}`);
-  results.push({
+  if ((r.status === 'unavailable' || r.status === 'unknown') && prev?.sections?.length) entry = { ...prev, stale: true, note: r.note };
+  else entry = {
     code: p.code, name: p.name, kind: p.kind, status: r.status, note: r.note || '',
     source: r.url || p.site || '', site: p.site || '', catalogUrl: p.catalogUrl || '',
-    checked: new Date().toISOString(), sections,
-  });
+    checked: new Date().toISOString(), sections: r.sections.map(s => fillFromCatalog(s)),
+  };
+  results.set(p.code, entry);
+  log(`${p.code} ${p.name}: ${entry.status}${entry.stale ? ' (kept last week)' : ''}, ${entry.sections.length} sections ${r.note || ''} [${Math.round((Date.now() - t0) / 1000)}s]`);
+  writeOutput(); // save progress after every program, so a cut-off run still keeps what it found
 }
+
+// Programs not being re-read keep their previous data.
+for (const p of programs) if (only.length && !only.includes(p.code) && prevByCode.has(p.code)) results.set(p.code, prevByCode.get(p.code));
+const todo = programs.filter(p => !only.length || only.includes(p.code));
+await Promise.all(Array.from({ length: PARALLEL }, async () => { while (todo.length) await handle(todo.shift()); }));
 await browser.close();
 
 function fillFromCatalog(s) {
@@ -94,14 +102,13 @@ function fillFromCatalog(s) {
   return out;
 }
 
-const data = {
-  term: TERM.name,
-  generated: new Date().toISOString(),
-  classUrl: CLASS_URL,
-  extraLinks: EXTRA_LINKS,
-  programs: results.sort((a, b) => a.name.localeCompare(b.name)),
-};
-fs.mkdirSync(path.dirname(OUT), { recursive: true });
-fs.writeFileSync(OUT, JSON.stringify(data, null, 1));
-const n = s => results.filter(p => p.status === s).length;
-log(`\nwrote ${OUT}: ${results.reduce((k, p) => k + p.sections.length, 0)} sections; posted ${n('posted')}, not posted ${n('not_posted')}, unparsed ${n('unparsed')}, unavailable ${n('unavailable') + n('unknown')}`);
+function writeOutput() {
+  const list = [...results.values()].sort((a, b) => a.name.localeCompare(b.name));
+  const data = { term: TERM.name, generated: new Date().toISOString(), classUrl: CLASS_URL, extraLinks: EXTRA_LINKS, programs: list };
+  fs.mkdirSync(path.dirname(OUT), { recursive: true });
+  fs.writeFileSync(OUT, JSON.stringify(data, null, 1));
+  return list;
+}
+const final = writeOutput();
+const n = s => final.filter(p => p.status === s).length;
+log(`\nwrote ${OUT}: ${final.reduce((k, p) => k + p.sections.length, 0)} sections; posted ${n('posted')}, not posted ${n('not_posted')}, unparsed ${n('unparsed')}, unavailable ${n('unavailable') + n('unknown')}`);

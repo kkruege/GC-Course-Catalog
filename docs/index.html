@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GC Course Catalog</title>
+<meta name="description" content="Spring 2027 courses across CUNY Graduate Center programs, with descriptions, professors, days and times. An unofficial student project.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Space+Grotesk:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow"><span id="term">Spring 2027</span> · CUNY Graduate Center · unofficial</p>
+    <h1>GC Course Catalog</h1>
+    <p class="lede">
+      Every Spring 2027 course we could find across Graduate Center programs, gathered in one place, with
+      full descriptions, professors, and meeting days and times. This is a student project for the
+      <a id="class-link" href="https://www.gc.cuny.edu/" target="_blank" rel="noopener">GC AI-Assisted Coding Class</a>.
+      It is not an official Graduate Center site. Always confirm details on CUNYfirst and with each program before you register.
+    </p>
+    <ul class="notes">
+      <li><strong>Updates automatically every week.</strong> Listings are re-collected from each program's website every Monday. <span id="updated"></span></li>
+      <li><span class="badge verify">Verify</span> marks information a program's page did not include, filled in from the GC course catalog. It may not match this semester's section, so check it with the program.</li>
+      <li><span class="badge pending">Not Yet Posted</span> means the program has not published its Spring 2027 courses yet, or we could not read them automatically.</li>
+    </ul>
+  </div>
+</header>
+
+<div class="toolbar" id="toolbar">
+  <div class="wrap toolbar-inner">
+    <div class="row">
+      <label class="search">
+        <span class="sr">Search courses</span>
+        <input id="q" type="search" placeholder="Search title, code, professor, description…" autocomplete="off">
+      </label>
+      <div class="view-toggle" role="tablist" aria-label="View">
+        <button id="view-list" role="tab" aria-selected="true">List</button>
+        <button id="view-cal" role="tab" aria-selected="false">Week</button>
+      </div>
+    </div>
+    <div class="row filters">
+      <fieldset class="days" aria-label="Days">
+        <legend class="sr">Days</legend>
+        <button type="button" data-day="Mon" aria-pressed="false">Mon</button>
+        <button type="button" data-day="Tue" aria-pressed="false">Tue</button>
+        <button type="button" data-day="Wed" aria-pressed="false">Wed</button>
+        <button type="button" data-day="Thu" aria-pressed="false">Thu</button>
+        <button type="button" data-day="Fri" aria-pressed="false">Fri</button>
+        <button type="button" data-day="Sat" aria-pressed="false">Sat</button>
+      </fieldset>
+      <label class="field"><span>Starts after</span>
+        <select id="t-from"></select></label>
+      <label class="field"><span>Ends by</span>
+        <select id="t-to"></select></label>
+      <label class="field grow"><span>Professor</span>
+        <input id="prof" list="prof-list" placeholder="Any" autocomplete="off"><datalist id="prof-list"></datalist></label>
+      <label class="field grow"><span>Program</span>
+        <select id="program"><option value="">All programs</option></select></label>
+      <label class="field"><span>Format</span>
+        <select id="mode"><option value="">Any</option><option>In person</option><option>Hybrid</option><option>Online</option></select></label>
+      <button type="button" id="reset" class="link-btn">Clear filters</button>
+    </div>
+    <p class="count" id="count" aria-live="polite"></p>
+  </div>
+</div>
+
+<main class="wrap" id="main">
+  <section id="list-view">
+    <h2 class="section-title">Departments &amp; degree programs</h2>
+    <div id="departments" class="programs"></div>
+    <h2 class="section-title">Certificates &amp; concentrations</h2>
+    <div id="certificates" class="programs"></div>
+    <div id="extra-links" class="extra"></div>
+  </section>
+  <section id="cal-view" hidden>
+    <p class="cal-help">Courses with a set meeting time, placed on a weekly grid. Filters above apply here too. Select a course to see its details.</p>
+    <div class="cal-scroll"><div id="calendar" class="calendar"></div></div>
+    <h3 class="sub-title">No set meeting time</h3>
+    <ul id="unscheduled" class="unscheduled"></ul>
+  </section>
+</main>
+
+<dialog id="detail" aria-labelledby="detail-title">
+  <form method="dialog"><button class="close" aria-label="Close">×</button></form>
+  <div id="detail-body"></div>
+</dialog>
+
+<footer class="wrap foot">
+  <p>Sources: each program's course page on gc.cuny.edu, program spreadsheets, and the <a href="https://gc.catalog.cuny.edu/departments" target="_blank" rel="noopener">GC course catalog</a>.
+  Built for the GC AI-Assisted Coding Class. Spotted a mistake? The program's own page is always the authority; each course links to it.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

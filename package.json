@@ -1,0 +1,13 @@
+{
+  "name": "gc-course-catalog",
+  "private": true,
+  "type": "module",
+  "description": "Spring 2027 courses across CUNY Graduate Center programs, collected weekly.",
+  "scripts": {
+    "scrape": "node scraper/scrape.mjs",
+    "serve": "npx --yes http-server docs -p 8080"
+  },
+  "dependencies": {
+    "playwright": "1.49.1"
+  }
+}

@@ -1,0 +1,2515 @@
+{
+ "term": "Spring 2027",
+ "generated": "2026-11-13T03:36:40.436Z",
+ "extraLinks": [
+  {
+   "label": "Other certificate programs (Center for the Humanities)",
+   "url": "https://centerforthehumanities.org/event/certificate-open-house/"
+  }
+ ],
+ "programs": [
+  {
+   "code": "AFCP-GRD",
+   "name": "Africana Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/africana-studies/courses",
+   "site": "https://www.gc.cuny.edu/Africanastudies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/AFCP-GRD/courses",
+   "checked": "2026-11-13T03:35:12.443Z",
+   "sections": []
+  },
+  {
+   "code": "ASCP-GRD",
+   "name": "American Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Americanstudies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Americanstudies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ASCP-GRD/courses",
+   "checked": "2026-11-13T03:35:13.795Z",
+   "sections": []
+  },
+  {
+   "code": "ANTH-GRD",
+   "name": "Anthropology",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/anthropology/courses",
+   "site": "https://www.gc.cuny.edu/Anthropology",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ANTH-GRD/courses",
+   "checked": "2026-11-13T03:35:14.905Z",
+   "sections": []
+  },
+  {
+   "code": "ART-GRD",
+   "name": "Art History",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/ArtHistory/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/ArtHistory",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ART-GRD/courses",
+   "checked": "2026-11-13T03:35:16.231Z",
+   "sections": []
+  },
+  {
+   "code": "ASTR-GRD",
+   "name": "Astrophysics",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/astrophysics/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/astrophysics",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ASTR-GRD/courses",
+   "checked": "2026-11-13T03:35:17.575Z",
+   "sections": []
+  },
+  {
+   "code": "AUD-GRD",
+   "name": "Audiology",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Audiology/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Audiology",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/AUD-GRD/courses",
+   "checked": "2026-11-13T03:35:18.863Z",
+   "sections": []
+  },
+  {
+   "code": "BICM-GRD",
+   "name": "Biochemistry",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Biochemistry/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Biochemistry",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/BICM-GRD/courses",
+   "checked": "2026-11-13T03:35:19.969Z",
+   "sections": []
+  },
+  {
+   "code": "BAM-GRD",
+   "name": "Biography and Memoir",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/bam/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/bam",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/BAM-GRD/courses",
+   "checked": "2026-11-13T03:35:21.265Z",
+   "sections": []
+  },
+  {
+   "code": "BIO-GRD",
+   "name": "Biology",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/BIO-GRD/courses",
+   "checked": "2026-11-13T03:35:21.265Z",
+   "sections": []
+  },
+  {
+   "code": "BRES-GRD",
+   "name": "Black, Race, & Ethnic Studies",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/black-race-and-ethnic-studies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/black-race-and-ethnic-studies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/BRES-GRD/courses",
+   "checked": "2026-11-13T03:35:22.594Z",
+   "sections": []
+  },
+  {
+   "code": "BBUS-GRD",
+   "name": "Business",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/BBUS-GRD/courses",
+   "checked": "2026-11-13T03:35:22.594Z",
+   "sections": []
+  },
+  {
+   "code": "CHEM-GRD",
+   "name": "Chemistry",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Chemistry/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Chemistry",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/CHEM-GRD/courses",
+   "checked": "2026-11-13T03:35:23.889Z",
+   "sections": []
+  },
+  {
+   "code": "CLAS-GRD",
+   "name": "Classics",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Classics/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Classics",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/CLAS-GRD/courses",
+   "checked": "2026-11-13T03:35:25.018Z",
+   "sections": []
+  },
+  {
+   "code": "COGNEU-GRD",
+   "name": "Cognitive Neuroscience",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/cognitiveneuroscience/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/cognitiveneuroscience",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/COGNEU-GRD/courses",
+   "checked": "2026-11-13T03:35:26.221Z",
+   "sections": []
+  },
+  {
+   "code": "C L-GRD",
+   "name": "Comparative Literature",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/comparative-literature/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/comparative-literature",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/C%20L-GRD/courses",
+   "checked": "2026-11-13T03:35:27.744Z",
+   "sections": []
+  },
+  {
+   "code": "CSC-GRD",
+   "name": "Computer Science",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/computerscience/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/computerscience",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/CSC-GRD/courses",
+   "checked": "2026-11-13T03:35:29.113Z",
+   "sections": []
+  },
+  {
+   "code": "CRJ-GRD",
+   "name": "Criminal Justice",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/CriminalJustice/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/CriminalJustice",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/CRJ-GRD/courses",
+   "checked": "2026-11-13T03:35:30.375Z",
+   "sections": []
+  },
+  {
+   "code": "CTCP-GRD",
+   "name": "Critical Theory",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/criticaltheory/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/criticaltheory",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/CTCP-GRD/courses",
+   "checked": "2026-11-13T03:35:31.684Z",
+   "sections": []
+  },
+  {
+   "code": "DATA-GRD",
+   "name": "Data Analysis and Visualization",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/datavis/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/datavis",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/DATA-GRD/courses",
+   "checked": "2026-11-13T03:35:32.879Z",
+   "sections": []
+  },
+  {
+   "code": "DCP-GRD",
+   "name": "Demography",
+   "kind": "certificate",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/DCP-GRD/courses",
+   "checked": "2026-11-13T03:35:32.880Z",
+   "sections": []
+  },
+  {
+   "code": "DHUM-GRD",
+   "name": "Digital Humanities",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/digital-humanities/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/dh",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/DHUM-GRD/courses",
+   "checked": "2026-11-13T03:35:34.205Z",
+   "sections": []
+  },
+  {
+   "code": "EES-GRD",
+   "name": "Earth and Environmental Science",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/earth-and-environmental-sciences/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/EES",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/EES-GRD/courses",
+   "checked": "2026-11-13T03:35:35.428Z",
+   "sections": []
+  },
+  {
+   "code": "ECON-GRD",
+   "name": "Economics",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Economics/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Economics",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ECON-GRD/courses",
+   "checked": "2026-11-13T03:35:36.725Z",
+   "sections": []
+  },
+  {
+   "code": "EPSY-GRD",
+   "name": "Education Psychology",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/EducationalPsychology/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/EducationalPsychology",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/EPSY-GRD/courses",
+   "checked": "2026-11-13T03:35:38.006Z",
+   "sections": []
+  },
+  {
+   "code": "ENGR-GRD",
+   "name": "Engineering",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ENGR-GRD/courses",
+   "checked": "2026-11-13T03:35:38.006Z",
+   "sections": []
+  },
+  {
+   "code": "ENGL-GRD",
+   "name": "English",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/english/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/English",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ENGL-GRD/courses",
+   "checked": "2026-11-13T03:35:39.144Z",
+   "sections": []
+  },
+  {
+   "code": "EJCR-GRD",
+   "name": "Environmental Justice/Climate Resilience",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/earth-and-environmental-sciences/advanced-certificate/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/earth-and-environmental-sciences/advanced-certificate",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/EJCR-GRD/courses",
+   "checked": "2026-11-13T03:35:40.450Z",
+   "sections": []
+  },
+  {
+   "code": "FSCP-GRD",
+   "name": "Film Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Filmstudies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Filmstudies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/FSCP-GRD/courses",
+   "checked": "2026-11-13T03:35:41.852Z",
+   "sections": []
+  },
+  {
+   "code": "FREN-GRD",
+   "name": "French",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/French/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/French",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/FREN-GRD/courses",
+   "checked": "2026-11-13T03:35:43.140Z",
+   "sections": []
+  },
+  {
+   "code": "RSCP-GRD",
+   "name": "Global Early Modern Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/global-early-modern-studies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/global-early-modern-studies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/RSCP-GRD/courses",
+   "checked": "2026-11-13T03:35:44.398Z",
+   "sections": []
+  },
+  {
+   "code": "HIST-GRD",
+   "name": "History",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/History/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/History",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/HIST-GRD/courses",
+   "checked": "2026-11-13T03:35:45.794Z",
+   "sections": []
+  },
+  {
+   "code": "ITCP-GRD",
+   "name": "Interactive Tech & Pedagogy",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/itp/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/itp",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/ITCP-GRD/courses",
+   "checked": "2026-11-13T03:35:47.002Z",
+   "sections": []
+  },
+  {
+   "code": "IDS-GRD",
+   "name": "Interdisciplinary Studies",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/academics/collaborative-and-interdisciplinary-programs/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/academics/collaborative-and-interdisciplinary-programs",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/IDS-GRD/courses",
+   "checked": "2026-11-13T03:35:48.367Z",
+   "sections": []
+  },
+  {
+   "code": "INMIGR-GRD",
+   "name": "International Migration Studies",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/ims/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/ims",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/INMIGR-GRD/courses",
+   "checked": "2026-11-13T03:35:49.570Z",
+   "sections": []
+  },
+  {
+   "code": "HISP-GRD",
+   "name": "Latin American, Iberian and Latino Cultures",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/latin-american-iberian-and-latino-cultures/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/latin-american-iberian-and-latino-cultures",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/HISP-GRD/courses",
+   "checked": "2026-11-13T03:35:50.963Z",
+   "sections": []
+  },
+  {
+   "code": "LGTBQ-GRD",
+   "name": "LGBTQ Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/lgbtq-studies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/lgbtq-studies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/LGTBQ-GRD/courses",
+   "checked": "2026-11-13T03:35:52.162Z",
+   "sections": []
+  },
+  {
+   "code": "LING-GRD",
+   "name": "Linguistics",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Linguistics/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Linguistics",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/LING-GRD/courses",
+   "checked": "2026-11-13T03:35:53.533Z",
+   "sections": []
+  },
+  {
+   "code": "MALS-GRD",
+   "name": "MA Program in Liberal Studies",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Liberalstudies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Liberalstudies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/MALS-GRD/courses",
+   "checked": "2026-11-13T03:35:54.967Z",
+   "sections": []
+  },
+  {
+   "code": "MATH-GRD",
+   "name": "Mathematics",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/MATH-GRD/courses",
+   "checked": "2026-11-13T03:35:54.967Z",
+   "sections": []
+  },
+  {
+   "code": "MSCP-GRD",
+   "name": "Medieval Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/medievalstudies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/medievalstudies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/MSCP-GRD/courses",
+   "checked": "2026-11-13T03:35:56.295Z",
+   "sections": []
+  },
+  {
+   "code": "MES-GRD",
+   "name": "Middle Eastern Studies",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/MAMES/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/MAMES",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/MES-GRD/courses",
+   "checked": "2026-11-13T03:35:57.717Z",
+   "sections": []
+  },
+  {
+   "code": "MUS-GRD",
+   "name": "Music",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Music/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Music",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/MUS-GRD/courses",
+   "checked": "2026-11-13T03:35:59.130Z",
+   "sections": []
+  },
+  {
+   "code": "NANO-GRD",
+   "name": "Nanoscience",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/nanoscience/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/nanoscience",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/NANO-GRD/courses",
+   "checked": "2026-11-13T03:36:00.387Z",
+   "sections": []
+  },
+  {
+   "code": "CHEMNC-GRD",
+   "name": "Nanoscience Connected to Life",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/chemistry/advanced-certificate/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/chemistry/advanced-certificate",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/CHEMNC-GRD/courses",
+   "checked": "2026-11-13T03:36:01.859Z",
+   "sections": []
+  },
+  {
+   "code": "NURS-GRD",
+   "name": "Nursing",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/NURS-GRD/courses",
+   "checked": "2026-11-13T03:36:01.860Z",
+   "sections": []
+  },
+  {
+   "code": "PHIL-GRD",
+   "name": "Philosophy",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/philosophy/courses",
+   "site": "https://gc.cuny.edu/Philosophy",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PHIL-GRD/courses",
+   "checked": "2026-11-13T03:36:03.255Z",
+   "sections": []
+  },
+  {
+   "code": "PHYS-GRD",
+   "name": "Physics",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Physics/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Physics",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PHYS-GRD/courses",
+   "checked": "2026-11-13T03:36:04.487Z",
+   "sections": []
+  },
+  {
+   "code": "PSC-GRD",
+   "name": "Political Science",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/PoliticalScience/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/PoliticalScience",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PSC-GRD/courses",
+   "checked": "2026-11-13T03:36:05.883Z",
+   "sections": []
+  },
+  {
+   "code": "PDEV-GRD",
+   "name": "Professional Development",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PDEV-GRD/courses",
+   "checked": "2026-11-13T03:36:05.884Z",
+   "sections": []
+  },
+  {
+   "code": "PSYC-GRD",
+   "name": "Psychology",
+   "kind": "department",
+   "status": "posted",
+   "note": "",
+   "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+   "site": "https://www.gc.cuny.edu/Psychology",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PSYC-GRD/courses",
+   "checked": "2026-11-13T03:36:06.497Z",
+   "sections": [
+    {
+     "code": "PSYC 70340",
+     "section": "",
+     "title": "Practicum in the Application of Psychology",
+     "topic": "",
+     "professor": "Revenson, Tracey",
+     "schedule": {
+      "text": "Wednesday, 2–4 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "1",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "BASP",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Practicum in the Applic Psych",
+     "filled": []
+    },
+    {
+     "code": "PSYC 77100",
+     "section": "",
+     "title": "Ethical and Legal Issues for Psychology",
+     "topic": "",
+     "professor": "Sommer, Kristin",
+     "schedule": {
+      "text": "Wednesday, 9:30–11:30 AM",
+      "days": [
+       "Wed"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "BASP",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Ethical Legal Issues for Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80100",
+     "section": "",
+     "title": "Seminar in Special Topics (1–3 cr.)",
+     "topic": "Stigma",
+     "professor": "Camacho, Gabriel",
+     "schedule": {
+      "text": "Monday, 2–4 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "BASP",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70330",
+     "section": "",
+     "title": "Research Practicum",
+     "topic": "",
+     "professor": "Rovenpor, Daniel and Sawyer, Jeremy",
+     "schedule": {
+      "text": "Monday–Friday (multiple days)",
+      "days": [
+       "Mon",
+       "Tue",
+       "Wed",
+       "Thu",
+       "Fri"
+      ],
+      "start": "",
+      "end": ""
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "VARIOUS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "BASP",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Research Practicum",
+     "filled": []
+    },
+    {
+     "code": "CNS 70002",
+     "section": "",
+     "title": "Neuroscience II",
+     "topic": "",
+     "professor": "Horvitz, Jon and Fan, Jin",
+     "schedule": {
+      "text": "Friday, 9:30 AM–1:30 PM",
+      "days": [
+       "Fri"
+      ],
+      "start": "09:30",
+      "end": "13:30"
+     },
+     "credits": "4",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course is the second in a two-course sequence designed to provide a uniform foundation for students engaged in graduate work in the Neurosciences. Its focus is on systems, behavioral, and cognitive neuroscience. The course is often team-taught, and in addition to a standard textbook, utilizes a variety of readings, oral presentations and research critiques designed to introduce students to the methods and data of these disciplines.Completion of Neuroscience I would be highly desirable. An emphasis on interdisciplinary work, which is characteristic of contemporary neuroscience, is an important feature of the course.",
+     "notes": "Psych BCN students only; enroll in CNS section",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Neuroscience II",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "CNS 70300",
+     "section": "",
+     "title": "Neuroanatomy",
+     "topic": "",
+     "professor": "Garcia-Marin, Virginia",
+     "schedule": {
+      "text": "Tuesday, 9:30am-11:30am",
+      "days": [
+       "Tue"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course will provide students with an overview of the structure and function of the nervous system and its subdivisions. It will introduce students to the organizational structure of the human brain, includeing slide material of gross neuroanatomy, cerbral vasculature, spinal organization, and internal structure from medulla to cortex. Functional system mini-lectures are also provided for the sensory and motor systems, the thalamus, hypothalamus, basal ganglia, limbic system, cerebellum and cortex. Neuroanatomical mapping of major neurochemical systems and their receptors is also proviced. Course expectations inlude both visuo-spatial and written fluency of the material.",
+     "notes": "Psych BCN students only; enroll in CNS section; note: there is an additional $100 lab fee",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Neuroanatomy",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "CNS 70003",
+     "section": "",
+     "title": "Cognitive Neuroscience",
+     "topic": "",
+     "professor": "Fan, Jin",
+     "schedule": {
+      "text": "Wednesday, 9:30am-11:30am",
+      "days": [
+       "Wed"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course will provide students with an overview of cognitive neuroscience. Topics to be covered in this course include the neural basis for higher aspects of perception, object recognition, attention, reward and motivation, memory, language, executive control, decision-making, social cognition and consciousness.",
+     "notes": "Psych BCN students only; enroll in CNS section",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Cognitive Neuroscience",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Contemporary Perspectives on Classical Theories in Neuroscience",
+     "topic": "",
+     "professor": "Ro, Tony and Amarasingam, Han",
+     "schedule": {
+      "text": "Wednesday, 2pm-4pm",
+      "days": [
+       "Wed"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80102",
+     "section": "",
+     "title": "Seminar in Special Topics (2 cr.)",
+     "topic": "CNC Colloquium",
+     "professor": "Vessel, Ed",
+     "schedule": {
+      "text": "Friday, 2:30 - 4 PM",
+      "days": [
+       "Fri"
+      ],
+      "start": "14:30",
+      "end": "16:00"
+     },
+     "credits": "2",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80205",
+     "section": "",
+     "title": "Neuroscience Rotation (5 cr.)",
+     "topic": "",
+     "professor": "Mingote, Susana and Chua, Elizabeth",
+     "schedule": {
+      "text": "N/A",
+      "days": [],
+      "start": "",
+      "end": ""
+     },
+     "credits": "5",
+     "room": "",
+     "campus": "VARIOUS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course is designed to introduce the first year student to the research interests and methods of several Behavioral and Cognitive Neuroscience faculty laboratories. For students who have expressed an initial interest in a specific laboratory, the rotation can serve as an opportunity to explore the fit on both the research topic and the mentor. For students who are uncertain as to the direction they wish to pursue, it provides an opportunity for exploration prior to the selection of a Dissertation director. Based upon their mutual interests, student and laboratory director will select a research problem and/or method and design a training program that will be the focus of the rotation. This may include specific readings, laboratory meetings and written reports that will involve analysis and interpretation of research data.",
+     "notes": "",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Neuroscience Rotation",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 80207",
+     "section": "",
+     "title": "Ethical Issues in Research and Professional Development",
+     "topic": "",
+     "professor": "Susana Mingote",
+     "schedule": {
+      "text": "Monday, 2-4pm",
+      "days": [
+       "Mon"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "4",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Ethical Prncpls Rsrch/Prof Dev",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80200",
+     "section": "",
+     "title": "Independent Psychological Research",
+     "topic": "",
+     "professor": "PSYC PhD faculty",
+     "schedule": {
+      "text": "",
+      "days": [],
+      "start": "",
+      "end": ""
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "VARIOUS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Independent Psych Resch",
+     "filled": []
+    },
+    {
+     "code": "BIOL 79303",
+     "section": "",
+     "title": "Cell Biology of Myelination",
+     "topic": "",
+     "professor": "Melendez-Vasquez, Carmen",
+     "schedule": {
+      "text": "Wednesday, 10am-12:30pm",
+      "days": [
+       "Wed"
+      ],
+      "start": "10:00",
+      "end": "12:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "HUNTER",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Psych students enroll in Biol course",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80101",
+     "section": "",
+     "title": "Biases in Scientific Research",
+     "topic": "",
+     "professor": "Lucas Parra",
+     "schedule": {
+      "text": "Wednesday, 1pm-2pm",
+      "days": [
+       "Wed"
+      ],
+      "start": "13:00",
+      "end": "14:00"
+     },
+     "credits": "1",
+     "room": "",
+     "campus": "CCNY",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Bio students enroll in PSYC section",
+     "area": "Behavioral and Cognitive Neuroscience",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80102",
+     "section": "",
+     "title": "Seminar in Special Topics (2 cr.)",
+     "topic": "CCP Colloquium",
+     "professor": "Chua, Elizabeth",
+     "schedule": {
+      "text": "Friday, 12:30–2 PM",
+      "days": [
+       "Fri"
+      ],
+      "start": "12:30",
+      "end": "14:00"
+     },
+     "credits": "2",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "CCP (ABCP + CLD)",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 71600",
+     "section": "",
+     "title": "Animal Behavior I",
+     "topic": "",
+     "professor": "Lipkind, Dina",
+     "schedule": {
+      "text": "TBA",
+      "days": [],
+      "start": "",
+      "end": ""
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "CCP (ABCP + CLD)",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Animal Behavior I",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80200",
+     "section": "",
+     "title": "Independent Psychological Research",
+     "topic": "CCP 1st Year Students",
+     "professor": "TBA",
+     "schedule": {
+      "text": "N/A",
+      "days": [],
+      "start": "",
+      "end": ""
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "CCP (ABCP + CLD)",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Independent Psych Resch",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80206",
+     "section": "",
+     "title": "Advanced Independent Psychological Research (5 cr.)",
+     "topic": "CCP 2nd - 3rd Year CCP Students",
+     "professor": "TBA",
+     "schedule": {
+      "text": "N/A",
+      "days": [],
+      "start": "",
+      "end": ""
+     },
+     "credits": "5",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course is designed to facilitate the research training of advanced doctoral students who have successfully completed one or more previous independent research rotations, have selected a Dissertation advisor and have passed the First Examination. Its focus will be upon research training within the applicant’s area of interest, the development of specific hypotheses and the acquisition of research data designed to test these hypotheses.",
+     "notes": "",
+     "area": "CCP (ABCP + CLD)",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Advanced Independent Psychological Research",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 82800",
+     "section": "",
+     "title": "Assessment II (Personality Functioning)",
+     "topic": "",
+     "professor": "Weiss, Rebecca",
+     "schedule": {
+      "text": "Wednesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JJ",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Forensic Psych Assessment II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70320",
+     "section": "",
+     "title": "Research Methods and Design II",
+     "topic": "",
+     "professor": "Widom, Cathy",
+     "schedule": {
+      "text": "Monday, 11:45 AM–1:45 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JJ",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Research Methods and Design II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 83900",
+     "section": "",
+     "title": "Therapeutic Interventions I: Introduction to Psychotherapy",
+     "topic": "",
+     "professor": "Mazzula, Silvia",
+     "schedule": {
+      "text": "Tuesday, 2–4 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JJ",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Therapeutic Interventions",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80600",
+     "section": "",
+     "title": "Introduction to Forensic Psychology",
+     "topic": "",
+     "professor": "Auguste, Evan",
+     "schedule": {
+      "text": "Wednesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JJ",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Intro to Forensic Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 82909",
+     "section": "",
+     "title": "Evidence-Based Treatment of Adults with Severe Mental Illness",
+     "topic": "",
+     "professor": "Yanos, Philip",
+     "schedule": {
+      "text": "Wednesday, 9:30–11:30 AM",
+      "days": [
+       "Wed"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JJ",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Evidence-Based Treatment of Adults with Severe Mental Illness",
+     "filled": []
+    },
+    {
+     "code": "PSYC 84100",
+     "section": "",
+     "title": "Clinical Practicum I",
+     "topic": "",
+     "professor": "Lee, Amy",
+     "schedule": {
+      "text": "Monday, 4:15–6:15 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JJ",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Clinical Practicum I",
+     "filled": []
+    },
+    {
+     "code": "PSYC 84200",
+     "section": "",
+     "title": "Clinical Practicum II",
+     "topic": "",
+     "professor": "Lee, Amy and Auguste, Evan",
+     "schedule": {
+      "text": "Monday, 9:30–11:30 AM",
+      "days": [
+       "Mon"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ John Jay",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Clinical Practicum II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70600",
+     "section": "",
+     "title": "Statistical Methods in Psychology II",
+     "topic": "",
+     "professor": "Beiting-Parrish, Magdalen",
+     "schedule": {
+      "text": "Wednesday, 6:30–8:30 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "18:30",
+      "end": "20:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Clinical programs only",
+     "area": "Clinical Cluster",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Statistical Methods in Psychology II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70344",
+     "section": "",
+     "title": "Advanced Clinical Externship IV: Neuropsychology",
+     "topic": "",
+     "professor": "Holman, Alea",
+     "schedule": {
+      "text": "Thursday, 9:30–11:30 AM",
+      "days": [
+       "Thu"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "QUEENS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "Students will be under the supervision of a licensed psychologist as the course instructor for all activities. The supervisor will have expertise in Neuropsychology. Students will interact directly with patients who have various neurological, psychiatric, and/or medical disorders. The student may participate in interviewing patients and in conducting feedback sessions with patients and/or families. Students will administer a variety of neuropsychological (including cognitive and affective) measures, score test data, interpret test data, develop treatment recommendations, and write test reports.Learning Goals: Students will learn how to administer a variety of neuropsychological tests, score test data, interpret test data, generate diagnostic formulations, develop treatment recommendations, write test reports, conduct interviews, and carry out feedback sessions. These activities will be supervised by the course instructor and will be carried out with patients.Assessment and outcome: Student performance will be documented on skills in interviewing, test administration and scoring, report writing, delivery of feedback, acquired clinical knowledge, and integration of the material. Course grade will be based on the quality of the activities described above as well as the ability to interact with patients and medical staff.Rationale: The activities in this course are essential to functioning as a professional clinical neuropsychologist. This course overlaps with no other course in the subprogram or department, and no course will be dropped to accommodate this offering.",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Advanced Clinical Externship IV: Neuropsychology",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 70345",
+     "section": "",
+     "title": "Advanced Clinical Externship V: Neuropsychology",
+     "topic": "",
+     "professor": "Hinton, Veronica",
+     "schedule": {
+      "text": "Tuesday, 9:10 AM–12 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "09:10",
+      "end": "12:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "QUEENS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "Students will be under the supervision of a licensed psychologist as the course instructor for all activities. The psychologist will have expertise in Neuropsychology. The course will build upon skills acquired during 70344. Students will interact directly with patients who have various neurological, psychiatric, and/or medical disorders. The student may participate in interviewing patients and in conducting feedback sessions with patients and/or families. Students will administer a variety of neuropsychological (including cognitive and affective) measures, score test data, interpret test data, develop treatment recommendations, and write test reports.Learning Goals: Students will learn how to administer a variety of neuropsychological tests, score test data, interpret test data, generate diagnostic formulations, develop treatment recommendations, write test reports, conduct interviews, and carry out feedback sessions. These activities will be supervised by the course instructor and will be carried out with patients.Assessment and outcome: Student performance will be documented on skills in interviewing, test administration and scoring, report writing, delivery of feedback, acquired clinical knowledge, and integration of the material. Course grade will be based on the quality of the activities described above as well as the ability to interact with patients and medical staff.",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Advanced Clinical Externship V: Neuropsychology",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 70940",
+     "section": "",
+     "title": "Basic Neuroscience: Behavioral Neuroscience",
+     "topic": "",
+     "professor": "Pytte, Carolyn",
+     "schedule": {
+      "text": "Monday, 1:40–4:30 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "13:40",
+      "end": "16:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "QUEENS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course is designed to provide students with an overview of behavioralneuroscience, with an emphasis on animal models. The course covers such topicsas reward, reinforcement learning, memory, associative processes, appetitiveregulation, habit, emotional regulation, motor learning and spatial navigation.",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Basic Neuroscience: Behavioral Neuroscience",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 74600",
+     "section": "",
+     "title": "Social Psychology",
+     "topic": "",
+     "professor": "O'Toole, Megan",
+     "schedule": {
+      "text": "Wednesday, 4:15–6:15 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Social Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 75610",
+     "section": "",
+     "title": "Clinical Psychopharmacology",
+     "topic": "",
+     "professor": "Nguyen, Ezie",
+     "schedule": {
+      "text": "Monday, 5:30–8:30 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "17:30",
+      "end": "20:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hyflex",
+     "classNumber": "",
+     "description": "This course focuses on clinical psychopharmacology geared toward knowledgerelevant for clinical practice. The course will briefly cover basic pharmacology and a review of neurochemistry, but focus primarily practical application of currentlyavailable neuropsychiatric medications in treating a range of clinical presentations.The course will emphasize seeking information from the primary literature and itsapplication to decision-making in clinical practice.",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Clinical Psychopharmacology",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 80270",
+     "section": "",
+     "title": "Second-Year Research Seminar II",
+     "topic": "",
+     "professor": "Pytte, Carolyn",
+     "schedule": {
+      "text": "Monday, 5–7 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "17:00",
+      "end": "19:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "QUEENS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Second Year Research Sem II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 81703",
+     "section": "",
+     "title": "Survey of Clinical Neuropsychology",
+     "topic": "",
+     "professor": "Byrd, Desiree",
+     "schedule": {
+      "text": "Wednesday, 2–4 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Survey of Clinical Neuropsychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 85400",
+     "section": "",
+     "title": "Professional Issues in Clinical Psychology",
+     "topic": "",
+     "professor": "Hinton, Veronica",
+     "schedule": {
+      "text": "Thursday, 9:30–11:30 AM",
+      "days": [
+       "Thu"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "QUEENS",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Clinical @ Queens",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Prof Issues in Clinical Psych",
+     "filled": []
+    },
+    {
+     "code": "PSYC 74003",
+     "section": "",
+     "title": "Historical and Critical Foundations of Social Personality Psychology",
+     "topic": "Concepts & Theories in Critical Psychology",
+     "professor": "Perkins, Krystal",
+     "schedule": {
+      "text": "Tuesday, 2–4 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Critical students only",
+     "area": "Critical Social/Personality",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Historical and Theoretical Foundations of Critical Social/Personality Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 79200",
+     "section": "",
+     "title": "Research Methods and Ethics in Environmental Psychology I",
+     "topic": "Foundations in Critical Design, Methods & Ethics II",
+     "professor": "Stoudt, Brett",
+     "schedule": {
+      "text": "Tuesday, 9:30–11:30 AM",
+      "days": [
+       "Tue"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Critical first-year students only",
+     "area": "Critical Social/Personality",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Res Mthd & Ethics Env Psych I",
+     "filled": []
+    },
+    {
+     "code": "PSYC 72300",
+     "section": "",
+     "title": "Current Issues in Psychology",
+     "topic": "",
+     "professor": "Stoudt, Brett",
+     "schedule": {
+      "text": "Thursday, 11:45 AM–1:45 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "0",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "For Critical, but open to anyone",
+     "area": "Critical Social/Personality",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Critical Issues in Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Critical Psychology Lab II",
+     "professor": "Clegg, Joshua",
+     "schedule": {
+      "text": "Thursday, 2–4 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Critical students only",
+     "area": "Critical Social/Personality",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Critical Psychology Proseminar II",
+     "professor": "Torre, Maria",
+     "schedule": {
+      "text": "Friday, 2–4 PM",
+      "days": [
+       "Fri"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Critical students only",
+     "area": "Critical Social/Personality",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "AI for What?! A Public Interest Technology Studio",
+     "professor": "Cumiskey, Kathleen",
+     "schedule": {
+      "text": "Wednesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Critical Social/Personality",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 72100",
+     "section": "",
+     "title": "Developmental Psychology II",
+     "topic": "",
+     "professor": "Gillespie-Lynch, Kristen",
+     "schedule": {
+      "text": "Tuesday, 4:15–6:15 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Developmental Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Developmental Psychology II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 72020",
+     "section": "",
+     "title": "Developmental Proseminar II",
+     "topic": "",
+     "professor": "Stetsenko, Anna",
+     "schedule": {
+      "text": "Tuesday, 2–4 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "The major goal of this class is to provide students with professional tools for research, studies, and career development in psychology. Special attention is focused on issues and challenges that might confront students and researchers in their professional development and careers. A number of practical skills such as building a professional CV, developing skills of presenting and publishing research, network building, jobs search, communication skills and time management are addressed. Relevance to student’s own evolving interests, skills, and professional standards are emphasized. This class uses a seminar format in which students meet with the faculty in Human Development and invited speakers. These weekly seminars serve three functions. First, each seminar is a forum for sharing information about professional development, career building, research and practical activities in psychology. Second, it serves as a resource for group discussions, sharing, and solving problems that may arise in students’ professional activities. Finally, it provides a forum for professional presentations that feature both (a) students who practice their professional skills and get feedback to their presentations and (b) faculty who share their research so that students familiarize themselves with recently evolving directions in psychology and gain access to the “insider” perspectives on research and professional careers. Readings will be assigned by each faculty in preparing for their presentations. During the course of the semester, the students prepare drafts of documents relevant to the topic at hand.",
+     "notes": "",
+     "area": "Developmental Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Developmental Proseminar II",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics (3 cr.)",
+     "topic": "Psychology of Arts",
+     "professor": "Drake, Jennifer",
+     "schedule": {
+      "text": "Thursday, 11:45 AM–1:45 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Developmental Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Proseminar/Experimental Course (3 cr.)",
+     "topic": "Developmental Psychology: Bridging Research with Policy and Practical Applications",
+     "professor": "Flores, Roseanne",
+     "schedule": {
+      "text": "Thursday, 2–4 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Developmental Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 77100",
+     "section": "",
+     "title": "Ethical and Legal Issues for Psychology",
+     "topic": "",
+     "professor": "Miranda, Regina",
+     "schedule": {
+      "text": "Wednesday, 2–4 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Health Psychology and Clinical Science",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Ethical Legal Issues for Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70330",
+     "section": "",
+     "title": "Research Practicum (1–3 cr.)",
+     "topic": "",
+     "professor": "Espinosa, Adriana",
+     "schedule": {
+      "text": "Tuesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "HPCS ONLY",
+     "area": "Health Psychology and Clinical Science",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Research Practicum",
+     "filled": []
+    },
+    {
+     "code": "PSYC 84200",
+     "section": "",
+     "title": "Clinical Practicum II",
+     "topic": "",
+     "professor": "Gomez, Judelysse",
+     "schedule": {
+      "text": "Tuesday, 9:30–11:30 AM",
+      "days": [
+       "Tue"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "HPCS ONLY",
+     "area": "Health Psychology and Clinical Science",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Clinical Practicum II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 75000",
+     "section": "",
+     "title": "Personnel Assessment in Organizations",
+     "topic": "",
+     "professor": "Silzer, Rob",
+     "schedule": {
+      "text": "Monday, 12–2 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "12:00",
+      "end": "14:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "BARUCH",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Industrial and Organizational Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Personnel Assess in Organizatn",
+     "filled": []
+    },
+    {
+     "code": "PSYC 78100",
+     "section": "",
+     "title": "Seminar in Industrial and Organizational Psychology",
+     "topic": "",
+     "professor": "Adler, Seymour",
+     "schedule": {
+      "text": "Tuesday, 3–5 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "15:00",
+      "end": "17:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "BARUCH",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Industrial and Organizational Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Ind & Organizational Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 78100",
+     "section": "",
+     "title": "Seminar in Industrial and Organizational Psychology",
+     "topic": "Employee Motivation",
+     "professor": "Godollei, Anna",
+     "schedule": {
+      "text": "Wednesday, 2–4 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "BARUCH",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Industrial and Organizational Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Ind & Organizational Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80400",
+     "section": "",
+     "title": "Independent Reading (1–3 cr.)",
+     "topic": "",
+     "professor": "Chatterjee, Dia",
+     "schedule": {
+      "text": "N/A",
+      "days": [],
+      "start": "",
+      "end": ""
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "BARUCH",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Industrial and Organizational Psychology",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Independent Reading",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80100",
+     "section": "",
+     "title": "Seminar in Special Topics (1–3 cr.)",
+     "topic": "Plea Bargains",
+     "professor": "Penrod, Steven",
+     "schedule": {
+      "text": "Thursday, 9:30–11:30 AM",
+      "days": [
+       "Thu"
+      ],
+      "start": "09:30",
+      "end": "11:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "JOHN JAY",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Psychology and Law",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70600",
+     "section": "",
+     "title": "Statistical Methods in Psychology II",
+     "topic": "",
+     "professor": "Kuerbis, Alexis",
+     "schedule": {
+      "text": "Wednesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Statistical Methods in Psychology II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 72203",
+     "section": "",
+     "title": "Critical Discourse Theory and Analysis",
+     "topic": "",
+     "professor": "Daiute, Colette",
+     "schedule": {
+      "text": "Tuesday, 4:15–6:15 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "This course reviews theories of discourse and relevant analytic approaches for research. After a review of contemporary approaches, we focus on verbal and non-verbal discourse as active meaning-making in context. We consider issues of diversity, development, and place, which involve strategies for analyzing ideology, silence, performance, and other influential phenomena individuals use to interact in society (including in research settings). Readings are drawn from across the social sciences and humanities. We consider naturally occurring discourses (such as those elicited in fieldwork) and discourses elicited in research designs with interviews, narratives, conversations, and non-verbal interactions. We also address ethical issues relevant to diverse theoretical assumptions and practices. The course involves reading, participating in class discussions and labs (applying specific techniques and using computer software), writing three short papers and a 10-page final paper.",
+     "notes": "Qualitative Concentration",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Discourse Theory and Analysis",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Critical Youth Studies: Frameworks for​ and about Research with Young People (Qualitative Concentration)",
+     "professor": "Fox, Maddy",
+     "schedule": {
+      "text": "Monday, 4:15–6:15 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Qualitative Concentration",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "The Listening Guide: A Method for Narrative Analysis (Qualitative Concentration)",
+     "professor": "Tolman, Deborah",
+     "schedule": {
+      "text": "Thursday, 2–4 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "Qualitative Concentration",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 79900",
+     "section": "",
+     "title": "Seminar and Practicum on the Teaching of Psychology",
+     "topic": "",
+     "professor": "Grose-Fifer, Jillian",
+     "schedule": {
+      "text": "Wednesday, 4:15–6:15 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Sem & Pract on Teach of Psych",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70600",
+     "section": "",
+     "title": "Statistical Methods in Psychology II",
+     "topic": "",
+     "professor": "Wang, Wei",
+     "schedule": {
+      "text": "Tuesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Tue"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Statistical Methods in Psychology II",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70610",
+     "section": "",
+     "title": "Statistical Methods in Psychology Laboratory II",
+     "topic": "",
+     "professor": "Wang, Wei",
+     "schedule": {
+      "text": "Thursday, 4:15–6:15 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "1.5",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "A computer lab using R programming language will help students master the “skills” side of the statistical methods. Specifically, the lab session is designed to develop analytic skills in R programming language for various statistical methods, including one-way ANOVA, factorial ANOVA, ANCOVA, repeated measures ANOVA, mixed ANOVA, simple and multiple regression, moderation and mediation, and logistic regression.",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Statistical Methods in Psychology Laboratory II",
+     "filled": [
+      "description"
+     ]
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Seminar in Language Science: Critical Perspectives on Neuroscience Methods",
+     "professor": "Duncan, E. Susan and Byrd, Desiree",
+     "schedule": {
+      "text": "Wednesday, 11:45 AM–1:45 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Foundations of Queer Studies II - Praxis",
+     "professor": "Brim, Matt",
+     "schedule": {
+      "text": "Wednesday, 6:30–8:30 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "18:30",
+      "end": "20:30"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 70000",
+     "section": "",
+     "title": "History of Psychology",
+     "topic": "History of Psychology: A Critical Lens",
+     "professor": "Stetsenko, Anna",
+     "schedule": {
+      "text": "Wednesday, 4:15–6:15 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "History of Psychology",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "The US Imperial Crisis and the Horizons of Emancipation",
+     "professor": "Maskovsky, Jeff",
+     "schedule": {
+      "text": "Thursday, 11:45 to 1:45",
+      "days": [
+       "Thu"
+      ],
+      "start": "11:45",
+      "end": "13:45"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Frameworks for Causal Inference",
+     "professor": "Lewis, Michael",
+     "schedule": {
+      "text": "Wednesday, 2–4 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "14:00",
+      "end": "16:00"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "In person",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 86002",
+     "section": "",
+     "title": "Hierarchical Linear Models",
+     "topic": "",
+     "professor": "Zhang, Bixi",
+     "schedule": {
+      "text": "Monday, 4:15–6:15 PM",
+      "days": [
+       "Mon"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "",
+     "notes": "Prerequisite: 733 or equivalent",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Hierarchical Linear Modeling",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Advanced Meta-Analysis",
+     "professor": "Zhang, Bixi",
+     "schedule": {
+      "text": "Wednesday, 4:15–6:15 PM",
+      "days": [
+       "Wed"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "",
+     "notes": "Prerequisite: 845 or equivalent",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    },
+    {
+     "code": "PSYC 80103",
+     "section": "",
+     "title": "Seminar in Special Topics",
+     "topic": "Multivariate Analysis with Machine Learning",
+     "professor": "Verkuilen, Jay",
+     "schedule": {
+      "text": "Thursday, 4:15–6:15 PM",
+      "days": [
+       "Thu"
+      ],
+      "start": "16:15",
+      "end": "18:15"
+     },
+     "credits": "3",
+     "room": "",
+     "campus": "GC",
+     "mode": "Hybrid",
+     "classNumber": "",
+     "description": "",
+     "notes": "",
+     "area": "Shared Course for ALL TAs",
+     "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
+     "catalogTitle": "Seminar in Special Topics",
+     "filled": []
+    }
+   ]
+  },
+  {
+   "code": "PUBH-GRD",
+   "name": "Public Health",
+   "kind": "department",
+   "status": "unknown",
+   "note": "no department course page known",
+   "source": "",
+   "site": "",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PUBH-GRD/courses",
+   "checked": "2026-11-13T03:36:06.498Z",
+   "sections": []
+  },
+  {
+   "code": "PUBCP-GRD",
+   "name": "Public Scholarship",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/public-scholarship/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/public-scholarship",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/PUBCP-GRD/courses",
+   "checked": "2026-11-13T03:36:07.905Z",
+   "sections": []
+  },
+  {
+   "code": "QUAL-CONC",
+   "name": "Qualitative Methods Concentration",
+   "kind": "concentration",
+   "status": "unavailable",
+   "note": "qualitativeconcentration.commons.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://qualitativeconcentration.commons.gc.cuny.edu/qualitative-methods-courses-2026-2027/",
+   "site": "",
+   "catalogUrl": "",
+   "checked": "2026-11-13T03:36:39.072Z",
+   "sections": []
+  },
+  {
+   "code": "QUANT-CONC",
+   "name": "Quantitative Methods Concentration",
+   "kind": "concentration",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/psychology/qualitative-and-quantitative-methods-concentrations",
+   "site": "",
+   "catalogUrl": "",
+   "checked": "2026-11-13T03:36:40.402Z",
+   "sections": []
+  },
+  {
+   "code": "QMSS-GRD",
+   "name": "Quantitative Methods in the Social Sciences",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/qmss/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/qmss",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/QMSS-GRD/courses",
+   "checked": "2026-11-13T03:36:09.333Z",
+   "sections": []
+  },
+  {
+   "code": "SSW-GRD",
+   "name": "Social Welfare",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/SocialWelfare/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/SocialWelfare",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/SSW-GRD/courses",
+   "checked": "2026-11-13T03:36:10.693Z",
+   "sections": []
+  },
+  {
+   "code": "SOC-GRD",
+   "name": "Sociology",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Sociology/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/Sociology",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/SOC-GRD/courses",
+   "checked": "2026-11-13T03:36:11.975Z",
+   "sections": []
+  },
+  {
+   "code": "SPCH-GRD",
+   "name": "Speech-Language-Hearing Sciences",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/SpeechandHearing/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/SpeechandHearing",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/SPCH-GRD/courses",
+   "checked": "2026-11-13T03:36:13.273Z",
+   "sections": []
+  },
+  {
+   "code": "THEA-GRD",
+   "name": "Theatre and Performance",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/theatre-and-performance/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/theatre-and-performance",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/THEA-GRD/courses",
+   "checked": "2026-11-13T03:36:14.451Z",
+   "sections": []
+  },
+  {
+   "code": "U ED-GRD",
+   "name": "Urban Education",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/urban-education/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/UrbanEducation",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/U%20ED-GRD/courses",
+   "checked": "2026-11-13T03:36:15.858Z",
+   "sections": []
+  },
+  {
+   "code": "WGS-GRD",
+   "name": "Women's and Gender Studies",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/womens-and-gender-studies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/womens-and-gender-studies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/WGS-GRD/courses",
+   "checked": "2026-11-13T03:36:17.204Z",
+   "sections": []
+  },
+  {
+   "code": "WSCP-GRD",
+   "name": "Women's Studies",
+   "kind": "certificate",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/womenstudies/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/womenstudies",
+   "catalogUrl": "https://gc.catalog.cuny.edu/departments/WSCP-GRD/courses",
+   "checked": "2026-11-13T03:36:18.366Z",
+   "sections": []
+  }
+ ]
+}

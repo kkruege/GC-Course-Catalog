@@ -38,3 +38,24 @@ npm run scrape            # all programs (takes ~10 minutes)
 node scraper/scrape.mjs ENGL-GRD PSYC-GRD   # just a few
 npm run serve             # open http://localhost:8080
 ```
+
+To use the Chrome or Edge already on your computer instead of downloading Playwright's Chromium (~300 MB), skip
+`npx playwright install chromium` and run with `BROWSER_CHANNEL=chrome` (or `msedge`).
+
+## Updating from saved pages
+
+gc.cuny.edu currently blocks automated visits ("403 blocked by site security"), so the weekly run can't read the
+department pages and keeps the last listing it has. To refresh the courses by hand:
+
+1. Open [`saved-pages/CHECKLIST.md`](saved-pages/CHECKLIST.md). For each program, open its course page in your browser,
+   press Ctrl+S, choose **Webpage, HTML Only**, and save it into `saved-pages/` with the file name shown (e.g. `ENGL-GRD.html`).
+2. Run the scraper on the saved files (the GC catalog and Google Sheets are still read online):
+
+   ```bash
+   BROWSER_CHANNEL=chrome node scraper/scrape.mjs --saved
+   ```
+
+3. Commit and push `docs/data/courses.json`; GitHub Pages republishes the site.
+
+The saved `.html` files stay on your computer (they're in `.gitignore`). Programs without a saved file keep their last
+listing, or show **Not checked yet**. The site's "Checked" date for a program is the date its page was saved.

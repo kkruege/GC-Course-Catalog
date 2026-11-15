@@ -1,3 +1,1372 @@
-https://www.gc.cuny.edu/datavis/curriculum-and-degree-information/courses
-status: unavailable www.gc.cuny.edu returned 403 (blocked by site security)
+https://www.gc.cuny.edu/data-analysis-and-visualization/curriculum-and-degree-information/courses
+status: posted 
 
+### https://www.gc.cuny.edu/data-analysis-and-visualization/curriculum-and-degree-information/courses
+Data Analysis and Visualization
+Curriculum and Degree Information
+Courses
+Courses
+
+View current and past semester courses below. Students can also access the Dynamic Course Schedule via CUNYfirst.
+
+Spring 2027 Course Schedule
+ 	Monday	Tuesday	Wednesday	Thursday
+4:15 - 6:15 PM	 	 	DATA 73200 Interactive Data Visualization (online)	DATA 71200 Advanced Data Analysis (online)
+6:30 - 8:30 PM	DATA 78000 Software Design Lab: “Creative Computing” (in person)	
+
+DATA 73000 Visualization and Design (in person)
+
+DATA 74000 Data, Culture and Society (hybrid)
+
+	
+
+DATA 78000 Special Topics: "Computational Discourse Analysis with Python" (online)
+
+DATA 78000 Special Topics: "Conflict Technology: Artificial Intelligence in Warfare and Surveillance” (in person)
+
+	DATA 70600 Special Topics in Computational Fundamental: "Scrollytelling with Civic Data" (1-hour lab class, hybrid)
+Course Descriptions
+Spring 2027
+
+DATA 78000 Software Design Lab: “Creative Computing”
+In Person
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Omar Nema (omarwnema@gmail.com)
+Cross-listed with DHUM 71000
+
+Software Design Lab is an introduction to software development as a practice and creative medium through a hands-on approach.
+
+This course will guide students in developing a coding craft that is grounded in iterative design and self-expression. This is a hands-on course that is light on theory: you will learn to code by gradually building their own interactive projects. You will explore how software can be used as a creative medium, and how it can be integrated into an existing research or artistic practice.
+
+The course is run in a studio format, which means all students are expected to participate in the making, discussing, and critiquing work. Coursework will center around two web-based programming projects.
+
+Prior coding experience is not required, and many students with no coding experience have succeeded in this course. However, if you are completely new to coding, expect a relatively steep learning curve in the 4-6 weeks of the course.
+
+DATA 73000 Visualization and Design
+In person
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Julia Bloom (julia.c.bloom@gmail.com)
+Cross-listed with DHUM 73000
+
+Note: DATA 73000 satisfies as a Data Visualization distribution core course
+
+We live in a data-driven society where decisions are increasingly shaped by an analysis of “the data”, often communicated through visualizations. This course offers an introduction to the ever-evolving world of data visualization, beginning with its historical origins and culminating with a look toward the future of data viz and data-as-art. Through lectures, we will discuss the principles of good design and visual storytelling and practice how to understand, interpret, and communicate data for an audience effectively. Using Tableau as our primary tool, we will develop hands-on skills in cleaning, transforming, and connecting complex datasets, selecting appropriate chart types based on data structure and variable types, and constructing engaging narratives through visualization. Students will also engage in the iterative process of visualization through a series of 3 individual projects, and learn how to develop research questions, locate relevant datasets, interpret their findings, and exchange constructive feedback on their design choices. We will finish out the semester with a discussion of data as an artistic medium, examining how the visual language of art and design can critique and reimagine the role of data in society. Regardless of your academic concentration, you will walk away from this class with a portfolio of impressive visual analyses and a versatile, interdisciplinary skill set to apply in academic, professional, and creative pursuits
+
+DATA 74000 Data, Culture and Society
+Hybrid
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Katherine Behar (katherine.behar@baruch.cuny.edu)
+
+DATA 74000 satisfies as a Data Studies distribution core course
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+In this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning.
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions?
+
+DATA 73200 Interactive Data Visualization
+Online
+Tuesday, 4:15 - 6:15 PM, 3 Credits, Prof. James Proctor (mail@jamesaproctor.com)
+
+Note: DATA 73200 satisfies as a Data Visualization distribution core course
+
+Interactive data visualization is one of the most engaging forms of communication today, helping users better understand complicated topics, detect patterns, and connect with powerful stories. This course explores what defines interactive data visualization, how interactive elements enhance comprehension, and why interactivity enables users to explore, analyze, and interpret complex data more effectively. Through hands-on labs, students will be introduced to a curated selection of modern web technologies including Observable and d3.js, and progress from foundational web development concepts to creating compelling interactive visualizations. By the end of the course, students will be able to articulate why interactivity is valuable, design and build interactive data visualizations tailored to different audiences and use cases, and have a working knowledge of key visualization frameworks. While no previous development experience is required, familiarity with visualization principles covered in DATA 73000 Visualization and Design, as well as basic HTML, CSS, and JavaScript, is helpful.
+
+DATA 78000 Special Topics: "Computational Discourse Analysis with Python"
+Online
+Wednesday, 6:30 - 8:30 PM, 3 Credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu)
+Cross-listed with QMSS 75000
+
+Note: Computational Discourse Analysis in Python satisfies as a Data Analysis distribution core course.
+Note: Students should have at least a basic knowledge of statistical coding to do the required work for the course.
+
+In this class, we'll examine computational methods for the analysis and visualization of large corpus text data. We'll begin with tools and techniques for building and managing a corpus (a collection of related documents), including scraping text from the web. Much of the analysis of text data involves modeling latent structure. We'll consider a variety of models, including conceptual network analysis, latent Dirichlet allocation, sentiment analysis, measures of similarity, and classification with machine learning.
+
+DATA 78000 Special Topics: "Conflict Technology: Artificial Intelligence in Warfare and Surveillance"
+In Person
+Wednesday, 6:30 - 8:30 PM, 3 Credits. Prof. James Lowry (James.Lowry@qc.cuny.edu)
+Cross-listed with DHUM 78000
+
+Autonomous systems now direct weaponry, monitor borders, and police streets. This class will study these technologies and the technical, legal and ethical questions posed by their deployment internationally and domestically. Topics will include drone warfare, predictive policing, digital forensics, OSINT, evidence in domestic and international jurisprudence, and data ethics.
+
+Centering the material artifacts and the data they train on, use, capture, store and transmit across complex interlocking networks and infrastructures, this class will:
+
+engage in exploratory research into the devices, algorithms and datasets used;
+attempt to uncover how they afford evidence for accountability and justice, for example in formal legal settings and open source investigations;
+look at how theoretical and aesthetic responses to AI’s uses in conflict and control shape public policy and discourse.
+
+The class will combine seminar style engagements with literature from surveillance studies, information studies, critical data studies, law, data science and adjacent fields, together with guest lectures, aesthetic forms of enquiry, and group research. Assessment will include a surveillance mapping project and analysis of an autonomous weapons system.
+
+DATA 71200 Advanced Data Analysis
+Online
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+
+Note: DATA 71200 satisfies as a Data Analysis distribution core course
+
+Note: Students should have a working knowledge of Statistics (through Regression methods) and at least a basic knowledge of Python to do the work required in this course. The course will be taught in Python, primarily using the scikit-learn library. Students should have completed DATA 71000 Data Analysis Methods or DATA 70500 Working with Data or have equivalent knowledge or experience. If questions about prior experience, or for permission, email the instructor.
+
+This survey course is designed for students who want to extend their data analytic skills beyond a basic knowledge of multiple regression analysis, and who want to communicate their findings clearly to audiences of business groups, researchers, and other practitioners. The course will introduce students to advanced data analytic methods and toolkits, including machine learning methods using the scikit learning library, that will equip them with the ability to perform analyses of complex data from business, industry, and the arts and sciences. The course will begin with an overview of regression analyses, including logistic regression, and continues with latent variable analysis and related exploratory data analytic methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks The course will offer conceptual explanations of these statistical techniques and will provide opportunities for students to implement and practice these techniques using real data with the goal of helping students develop a sense of when machine learning is an appropriate tool versus other statistical modeling methods. Students will be encouraged to use Python and sci-kit learning tools to produce readable and sensible code that will enable others to replicate and extend their analyses.
+
+DATA 70600 Special Topics in Computational Fundamentals: "Scrollytelling with Civic Data"
+Hybrid
+Thursday, 6:30 - 7:30 PM, 1 Credit, Prof. Sam O’Hana (sohanagrainger@gc.cuny.edu)
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+It’s a snowstorm out there, and the road is more obscured than ever. We are confronted with so much data that ten lifetimes hardly seems enough to parse through it. In the face of this, effective data analysis communication to broad audiences calls for numeric findings to be delivered in a selective, clear and memorable sequence–or narrative. 
+
+This lab class will focus on using Closeread, an extension for the Quarto publishing platform that converts scripted data analysis into a scrollable, multi-step web page that delivers insights at the user’s own pace. Students will develop their own “scrollytelling” projects using data from the NYC Open Data repository or other publicly available data source, and present their findings in person at a dedicated showcase as part of NYC Open Data Week in April. Some coding experience is desirable, though not essential as long as the student is willing to take on a steep learning curve. The class will be taught in R, using RStudio, but students are also welcome to develop their project using Python, Julia or ObservableJS.
+
+Possible Elective Course of Interest
+
+PSYC 80103 Seminar in Special Topics: “AI for What?! A Public Interest Technology Studio”
+In Person
+Wednesday, 11:45 AM - 1:45 PM, 3 Credits, Prof. Katie Cumiskey (katie.cumiskey@csi.cuny.edu)
+
+“AI for What?! A Public Interest Technology Studio” is a project-based graduate course developed through the CUNY Public Interest Technology Lab (CUNY PIT Lab). Students work with city agencies, community organizations, and mission-driven partners on real-world challenges involving digital tools, data, design, media, emerging technologies, and AI.
+
+Projects begin with relationships, community needs, and public problems, not with the assumption that technology is the answer. Through fieldwork, participatory research, human-centered design, evaluation, and collaborative problem-solving, students build practical skills while engaging questions of equity, accessibility, privacy, accountability, and community voice. Digital equity, diverse futurisms, and approaches to reclaiming technology for the public good guide the studio.
+
+Students should expect about six hours per week outside class, consistent with Graduate Center expectations for a three-credit course, including partner meetings, site visits, collaboration, research, and project development.
+
+The semester culminates in a co-created, co-owned, portfolio-ready project designed for real-world use.
+
+Note: To express interest and for more information please complete this form.
+
+Past Courses
+Fall 2026
+
+DATA 70500 (54557) - Working with Data: Fundamentals
+Online 
+Monday, 6:30 - 8:30 PM, 3 Credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu) 
+DATA 70500 satisfies as a Data Analysis distribution core course
+
+The “data revolution” has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data using Python and Google's Colab programming environment. We’ll combine a critical sociological view of data practices with examples that illustrate the logic of analysis as an introduction to quantitative research methods. We’ll begin with a broader examination of data and society. How do data practices in contemporary institutions shape communities and society? What do data analysts need to know about the data landscape to be effective? Then we’ll take a look at some of the tools used by data analysts to produce knowledge in various settings, including survey data, demographic data, social media (text analysis), and other forms of open data relevant to public policy and other applied settings.
+
+DATA 78000-02 (54562) - Special Topics: "AI and Machine Learning for Artists and Humanists"
+In Person
+Tuesday, 4:15 - 6:15 PM, 3 Credits. Prof. Michael Mandiberg (mmandiberg@gc.cuny.edu)
+Cross-listed with DHUM 78000
+
+Technical Note: the class will be taught in Python. Students should have programming experience, preferably with Python, but Javascript, R, PHP, etc are transferable. The key thing is that students understand functions, control structures, arrays (lists & dictionaries), and how to use a class. If you have questions about prior experience, or for permission, email the instructor.
+
+Artificial Intelligence and Machine Learning for Artists and Humanists will simultaneously teach students how to use AI and ML tools and how to think critically about their use. One’s ability to think critically about this transformative technology expands the more you learn about how the tools work. The course will be very hands on, with an emphasis on learning the basics of text analysis, topic modeling, data clustering, high-dimensional space, computer vision and image analysis. The goal is for students to gain a better understanding of how these tools work, what their affordances / limitations are, and how to implement them in creative or humanistic projects. The course will include a final project in which students will apply this knowledge to explore a subject or question related to their own research interests.
+
+DATA 78000-03 (57672) - Introduction to Digital Humanities
+In person
+Tuesday, 4:15 - 6:15 PM, 3 Credits, Prof. Krystyna Michael (kmichael@hostos.cuny.edu)
+
+DATA 78000 “Intro to DH” satisfies as a Data Studies distribution core course
+
+What are the digital humanities, and how can they help us think in new ways? This course offers an introduction to the landscape of digital humanities (DH) work, paying attention to how its various approaches embody new ways of knowing and thinking. What kinds of questions, for instance, does the practice of mapping pose to our research and teaching? How do you think like a humanist with and about data? When we attempt to share our work through social media, how is it changed? How can we read “distantly,” and how does “distant reading” alter our sense of what reading is?
+
+Over the course of this semester, we will explore these questions and others as we engage ongoing debates in the digital humanities, such as the problem of defining the digital humanities, the question of whether DH has (or needs) theoretical grounding, controversies over new models of peer review for digital scholarship, issues related to collaborative labor on digital projects, and the problematic questions surrounding research involving “big data.” The course will also emphasize the ways in which DH has helped transform the nature of academic teaching and pedagogy in the contemporary university with its emphasis on collaborative, student-centered and digital learning environments and approaches.
+
+Among the themes and approaches we will explore are evidence, scale, representation, genre, quantification, visualization, and data. We will also discuss broad social, legal and ethical questions and concerns surrounding digital media and contemporary culture, including privacy, intellectual property, artificial intelligence, and open/public access to knowledge and scholarship.
+
+Though no previous technical skills are required, students will be asked to experiment in introductory ways with DH tools and methods as a way of concretizing some of our readings and discussions. Students will be expected to participate actively in class discussions and online postings (including on our course blog and in collaborative annotations) and to undertake a final project that can be either a proposal for a digital project or a seminar paper. Students completing the course will gain broad knowledge about and understanding of the emerging role of the digital humanities across several academic disciplines and will begin to learn some of the fundamental skills used often in digital humanities projects.
+
+DATA 73000 (54554) - Visualization and Design
+In person, Room 6417
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Julia Bloom (julia.c.bloom@gmail.com) 
+Cross-listed with DHUM 73000 
+Note: DATA 73000 satisfies as a Data Visualization distribution core course
+
+We live in a data-driven society where decisions are increasingly shaped by an analysis of “the data”, often communicated through visualizations. This course offers an introduction to the ever-evolving world of data visualization, beginning with its historical origins and culminating with a look toward the future of data viz and data-as-art. Through lectures, we will discuss the principles of good design and visual storytelling and practice how to understand, interpret, and communicate data for an audience effectively. Using Tableau as our primary tool, we will develop hands-on skills in cleaning, transforming, and connecting complex datasets, selecting appropriate chart types based on data structure and variable types, and constructing engaging narratives through visualization. Students will also engage in the iterative process of visualization through a series of 3 individual projects, and learn how to develop research questions, locate relevant datasets, interpret their findings, and exchange constructive feedback on their design choices. We will finish out the semester with a discussion of data as an artistic medium, examining how the visual language of art and design can critique and reimagine the role of data in society. Regardless of your academic concentration, you will walk away from this class with a portfolio of impressive visual analyses and a versatile, interdisciplinary skill set to apply in academic, professional, and creative pursuits.
+
+DATA 70600-02 (54561) - Special Topics in Computational Fundamentals: "Introduction to R"
+Online
+Wednesday, 6:30 - 8:00 PM, 1 Credit, Prof. Sam O’Hana (sohanagrainger@gc.cuny.edu)
+Cross-listed with DHUM 70600
+
+Note: Class meets 6:30 - 8:00 PM on 9/2, 9/9, 9/16, 9/23, 9/30, 10/7, 10/14, 10/21, 10/28, and 11/4.
+
+Note: This is a 1-credit lab course.Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+R is an open-source programming language designed for statistical analysis and visualization. Its extensive documentation, functionality and user base make it a natural choice for quantitative research. This course introduces students to the language, its history and evolution, the development environment RStudio, and to the virtually endless list of packages that extend R’s functionality. Using openly available NYC 311 data, students will undertake their own exploratory data analyses, create customizable visualizations, and learn how to publish the findings as part of reports that are professional, visually compelling, and frame real urban issues as legitimate research avenues. Beginners welcome and no coding experience is necessary to enroll, however students should expect to engage with scripting from scratch and the learning curve that comes with it. Contact the instructor if you have any concerns.
+
+DATA 71000 (54555) - Data Analysis Methods
+Online
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Note: DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference. Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including Excel, SPSS, Stata and R.
+
+DATA 70600-01 (54560) - Special Topics in Computational Fundamentals: “AI-Assisted Programming”
+Online
+Thursday, 6:30 - 7:30 PM, 1 Credit, Prof. Stephen Zweibel (Szweibel@gc.cuny.edu) 
+Cross-listed with DHUM 70600
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This course teaches graduate students to investigate and understand code, using AI coding assistants as both collaborator and object of study. Students use AI (Claude Code) to generate web applications, then learn to explore what the models built by tracing connections between files, diagnosing errors, verifying claims against documentation, recognizing hallucinations, and navigating technical environments with confidence. Students develop critical skills for working with AI-generated code: when to trust suggestions and when to investigate further, how to debug systematically, how to maintain agency over technical decisions. The course emphasizes transferable investigation skills that are becoming increasingly essential as AI tools adoption grows across domains.
+
+No programming experience required. Students should be curious about technology and willing to experiment.
+
+Summer 2026
+
+DATA 70600-01 (10792) Special Topics in Computational Fundamentals: "Collecting and using the Data Commons"
+Online
+Wednesday, 6:00 - 8:15 PM, 1 Credit, Prof. Zhi Keng He (zhe5@gc.cuny.edu)
+Course dates: 6/1 , 6/3 , 6/10, 6/15, 6/17, 6/22, 6/24
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This course explores how to organize data for the digital commons. Communities collaboratively create, maintain, and visualize open data through platforms like OpenStreetMap and Wikidata. Students will learn to work with crowdsourced geographic and semantic data while building simple web applications that query, display, and analyze how diverse communities document their informational spaces.
+
+Working with these platforms enables analysis of questions such as how we name our spaces after people, where unusual connections exist between places, what neighborhoods lack infrastructure, and how spaces change over time. Through hands-on data collection and conversion, you will develop an understanding of how communities structure their knowledge and how to find meaningful patterns from collaborative datasets.
+
+You will gain hands-on experience conducting geographic surveys using various physical and digital tools, processing unstructured data, writing queries for OpenStreetMap and Wikidata APIs, and building a simple building interactive web visualization that make these resources accessible to broader audiences Basic understanding of Google Sheets/Excel is required.
+
+Spring 2026
+
+DATA 71200 (54962) - Advanced Data Analysis
+Online
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Note: DATA 71200 satisfies as a Data Analysis distribution core course
+
+Note: Students should have a working knowledge of Statistics (through Regression methods) and at least a basic knowledge of Python to do the work required in this course. The course will be taught in Python, primarily using the scikit-learn library. Students should have completed DATA 71000 Data Analysis Methods or DATA 70500 Working with Data or have equivalent knowledge or experience. If questions about prior experience, or for permission, email the instructor.
+
+This survey course is designed for students who want to extend their data analytic skills beyond a basic knowledge of multiple regression analysis, and who want to communicate their findings clearly to audiences of business groups, researchers, and other practitioners. The course will introduce students to advanced data analytic methods and toolkits, including machine learning methods using the scikit learning library, that will equip them with the ability to perform analyses of complex data from business, industry, and the arts and sciences. The course will begin with an overview of regression analyses, including logistic regression, and continues with latent variable analysis and related exploratory data analytic methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks The course will offer conceptual explanations of these statistical techniques and will provide opportunities for students to implement and practice these techniques using real data with the goal of helping students develop a sense of when machine learning is an appropriate tool versus other statistical modeling methods. Students will be encouraged to use Python and sci-kit learning tools to produce readable and sensible code that will enable others to replicate and extend their analyses.
+
+DATA 73000 (54963) - Visualization and Design
+In person, Room 5417
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Julia Bloom (julia.c.bloom@gmail.com)
+Cross-listed with DHUM 73000
+
+Note: DATA 73000 satisfies as a Data Visualization distribution core course
+
+We live in a data-driven society where decisions are increasingly shaped by an analysis of “the data”, often communicated through visualizations. This course offers an introduction to the ever-evolving world of data visualization, beginning with its historical origins and culminating with a look toward the future of data viz and data-as-art. Through lectures, we will discuss the principles of good design and visual storytelling and practice how to understand, interpret, and communicate data for an audience effectively. Using Tableau as our primary tool, we will develop hands-on skills in cleaning, transforming, and connecting complex datasets, selecting appropriate chart types based on data structure and variable types, and constructing engaging narratives through visualization. Students will also engage in the iterative process of visualization through a series of 3 individual projects, and learn how to develop research questions, locate relevant datasets, interpret their findings, and exchange constructive feedback on their design choices. We will finish out the semester with a discussion of data as an artistic medium, examining how the visual language of art and design can critique and reimagine the role of data in society. Regardless of your academic concentration, you will walk away from this class with a portfolio of impressive visual analyses and a versatile, interdisciplinary skill set to apply in academic, professional, and creative pursuits.
+
+DATA 73200 (54964) - Interactive Data Visualization
+Online
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+
+Note: DATA 73200 satisfies as a Data Visualization distribution core course
+
+Interactive Data Visualization is one of the most engaging forms of communication today — allowing users to better interact with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to how interactivity enables users to explore, analyze, and interpret complex data more effectively. The course explores what defines interactive data visualization, and why interactive elements enhance comprehension. We will also cover the technological landscape, and its evolution to open this new avenue for storytelling. Through labs, the students will be introduced to a curated selection of the modern technologies that can be used to create interactive data visualizations. By the end of the course, students will be able to articulate why interactivity is so valuable, and create compelling, interactive data visualizations tailored to different audiences and use cases, as well as a working knowledge of observable / d3.js and other web-based visualization technologies. No previous development experience is required, but some exposure to HTML/CSS/JS would be helpful.
+
+DATA 74000 (54965) - Data, Culture and Society
+In person
+Wednesday, 4:15 - 6:15 PM, 3 Credits, Prof. Kevin Ferguson (kferguson@qc.cuny.edu)
+
+Note: DATA 74000 satisfies as a Data Studies distribution core course
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engines outputs, car routes, airline prices, and advertising content.
+
+In this course, we explore the social, political, and cultural impact of our society’s reliance on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, visualization, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data—statistics, visualization, data mining, and machine learning.
+
+The course will be structured around four broad concepts that inform data studies: defining data, algorithms, networks, and terms of service. This way, we will look at problems such as: how do we define data and where does it reside, what cultural values are encoded in the algorithms that present data to us, how does data travel unequally in the world, and how does big cultural data impact individuals and society.
+
+Students will be expected to participate in class discussions, contribute to a weekly course blog, to present an oral presentation on a data case study (e.g., Cambridge Analytica, net neutrality, EU’s Right to Be Forgotten, Edward Snowden, Amazon Alexa, or the Memex), and to write a final research paper.
+
+DATA 70600 (54966) - Special Topics in Computational Fundamentals: “AI-Assisted Programming”
+Online
+Thursday, 6:30 - 7:30 PM, 1 Credit, Prof. Stephen Zweibel (Szweibel@gc.cuny.edu)
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This course teaches graduate students to investigate and understand code, using AI coding assistants as both collaborator and object of study. Students use AI (Claude Code) to generate web applications, then learn to explore what the models built by tracing connections between files, diagnosing errors, verifying claims against documentation, recognizing hallucinations, and navigating technical environments with confidence. Students develop critical skills for working with AI-generated code: when to trust suggestions and when to investigate further, how to debug systematically, how to maintain agency over technical decisions. The course emphasizes transferable investigation skills that are becoming increasingly essential as AI tools adoption grows across domains.
+
+*No programming experience required.* Students should be curious about technology and willing to experiment.
+
+DATA 78000-01 (55803) - Special Topics: “Software Design Lab: Creative Computing”
+In Person
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Omar Nema (omarwnema@gmail.com)
+Cross-listed with DHUM 71000
+
+Software Design Lab is an introduction to software development as a practice and creative medium through a hands-on approach.
+
+This course will guide students in developing a coding craft that is grounded in iterative design and self-expression. This is a hands-on course that is light on theory: you will learn to code by gradually building their own interactive projects. You will explore how software can be used as a creative medium, and how it can be integrated into an existing research or artistic practice.
+
+The course is run in a studio format, which means all students are expected to participate in the making, discussing, and critiquing work. Coursework will center around two web-based programming projects.
+
+Prior coding experience is not required, and many students with no coding experience have succeeded in this course. However, if you are completely new to coding, expect a relatively steep learning curve in the 4-6 weeks of the course.
+
+DATA 78000-02 (55804) - Special Topics: “Categorical Data Analysis in Python"
+Online
+Wednesday, 6:30 - 8:30 PM, 3 Credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu)
+Cross-listed with QMSS 75000
+
+Note: Categorical Data Analysis in Python satisfies as a Data Analysis distribution core course.
+
+Note: Students should have at least a basic knowledge of statistical coding to do the required work for the course.
+
+In this class, we'll examine a variety of methods for modeling categorical data using examples from the social sciences. Among the statistical tools included are contingency tables and odds, binary and multivariate logistical regression, and Poisson/negative binomial regression for modeling count data. We'll examine real-world data sources including surveys, the US Census, New York City's open data portal, and text as data.
+
+DATA 78000-03 (55805) - Special Topics: “Agentic AI”
+In person
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Michelle McSweeney (michelleamcsweeney@gmail.com)
+Cross-listed with DHUM 78000
+
+Prerequisite note. Students should:
+
+Have familiarity with Python and SQL, and be able to read and understand scripts written in both languages;
+Have a basic understanding of what a database is.
+
+This course explores the emergence of agentic artificial intelligence—AI systems with access to tools that are designed to operate with varying degrees of autonomy in complex, dynamic environments.
+
+As these systems are rapidly adopted across industries, it marks a fundamental shift from computers-as-tools to computer programs that no longer need human input to accomplish tasks. Though there are a wide range of definitions for what constitutes an “agent”, the core idea is centered on autonomy, and the ability to non-deterministically direct tasks without direct human involvement. As AI evolves from isolated tools into systems capable of independent action (with “agency”), understanding the technical foundations, ethical questions, and social risks becomes increasingly vital for shaping this technology to mirror the world that we want. By bringing a critical lens to both the technology and its application, the goal of this course is for students to be able to confidently engage with—and shape—the future of agentic AI. Students will architect and build an agentic workflow leveraging at least one LLM decision point, and use that experience along with foundational readings to develop an informed, grounded perspective on agentic AI systems and the cultural/social questions they surface.
+
+This course will be taught using Databricks as the primary development platform though students are welcome to use any LLM orchestration method they prefer.
+
+DATA 78000-04 (55806) - Special Topics: “AI for What?: Developing Critical AI Practices with Mission-Driven Organizations"
+In person
+Wednesday, 11:45 AM - 1:45 PM, 3 Credits, Prof. Kathleen (Katie) M. Cumiskey (Katie.Cumiskey@csi.cuny.edu)
+Cross-listed with PSYC 80100/DHUM 78000/EES 79903
+
+This studio-style course brings students and mission-driven organizations together as equal collaborators to co-create critical AI practices and approaches to emerging technologies. Each week, organizational partners join the class to share real-world contexts and engage in dialogue and design. A critical narrative of tech integration will center equity, transparency, and community voice. Field placements extend this collaboration as mixed teams conduct needs assessments and develop implementation strategies focused on shaping social outcomes and organizational effectiveness and efficiencies. The semester culminates in a jointly authored, portfolio-ready deliverable grounded in community priorities and critical AI practice.
+
+Possible Course of Interest
+
+SOC 71600-01 (55331) Sociological Statistics II
+In person, Room 6418
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Jeremy Porter
+
+Note: Students will work with R and learn linear modeling. The class is the 2nd step of a progression that builds on the stats I course, so many of the concepts and assignments will assume prior knowledge of foundational intro to stats concepts. Beyond that, the class is very accessible.
+
+The broad focus of this course will be on applications of multivariate analysis in social science research, including Multiple Regression, Multivariate Analysis of Variance/Covariance, Factor Analysis, Categorical Data Analysis, among other relevant topics. The goals of this course are to provide students with an understanding of the principles underlying commonly used multivariate analysis approaches within the field of Sociology. Specifically, students will 1) acquire an understanding of some fundamental concepts in multivariate statistics, 2) become proficient in the performance of corresponding statistical procedures, and 3) be able to appropriately communicate these statistical concepts and skills to academic and lay audiences.
+
+For permission to register, or if any questions, email Professor Jeremy Porter and Program Coordinator Rati Kashyap.and Program Coordinator Rati Kashyap .
+
+Fall 2025
+
+DATA 71000 - Data Analysis Methods (52981)
+Online
+Monday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Note: DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference. Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including Excel, SPSS, Stata and R.
+
+DATA 73200 - Interactive Data Visualization (52986)
+Online
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+Note: DATA 73200 satisfies as a Data Visualization distribution core course
+
+Interactive Data Visualization is one of the most engaging forms of communication today — allowing users to better interact with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to how interactivity enables users to explore, analyze, and interpret complex data more effectively. The course explores what defines interactive data visualization, and why interactive elements enhance comprehension. We will also cover the technological landscape, and its evolution to open this new avenue for storytelling. Through labs, the students will be introduced to a curated selection of the modern technologies that can be used to create interactive data visualizations. By the end of the course, students will be able to articulate why interactivity is so valuable, and create compelling, interactive data visualizations tailored to different audiences and use cases, as well as a working knowledge of observable / d3.js and other web-based visualization technologies. No previous development experience is required, but some exposure to HTML/CSS/JS would be helpful.
+
+
+DATA 74000 - Data, Culture and Society (52984)
+Hybrid, Room 5383
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Katherine Behar (katherine.behar@baruch.cuny.edu)
+In-Person dates: 8/26, 9/16, 10/7, 10/28, 11/11, 12/9
+Zoom dates: 9/2, 9/9, 9/30, 10/21, 11/4, 11/18, 11/25, 12/2
+
+DATA 74000 satisfies as a Data Studies distribution core course
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+In this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning.
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions?
+
+DATA 71200 - Advanced Data Analysis Methods (52983)
+In person, Room 5417
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Johanna Devaney (Johanna.Devaney@brooklyn.cuny.edu)
+Note: Asynchronous class sessions on 9/2, 10/7, 11/4 and 12/2
+
+DATA 71200 satisfies as a Data Analysis distribution core course
+
+Note: Students should have at least a basic knowledge of Python to do the required work for the course. Course website: https://data71200f25.commons.gc.cuny.edu/
+
+This course will provide students with skills necessary to apply machine learning techniques to data, and interpret and communicate their results. They will also begin to develop intuitions about when machine learning is an appropriate tool versus other statistical methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks. This is an applied machine learning class, which emphasizes the intuitions and know-how needed to get learning algorithms to work in practice, rather than mathematical derivations.
+
+The course will be taught in Python, primarily using teh scikit-learn library. The course's main text will be the O'Reilly book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas C. Müller, along with the book's corresponding Jupyter notebooks. We will also be referencing "The Elements of Statistical Learning" by Trevor Hastie, Jerome H. Friedman, and Robert Tibshirani for examining some of the topics in more depth (this book is available for free from the first author's website: https://hastie.su.domains/ElemStatLearn/
+
+DATA 78000 Special Topics: "Data Bias - How Big Data Increases Inequality" (55052)
+In person, Room 8203
+Wednesday, 4:15-6:15 PM, 3 Credits, Prof. Allen Hillery (allen.hillery@cuny.edu)
+DATA 78000 “Data Bias” satisfies as a Data Studies distribution core course
+
+Data Bias occurs when data or information is limited in some way, painting an inaccurate representation of the population being analyzed or not telling the full story of the population. It has the capacity to impact individuals, businesses, and even societies at large.
+In this course, we will discuss the impacts of data bias when it comes to inequity and threat to our democracy. We will analyze examples of algorithmic bias through various case studies found in Cathy O'Neil's, Weapons of Math Destruction and Dr. Brandeis Marshalls', Data Conscience. Dr. Marshall encourages us to not automatically dismiss outliers but instead to explore them.
+
+Our course will be a mix of group discussion, reviewing case studies, and additional coursework.
+
+DATA 70500 - Working with Data: Fundamentals (52985)
+Online
+Wednesday, 6:30 - 8:30 PM, 3 Credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu)
+
+DATA 70500 satisfies as a Data Analysis distribution core course
+
+The “data revolution” has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data using Python and Google's Colab programming environment. We’ll combine a critical sociological view of data practices with examples that illustrate the logic of analysis as an introduction to quantitative research methods. We’ll begin with a broader examination of data and society. How do data practices in contemporary institutions shape communities and society? What do data analysts need to know about the data landscape to be effective? Then we’ll take a look at some of the tools used by data analysts to produce knowledge in various settings, including survey data, demographic data, social media (text analysis), and other forms of open data relevant to public policy and other applied settings.
+
+DATA 73000 - Visualization and Design (52980)
+In person, Room 5417
+Thursday, 6:30 - 8:30 PM, 3 Credits, Prof. Julia Bloom (julia.c.bloom@gmail.com)
+Cross-listed with DHUM 73000
+
+Note: DATA 73000 satisfies as a Data Visualization distribution core course
+
+We live in a data-driven society where decisions are increasingly shaped by an analysis of “the data”, often communicated through visualizations. This course offers an introduction to the ever-evolving world of data visualization, beginning with its historical origins and culminating with a look toward the future of data viz and data-as-art. Through lectures, we will discuss the principles of good design and visual storytelling and practice how to understand, interpret, and communicate data for an audience effectively. Using Tableau as our primary tool, we will develop hands-on skills in cleaning, transforming, and connecting complex datasets, selecting appropriate chart types based on data structure and variable types, and constructing engaging narratives through visualization. Students will also engage in the iterative process of visualization through a series of 3 individual projects, and learn how to develop research questions, locate relevant datasets, interpret their findings, and exchange constructive feedback on their design choices. We will finish out the semester with a discussion of data as an artistic medium, examining how the visual language of art and design can critique and reimagine the role of data in society. Regardless of your academic concentration, you will walk away from this class with a portfolio of impressive visual analyses and a versatile, interdisciplinary skill set to apply in academic, professional, and creative pursuits.
+
+DATA 70600 - Special Topics in Computational Fundamentals: Python (52978)
+Online
+Thursday, 6:30 - 7:30 PM, 1 Credit, Prof. Stephen Zweibel (Szweibel@gc.cuny.edu)
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This course is an introduction to Python, a general-purpose programming language with increasing popularity among academics and in the industry. In the course, we will cover different coding tools, working with text editors, and how to run python scripts. We will learn the fundamentals of programming languages, such as variables, functions, types, conditionals, and loops. After that, we will introduce tools for data analysis and web scraping. This course has a very hands-on approach, and students are expected to engage with exploratory analysis both in the class and out of the class. No previous programming knowledge is required.
+
+Summer 2025
+
+DATA 70600 - Special Topics in Computational Fundamentals: RStudio for 3D Geospatial Rendering (10935)
+Online
+5:00 p.m. - 7:00 p.m., 1 Credit, Sam O’Hana Grainger, (sohanagrainger@gradcenter.cuny.edu)
+Course dates: 6/2, 6/4, 6/5, 6/9, 6/11, 6/13, 6/18
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This course introduces students to the fundamentals of geospatial rendering with R and RStudio, using the relatively recent development of the Rayshader package developed by Tyler Morgan Wall. This package is useful for students seeking to create accurate, high resolution 3D images of geographic terrain, and draw attention to its essential features such as river basins, tree cover, population density and infrastructural networks. Students will be evaluated on a final mini project presented during the final session, with opportunities to develop their ideas in consultation with fellow students. While no experience with R & RStudio is necessary (and this course can serve as an introduction for complete beginners with that language) students should have some basic familiarity with coding in general and with development environments. Thoughtful, critical and reflective use of artificial intelligence will be permitted but students will be expected to show in-depth knowledge and understanding of all scripts and output submitted for assessment. Students can look up #rayshader on Bluesky to see examples of work being done by current scholars.
+
+Spring 2025
+
+DATA 74000 - Data, Culture, and Society (53530)
+Online
+Monday, 4:15 - 6:15 PM, 3 Credits, Prof. James Lowry (James.Lowry@qc.cuny.edu)
+DATA 74000 satisfies as a Data Studies distribution core course
+
+Data and the infrastructures, systems and methods that support its use have and are changing research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc. In this course, we will explore the social, political, and cultural impact of ubiquitous but often imperfect data creation, transmission, storage, organization, publication and use. We will also discuss the possibilities, limitations, and implications of using data-centric methods to solve the social, political, and cultural problems facing us today. We will ask and seek to answer questions such as: What are the histories and possible futures of the networks, technologies and practices we have developed to work with data? How can we use data to question what we know about society and culture? How is data political, and how has and can it be weaponized for and against populations, social movements, etc? What cultural and subcultural practices have emerged or changed as data and its technologies have permeated everyday life? What new theoretical concepts do we need to deal with the scale of born-digital culture, and what ethics do we need to develop to address data’s uses and misuses?
+
+DATA 70600 (54966) - Special Topics in Computational Fundamentals: JavaScript (53544)
+Online
+Monday, 6:30 - 7:30 PM, 1 Credit, Prof. Stephen Zweibel (Szweibel@gc.cuny.edu)
+Cross-listed with DHUM 70600
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This is a basic introduction to JavaScript, which is the programming language of the web. The class is designed for anyone interested in developing a website, or creating an interactive data visualization. By the end of this course, you will be able to read JavaScript you find online, and adapt it to your needs. You will have an opportunity to work with common JavaScript libraries/tools.
+
+DATA 73000 - Visualization and Design (53532)
+In person, Room 5417
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Julia Bloom (julia.c.bloom@gmail.com)
+Cross-listed with DHUM 73000
+
+DATA 73000 satisfies as a Data Visualization distribution core course
+
+We live in a data-driven society where decisions are made based on analysis of “the data.” Frequently, that data is presented in the form of visualizations. The practice of visualization has data at its core, and accurate, clear visual presentation depends on deeply understanding the nature and nuance of a dataset. Visualization is also inextricably linked with communication and storytelling. This course situates the practice of data visualization within a larger context of data literacy and data ethics. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. We will finish the semester with a discussion of data as an artistic medium and explore how the visual language of art offers a critique and commentary on data itself. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skill set ready to leverage in your academic, professional, and creative work.
+
+DATA 78000 - Special Topics: “Software Design Lab: Creative Computing” (53529)
+In Person, Room 6494
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Omar Nema (omarwnema@gmail.com)
+Cross-listed with DHUM 71000
+
+Software Design Lab is an introduction to software development as a practice and creative medium through a hands-on approach.
+
+This course will guide students in developing a coding craft that is grounded in research, iterative design, and self-expression. Software Design Lab will introduce development methodologies through a hands-on approach: students will learn to code by gradually building their own interactive projects. Students will explore how software can be used as a creative medium, and how it can be integrated into their existing research or technical practices.
+
+The course is run in a studio format, which means all students are expected to participate in the making, discussing, and critiquing work. Coursework will center around two web-based programming projects. Topics covered include: HTML/CSS/Javascript, interactivity, and APIs. This course assumes no prior knowledge in software development.
+
+DATA 71000 - Data Analysis Methods (53533)
+Online
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Note: DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference. Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including Excel, SPSS, Stata and R.
+
+Fall 2024
+
+DATA 70600 - Special Topics in Computational Fundamentals: "CSS, HTML, and Markdown for Digital Publishing on Manifold" (52400)
+In-person, Room 3308
+Monday, 5:15 - 6:15 PM, 1 Credit. Prof. Robin Miller (rmiller2@gc.cuny.edu)
+Cross-listed with DATA 70600
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This is an introductory course that will explore the use of CSS, HTML, and Markdown to create projects on the Manifold digital publishing platform. The course is designed for anyone interested in learning about digital publishing and the basics of creating and formatting digital content. By the end of the course, students will be able to create a multimedia-rich project on Manifold that contains: text, image, audio, video, and interactive elements such as timelines and data visualizations. We will also cover digital publishing best practices for formatting content for accessibility. This course will be helpful for students who are exploring platforms to present their own work and/or final projects for the DH and DAV programs.
+
+DATA 70500 - Working with Data: Fundamentals (52397)
+Online
+Tuesday, 6:30 - 8:30 PM, 3 Credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu) 
+DATA 70500 satisfies as a Data Analysis distribution core course
+
+The “data revolution” has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data using Python and Google's Colab programming environment. We’ll combine a critical sociological view of data practices with examples that illustrate the logic of analysis as an introduction to quantitative research methods. We’ll begin with a broader examination of data and society. How do data practices in contemporary institutions shape communities and society? What do data analysts need to know about the data landscape to be effective? Then we’ll take a look at some of the tools used by data analysts to produce knowledge in various settings, including survey data, demographic data, social media (text analysis), and other forms of open data relevant to public policy and other applied settings.
+
+DATA 78000 Special Topics: "Data Bias - How Big Data Increases Inequality" (52401)
+Hybrid, Room 3207
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Allen Hillery (allen.hillery@cuny.edu) 
+DATA 78000 “Data Bias” satisfies as a Data Studies distribution core course
+In-person dates: 9/9, 9/16, 10/7, 10/28, 11/4, 11/11, 12/2
+Online dates: 9/23, 9/30, 10/15, 10/21, 11/18, 11/25
+TBD: 12/9
+
+Data Bias occurs when data or information is limited in some way, painting an inaccurate representation of the population being analyzed or not telling the full story of the population. It has the capacity to impact individuals, businesses, and even societies at large.
+In this course, we will discuss the impacts of data bias when it comes to inequity and threat to our democracy. We will analyze examples of algorithmic bias through various case studies found in Cathy O'Neil's, Weapons of Math Destruction and Dr. Brandeis Marshalls', Data Conscience. Dr. Marshall encourages us to not automatically dismiss outliers but instead to explore them.
+Our course will be a mix of group discussion, reviewing case studies, and additional coursework.
+ 
+
+DATA 73000 - Visualization and Design (52396)
+In-person, Room 5417
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Julia Bloom (julia.c.bloom@gmail.com)
+Cross-listed with DHUM 73000
+
+We live in a data-driven society where decisions are made based on analysis of “the data.” Frequently, that data is presented in the form of visualizations. The practice of visualization has data at its core, and accurate, clear visual presentation depends on deeply understanding the nature and nuance of a dataset. Visualization is also inextricably linked with communication and storytelling. This course situates the practice of data visualization within a larger context of data literacy and data ethics. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. We will finish the semester with a discussion of data as an artistic medium and explore how the visual language of art offers a critique and commentary on data itself. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skillset ready to leverage in your academic, professional, and creative work.
+
+DATA 71000 - Data Analysis Methods (52398)
+Online
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Note: DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference. Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages, including Excel, SPSS, Stata, and R.
+ 
+
+Summer 2024
+
+DATA 71200 - Advanced Data Analysis Methods
+Online
+5:30 - 7:30 PM, 3 Credits, Prof. Johanna Devaney (Johanna.Devaney@brooklyn.cuny.edu)
+DATA 71200 satisfies as a Data Analysis distribution core course.
+This course will be entirely online, with synchronous and asynchronous class sessions.
+Synchronous class dates: W 5/29, M 6/3, W 6/5, M 6/10, W 6/12, M 6/17, M 6/24, W 6/26
+
+Note: Students should have at least a basic knowledge of Python to do the required work for the course.
+
+This course will provide students will skills necessary to apply machine learning techniques to data, and interpret and communicate their results. They will also begin to develop intuitions about when machine learning is an appropriate tool versus other statistical methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks. This is an applied machine learning class, which emphasizes the intuitions and know-how needed to get learning algorithms to work in practice, rather than mathematical derivations.
+
+The course will be taught in Python, primarily using the scikit-learn library. The course's main text will be the O'Reilly book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas C. Müller, along with the book's corresponding Jupyter notebooks. We will also be referencing "The Elements of Statistical Learning" by Trevor Hastie, jerome H. Friedman, Robert and Tibshirani for examining some of the topics in more depth (this book is available for free from the first author's website).
+
+Spring 2024
+
+DATA 73200 - Interactive Data Visualization (53756)
+Online
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+DATA 73200 satisfies as a Data Visualization distribution core course
+
+Note: As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process. As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+DATA 70600 - Special Topics in Computational Fundamentals: D3 (53753)
+Online
+Tuesday, 5:15 - 6:15 PM, 1 credit, Prof. Nicole Cote (ncote@gradcenter.cuny.edu)
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This is a basic introduction to creating interactive visualizations for the web using D3.js. The class is designed for anyone interested in creating interactive data visualizations but lack prior knowledge of D3. By the end of this course, students will be able to understand the basics of using D3 and implement simple visualizations. This lab can be utilized as a basic primer for students who might want to take DATA 73200/Interactive Data Visualization in the future but do not yet have the prerequisites for that course, as well as for those who might want a more general sense of the tool and its possibilities but may not be able to commit to a larger course. Having an introductory sense of GitHub prior to taking the course would be useful but is not required.
+
+Please note: This course is designed for students who have not previously taken DATA 73200/Interactive Data Visualization or are not registering to do so in the same semester.
+
+DATA 73000 - Visualization and Design (53799)
+In person
+Thursday, 6:30 - 8:30 PM, 3 credits, Prof. Julia Bloom (julia.c.bloom@gmail.com)
+Cross-listed with DHUM 73000
+DATA 7300 satisfies as a Data Visualization distribution core course
+Room 5417
+
+We live in a data-driven society where decisions are made based on analysis of “the data.” Frequently, that data is presented in the form of visualizations. The practice of visualization has data at its core, and accurate, clear visual presentation depends on deeply understanding the nature and nuance of a dataset. Visualization is also inextricably linked with communication and storytelling. This course situates the practice of data visualization within a larger context of data literacy and data ethics. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. We will finish the semester with a discussion of data as an artistic medium and explore how the visual language of art offers a critique and commentary on data itself. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skillset ready to leverage in your academic, professional, and creative work.
+
+DATA 73000 - Visualization and Design (54763)
+In person
+Monday, 6:30 - 8:30 PM, 3 credits, Prof. Abe Rubenstein (sighrobot@gmail.com)
+Cross-listed with DATA 73000
+DATA 73000 satisfies as a Data Visualization distribution core course
+Room 5383
+
+This course covers fundamentals of data visualization and graphic design. We will study and practice common visualization techniques for a single and multiple variables, quantitative and categorical data, networks, spatial and temporal data. Students will also learn the key principles of modern design as they apply to the design of static, animated and interactive visualizations, data-centric publications, maps, and other common types of data design. The principles cover use of form, proportion, color, composition, design grids, basics of typography, hierarchical organization of information, systematic use of design variables, rhythm, and design patterns. Finally, students will be also introduced to the fields of user experience and user interaction that today underlie professional interaction design.
+
+DATA 74000 - Data, Culture, and Society (53775)
+Online
+Thursday, 6:30 - 8:30 PM, 3 Credits, Prof. James Lowry (James.Lowry@qc.cuny.edu)
+DATA 74000 satisfies as a Data Studies distribution core course
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+In this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning.
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions?
+
+DATA 71000 - Data Analysis Methods (53779)
+Online
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Note: DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference.  Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including Excel, SPSS, Stata and R.
+
+Fall 2023
+DATA 70500 - Working with Data: Fundamentals (53242)
+
+Online
+Monday, 6:30 - 8:30 PM, 3 credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu) 
+
+Note: DATA 70500 satisfies as a Data Analysis distribution core course.
+
+The “data revolution” has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data using Python and Google's Colab programming environment. We’ll combine a critical sociological view of data practices with examples that illustrate the logic of analysis as an introduction to quantitative research methods. We’ll begin with a broader examination of data and society. How do data practices in contemporary institutions shape communities and society? What do data analysts need to know about the data landscape to be effective? Then we’ll take a look at some of the tools used by data analysts to produce knowledge in various settings, including survey data, demographic data, social media (text analysis), and other forms of open data relevant to public policy and other applied settings.
+
+DATA 70600 - Special Topics in Computational Fundamentals: JavaScript (53148)
+
+Online
+Thursday, 6:30 - 7:30 PM, 1 Credit, Prof. Stephen Zweibel (Szweibel@gc.cuny.edu) 
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This is a basic introduction to JavaScript, which is the programming language of the web. The class is designed for anyone interested in developing a website, or creating an interactive data visualization. By the end of this course, you will be able to read JavaScript you find online, and adapt it to your needs. You will have an opportunity to work with common JavaScript libraries/tools.
+
+DATA 71000 - Data Analysis Methods (53244)
+
+Hybrid
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu) 
+In person/online dates TBD
+
+Note: DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference.  Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including Excel, SPSS, Stata and R.
+
+DATA 73200 - Interactive Data Visualization (53908)
+
+Online
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+DATA 73200 satisfies as a Data Visualization distribution core course
+
+Note: As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process. As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+ 
+
+DATA 78000 - Special Topics: “Software Design Lab: Creative Computing” (53244)
+
+In Person
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Omar Nema (omarwnema@gmail.com) 
+Cross-listed with DHUM 71000
+
+Software Design Lab is an introduction to software development as a practice and creative medium through a hands-on approach.
+
+This course will guide students in developing a coding craft that is grounded in research, iterative design, and self-expression. Software Design Lab will introduce development methodologies through a hands-on approach: students will learn to code by gradually building their own interactive projects. Students will explore how software can be used as a creative medium, and how it can be integrated into their existing research or technical practices.
+
+The course is run in a studio format, which means all students are expected to participate in the making, discussing, and critiquing work. Coursework will center around two web-based programming projects. Topics covered include: HTML/CSS/Javascript, interactivity, and APIs. This course assumes no prior knowledge in software development.
+
+DATA 78000 - Special Topics:  "Public Interest Technology" (53156)
+
+Hybrid
+Monday, 4:15 - 6:15 PM, 3 Credits, Prof. Lisa Rhody (lrhody@gc.cuny.edu) 
+In person/online dates TBD
+Cross-listed with DHUM 78000
+
+Note: DATA 78000 “Public Interest Technology” satisfies as a Data Studies distribution core course.
+
+On the eve before its launch in 2013, HealthCare.gov, the health care insurance exchange website at the center of the Affordable Care Act, crashed and continued to crash over the following months. It was hampered by technical glitches, inflated costs, inefficiencies, user frustration, and an inadequate capacity to meet demand. Intended to be the Obama Administration’s crowning achievement and a demonstration of the potential modern technologies held for improving public services, HealthCare.gov confirmed public attitudes about government inefficiencies and its inability to solve large-scale social challenges.
+
+This course will take up the question: What does technology designed, deployed, and sustained in the public interest look like? We will explore a wide range of technological situations from design practices to public policy, research, data privacy, social justice, platform development, data visualization, and artificial intelligence and consider what it means to develop technological innovations that center the communities they are designed to serve. The term Public Interest Technology (PIT) is most notably associated with New America’s financial investments in the field; therefore, we will consider the tensions between public and private funding, and their influence in developing technologies for the common good.
+
+We will assemble a theoretical and historical framework in which to situate PIT, explore the legal, ethical, and practical challenges to public data privacy, management, and sustainability, and identify existing PIT projects with an eye toward their design, implementation, and funding. Readings will include selections from such works as Black Software: The Internet & Racial Justice, From the AfroNet to Black Lives Matter (2019) by Charlton McIlwain, Design Justice: Community-Led Practices to Build the Worlds We Need (2020) by Sasha Costanza-Chock, Automating Inequality: How High Tech Tools Profile, Police, and Punish the Poor (2018) by Virginia Eubanks, Artificial Unintelligence (2016) and More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech (2023) by Meredith Broussard, Race After Technology (2019) by Ruha Benjamin, and Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition (2021) by Wendy Hui Kong Chun. These readings will be supplemented with articles, white papers, and project reports on the economics and politics of public infrastructures and funding (e.g. Undoing the Demos: Neoliberalism’s Stealth Revolution (2015) by Wendy Brown, “The Tragedy of the Commons” (1968) by Garrett Hardin, and The Uncommon Knowledge of Elinor Ostrom by Erik Nordman). By the end of the course, students will be familiar with the ethical, political, bureaucratic, public policy, social justice, economic, and design challenges faced by PIT technologists, as well as career and project opportunities in the field.
+
+DATA 78000 - Special Topics: “Large Language Models and ChatGPT” (53910)
+
+In person
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Michelle McSweeney (michelleamcsweeney@gmail.com) 
+Cross-listed with DHUM 78000
+
+Note: An introductory level familiarity with Python is required.
+
+Large language models (LLMs) such as ChatGPT and Bard have demonstrated an uncanny ability to interpret and generate text, and with that, the potential to revolutionize industries and reshape society. However, their complexity makes them difficult to understand, often hiding their implicit assumptions. This course introduces students to the development and use of LLMs in natural language processing (NLP), covering fundamental topics in probability, machine learning, and NLP that make LLMs possible. With this technical foundation in view, students will explore the social and ethical implications of LLMs, including privacy, bias, accountability, and their impact on creative production, education, and labor. By the end of the course, students will have a solid understanding of the basic technical foundations and will be able to contribute to conversations on the social and ethical implications of LLMs.
+
+Summer 2023
+DATA/DHUM 70600 - Special Topics in Computational Fundamentals: Free and Open Source Software (FOSS) for Web Maps (10947)
+
+Online
+Wednesdays, 5:30 - 7:15 PM, 1 Credit, Prof. Will Field (wfield@gc.cuny.edu)
+Course Dates: 6/7, 6/14, 6/21, 7/5, 7/12, 7/19, 7/26, 8/2, 8/9, 8/16
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+Free and Open Source Software (FOSS) for creating web maps has become ubiquitous and offers numerous advantages over proprietary software. This class will look at open source tools for creating custom web maps with html, css, and javascript. In particular we will focus on MaplibreGLJS, OpenLayers, and Leafletjs. Students will gain a working knowledge of web mapping foundations and survey the current state of the FOSS ecosystem. The final project will be an interactive web map.
+
+Please note: An introductory level familiarity with HTML, JS, and CSS is required. Students will also need access to a computer that they can install free software on. Any operating system is ok. To get up to speed, students concerned about prerequisites can follow these tutorials:
+
+HTML/CSS for beginners
+JS for beginners
+Spring 2023
+DATA 73000 - Visualization and Design (#55619)
+
+In Person, Room 5383
+Monday, 6:30 - 8:30 PM, 3 credits, Prof. Michelle McSweeney (michelleamcsweeney@gmail.com)  
+Cross-listed with DHUM 73000
+
+DATA 73000 satisfies as a Data Visualization core course.
+
+Data is everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+Objectives: 
+
+By the end of this class, students will be able to:
+• Build interactive data visualization dashboards that answer a clear and purposeful research question;
+• Choose which chart type works best for different types of data;
+• Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices;
+• Structure thoughtful critiques and communicate technical questions and solutions; Leverage collaborative tools, including Tableau Public, Wordpress, and repositories of public data sets;
+• Contribute to the broader conversation about digital practices in academic research;
+• Critically read a wide range of chart types with an eye for accuracy, audience, and effectiveness;
+• Identify potential weaknesses in the collection methods and structure of underlying data sets Locate the original source of a visualization and its data.
+
+DATA 70600 - Special Topics in Computational Fundamentals: Python (#55620)
+
+Hybrid, Room 3207
+Monday, 5:15 - 6:15 PM, 1 credit, Prof. Filipa Calado (fcalado@gradcenter.cuny.edu)
+In-person dates: 1/30, 2/6, 2/21, 2/27, 4/24, 5/1, and 5/8. All other classes online.
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits. 
+
+This course is an introduction to Python, a general-purpose programming language with increasing popularity among academics and in the industry. In the course, we will cover installations, different coding tools, working with text editors, the basics of the command line and how to run scripts on it. We will learn the fundamentals of programming languages, such as variables, functions, types, conditionals, and loops. After that, we will introduce Python for Text Analysis with the NLTK library and for Data Analysis with the Pandas library. This course has a very hands-on approach, and students are expected to engage with exploratory analysis both in the class and out of the class. No previous programming knowledge is required.
+
+DATA 78000 - Special Topics: “Methods of Text Analysis” (#55618)
+
+Hybrid, Room 5383
+Monday, 4:15 - 6:15 PM, 3 credits, Prof. Lisa Rhody (lrhody@gc.cuny.edu)
+In-person dates: 1/30, 2/6, 2/21, 2/27, 3/6, 5/15. All other classes online.
+Cross-listed with DHUM 72500 
+
+This course takes as its guiding questions: "Can there be such a thing as a feminist text analysis?" and "What does it mean to do computational text analysis in a humanities context?" Through reading and practice we will examine the degree to which problematic racist, sexist, colonialist, corporate, and gender-normative assumptions that activate algorithmic methods impact humanistic inquiry through text analysis, and how the humanist can formulate effective research questions to explore through methods of text analysis.
+
+Taking a completely different approach to the topic "methods of text analysis," this course will consider what it means to "analyze" a "text" with computers within a humanistic context, with an emphasis on shaping effective research questions over programming mastery. How does the language of analysis draw on Western traditions of empiricism in which "the text" occupies a position of authority over other forms of representation? What is the difference between "text analysis" and "philology"? What is being "analyzed" when we count, tokenize, measure, and classify texts with computers? And, importantly, how do the questions we are asking align with the methods we are using?
+
+The course will be organized according to the stages of the research process as articulated in our fist week reading, to be completed in advance of our first meeting: "How we do things with words: Analyzing text as social and cultural data," which can be downloaded here. While students will receive materials to help them learn Python and to develop their own text analysis projects, this will not be the objective of the course or the source of evaluation. However, students will be required to develop a literacy in Python and packages frequently used to perform text analysis. Students will be required to complete weekly Jupyter notebook assignments that have significant portions of text analysis activities already completed. Supplementary information about programming and text analysis will be provided to complete in a self directed way using a free DataCamp account. Final projects will include a portfolio of 14 completed Jupyter notebook assignments, an in-class debate, and a five to eight page position paper.
+
+Exploring terms such as "non-consumptive" and "black box algorithms," this course takes up the affordances and costs of computationally enabled modeling, representation, querying, and interpretation of texts. We will ask questions such as, "Can you 'lead a feminist life' (Ahmed) that is heavily mediated by methods of text analysis?" Readings will include articles by Sarah Ahmed, Mary Beard, Meredith Broussard, Lauren Klein, Wendy Chun, Tanya Clement, Miriam Posner, Liz Losh, Tara MacPherson, Johanna Drucker, Andrew Goldstone, Safiya Noble, Bethany Nowviskie, Andrew Piper, Steve Ramsay, Laura Mandell, Susan Brown, Richard Jean So, and Ted Underwood.
+ 
+
+DATA 74000 - Data, Culture and Society (#55614)
+
+In Person, Room 5382
+Wednesday, 6:30 - 8:30 PM, 3 credits, Prof. Kevin Ferguson (kferguson@qc.cuny.edu)
+
+DATA 74000 satisfies as a Data Studies core course.
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engines outputs, car routes, airline prices, and advertising content.
+
+In this course, we explore the social, political, and cultural impact of our society’s reliance on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, visualization, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data—statistics, visualization, data mining, and machine learning.
+
+The course will be structured around four broad concepts that inform data studies: defining data, algorithms, networks, and terms of service. This way, we will look at problems such as: how do we define data and where does it reside, what cultural values are encoded in the algorithms that present data to us, how does data travel unequally in the world, and how does big cultural data impact individuals and society.
+
+Students will be expected to participate in class discussions, contribute to a weekly course blog, to present an oral presentation on a data case study (e.g., Cambridge Analytica, net neutrality, EU’s Right to Be Forgotten, Edward Snowden, Amazon Alexa, or the Memex), and to write a final research paper.
+
+DATA 73200 - Interactive Data Visualization (#55616)
+
+Hybrid, Room 3207
+Tuesday, 6:30 - 8:30 PM, 3 credits, Prof. Mia Szarvas (msszarvas@gmail.com)
+Online dates 2/28, 3/7, and 3/14. All other dates meet in person.  
+DATA 73200 satisfies as a Data Visualization core course
+
+Note: As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process. 
+
+DATA 78000 - Special Topics: “Advanced Interactive Data Visualization Studio" (#55613)
+
+Online
+Tuesday, 6:30 - 8:30 PM, 3 credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+DATA 78000 “Advanced Data Vis Studio” satisfies as a Data Visualization core course 
+
+Note: By permission of the instructor with the Registrar.
+
+This course will offer students the opportunity to develop a professional level data visualization project of their choice. This course will be a supervised studio-style class, with the goal of helping students push forward their own design and development practice — as such, the course will support students through the process of concept development, design iteration, technical implementation, critique, and refinement. Students will pursue their individual interests while working in the context of a hands-on studio environment where they will interact and share ideas with peers.  The expectation is that students are motivated and prepared to develop their own project and goals.
+
+A portion of the semester will also consist of a series of advanced technical workshops. The topics of these workshops will be informed by the tools students need in order to push their work forward. As such, this class will be both technically and conceptually challenging. It is strongly recommended that students complete ‘Interactive Data Visualization’ prior to taking this course, or have comparable experience with Javascript, HTML, and CSS. Ultimately, the goal is for each student to finish the semester with a professional level project they feel proud of.
+
+DATA 71000 - Data Analysis Methods (#55615)
+
+Online
+Thursday, 4:15 - 6:15 PM, 3 credits, Prof. Liza Steele (lsteele@jjay.cuny.edu)
+DATA 71000 satisfies as a Data Analysis core course  
+
+The goal of this course is to provide students with an introduction to basic statistical techniques for analyzing data. Students will develop an understanding of concepts underlying modern statistics and statistical reasoning that will equip them with tools to analyze and visualize a variety of data types and data sources. We will first learn principles of descriptive statistics. Next, we will cover principles and techniques of inferential statistics. Students will explore various statistical measures and techniques for analyzing data, and practice applying this knowledge to real-world data problems. Practical topics include: descriptive and inferential statistics,  ordinary least squares regression, logistic regression, and exploratory data analysis.
+
+DATA 71200 - Advanced Data Analysis (#55617)
+
+Online
+Thursday, 4:15 - 6:15 PM, 3 credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+DATA 71200 satisfies as a Data Analysis core course
+
+Note: Students should have a working knowledge of Statistics (through Regression methods) and at least a basic knowledge of Python to do the work required in this course. The course will be taught in Python, primarily using the scikit-learn library. Successful completion of DATA 71000 Data Analysis Methods will satisfy the prerequisite requirement.
+
+
+This survey course is designed for students who want to extend their data analytic skills beyond a basic knowledge of multiple regression analysis, and who want to communicate their findings clearly to audiences of business groups, researchers, and other practitioners.  The course will introduce students to advanced data analytic methods and toolkits, including machine learning methods using the scikit learning library, that will equip them with the ability to perform analyses of complex data from business, industry, and the arts and sciences. The course will begin with an overview of regression analyses, including logistic regression, and continues with latent variable analysis and related exploratory data analytic methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks The course will offer conceptual explanations of these statistical techniques and will provide opportunities for students to implement and practice these techniques using real data with the goal of helping students develop a sense of when machine learning is an appropriate tool versus other statistical modeling methods. Students will be encouraged to use Python and sci-kit learning tools to produce readable and sensible code that will enable others to replicate and extend their analyses.  
+
+Fall 2022
+DATA 70500 - Working with Data: Fundamentals (52658)
+
+Online
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Tim Shortell (Shortell@brooklyn.cuny.edu)
+DATA 70500 satisfies as a Data Analysis distribution core course 
+
+This course covers the fundamentals of working with data. Students will be introduced to key disciplines that provide techniques used for working with small, medium and big data today—classical statistics, contemporary data science, machine learning, and data visualization. They will learn about different data types; what constitutes a valid dataset that can be analyzed quantitatively; how data should be formatted to create a valid dataset. The course will also explore fundamental theoretical questions that arise when we attempt to represent social or cultural phenomena as data. Particular attention will be focused on working with social network services data, user generated content, and other types of data about societies and individuals that have emerged recently (such as sensor data) and massive media datasets (images, video, text, sound, code, etc.). The course will explore fundamental database technologies and more recent techniques for working with real-time data flows.
+
+The “data revolution” has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data. We'll combine a critical view of data with examples that illustrate the logic of analysis.
+
+We’ll begin with a broader examination of data and society. How do data practices in contemporary institutions shape communities and society? Then we’ll take a look at some of the tools used by data analysts and data scientists to produce knowledge in various settings, including survey data, demographic data and other forms of open data relevant to public policy, and social media.
+
+DATA 71000 - Data analysis methods (60349)
+
+Online
+Thursdays, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (howard.everson@sri.com)
+DATA 71000 satisfies as a Data Analysis distribution core course
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference.  Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including, Excel, SPSS, Stata and R.
+
+DATA 73200 - Interactive Data Visualization (52656)
+
+Online
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+DATA 73200 satisfies as a Data Visualization distribution core course 
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process. As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+DATA 74000 - Data, Culture and Society (52657)
+
+Online
+Tuesday, 4:15 - 6:15 PM, 3 Credits, Prof. Katherine Behar (katherine.behar@baruch.cuny.edu)
+DATA 74000 satisfies as a Data Studies distribution core course 
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+In this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning.
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions?
+
+DATA 78000 - Special Topics: “Software Design Lab” (52699)
+
+In-person
+Tuesday 6:30-8:30pm, 3 Credits, Prof. Omar Nema (omarwnema@gmail.com)
+Cross-listed with DHUM 71000 
+
+Software Design Lab is an introduction to software development as a practice and creative medium through a hands-on approach.
+
+This course will guide students in developing a coding craft that is grounded in research, iterative design, and self-expression. Software Design Lab will introduce development methodologies through a hands-on approach: students will learn to code by gradually building their own interactive projects. Students will explore how software can be used as a creative medium, and how it can be integrated into their existing research or technical practices.
+
+The course is run in a studio format, which means all students are expected to participate in the making, discussing, and critiquing work. Coursework will center around two web-based programming projects. Topics covered include: HTML/CSS/Javascript, interactivity, APIs, data visualization, and the web as a system. This course assumes no prior knowledge in software development.
+
+DATA 73000 - Visualization and Design (52713)
+
+In-person
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Michelle McSweeney (michelleamcsweeney@gmail.com)
+DATA 73000 satisfies as a Data Visualization distribution core course
+Cross-listed with DHUM 73000
+
+Data is everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+By the end of this class, students will be able to:
+
+Build interactive data visualization dashboards that answer a clear and purposeful research question;
+Choose which chart type works best for different types of data;
+Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices;
+Structure thoughtful critiques and communicate technical questions and solutions; Leverage collaborative tools, including Tableau Public, Wordpress, and repositories of public data sets;
+Contribute to the broader conversation about digital practices in academic research;
+Critically read a wide range of chart types with an eye for accuracy, audience, and effectiveness;
+Identify potential weaknesses in the collection methods and structure of underlying data sets Locate the original source of a visualization and its data.
+DATA 70600 - Special Topics in Computational Fundamentals: JavaScript (52711)
+
+Online
+Thursday, 6:30 - 7:30 PM, 1 Credit, Prof. Stephen Zweibel (Szweibel@gc.cuny.edu)
+Cross-listed with DHUM 70600
+Note: This is a 1-credit, 1-hour lab course. Students can enroll in up to three 1-credit lab courses. 
+
+This is a basic introduction to JavaScript, which is the programming language of the web. The class is designed for anyone interested in developing a website, or creating an interactive data visualization. By the end of this course, you will be able to read JavaScript you find online, and adapt it to your needs. You will have an opportunity to work with common JavaScript libraries/tools.
+
+Summer 2022
+DATA 71200 - Advanced Data Analysis Methods (12373)
+
+Online, May 31st - June 22nd
+4:15 - 6:15 PM, 3 Credits, Prof. Johanna Devaney (Johanna.Devaney@brooklyn.cuny.edu)
+DATA 71200 satisfies as a Data Analysis distribution core course
+This course will be entirely online, with synchronous and asynchronous class sessions. Synchronous class dates: 5/31, 6/1, 6/2, 6/6, 6/8, 6/13, 6/15, 6/21, 6/22
+
+Note: Students should have at least a basic knowledge of Python to do the required work for the course.
+
+This course will provide students will skills necessary to apply machine learning techniques to data, and interpret and communicate their results. They will also begin to develop intuitions about when machine learning is an appropriate tool versus other statistical methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks. This is an applied machine learning class, which emphasizes the intuitions and know-how needed to get learning algorithms to work in practice, rather than mathematical derivations.
+
+The course will be taught in Python, primarily using teh scikit-learn library. The course's main text will be the O'Reilly book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas C. Müller, along with the book's corresponding Jupyter notebooks. We will also be referencing "The Elements of Statistical Learning" by Trevor Hastie, jerome H. Friedman, Robert and Tibshirani for examining some of the topics in more depth (this book is available for free form the first author's website: https://web.stanford.edu/~hastie/Papers/ESLII.pdf [web.stanford.edu]
+
+DATA 70600 - Special Topics in Computational Fundamentals: Introduction to Front End Web Development (12377)
+
+In-person, June 28th - August 4th
+Tuesday & Thursday, 4:15 - 5:45 PM, 1 Credit, Prof. Will Field (wfield@gc.cuny.edu)
+Course Dates: 6/28, 6/30, 7/5, 7/7, 7/19, 7/21, 7/26, 7/28, 8/2, 8/4
+Cross-listed with DHUM 70600
+Note: This is a 1-credit summer lab course. Students can enroll in up to three 1-credit lab courses. 
+
+This class offers an introduction to website development using HTML, CSS, and JavaScript with a focus on JavaScript. The class is designed for anyone interested in developing a website, or creating an interactive data visualization. By the end of this course, you will be able to read JavaScript you find online, and adapt it to your needs. You will have an opportunity to work with common JavaScript libraries/tools.
+
+DATA 70600 - Special Topics in Computational Fundamentals: Mapmaking and Visual Storytelling (12378)
+
+Online, July 5th - August 4th
+Tuesday & Thursday, 6:30 - 8:00 PM, 1 Credit. Prof. Olivia Ildefonso (me@oliviaildefonso.com)
+Course Dates: 7/5, 7/7, 7/12, 7/14, 7/19, 7/21, 7/26, 7/28, 8/2, 8/4
+Cross-listed with DHUM 70600
+Note: This is a 1-credit summer lab course. Students can enroll in up to three 1-credit lab courses.
+
+In this class you’ll learn how to use ArcGIS Online and ESRI Story Maps to create engaging visual narratives. The course will begin with a lesson on the fundamentals of mapmaking, which includes a 101 on mapping concepts and an overview of mapping ethics. You will then spend the rest of the course working with a dataset from the 2020 U.S. Census to create an interactive, web-based map, an interactive dashboard, and a multimedia story map.
+
+Spring 2022
+DATA 70600 - Special Topics in Computational Fundamentals: Python (In Person) #62035
+
+Monday, 5:15 - 6:15 PM, 1 Credit, Prof. Rafael Davis Portela (rdportela@gmail.com)
+Cross-listed with DHUM 70600
+
+Note: This is a 1-credit, 1-hour lab course. Students may take a maximum of three 1-credit courses (a total of 3 credits) for elective credits.
+
+This course is an introduction to Python, a general-purpose programming language with increasing popularity among academics and in the industry. In the course, we will cover installations, different coding tools, working with text editors, the basics of the command line and how to run scripts on it. We will learn the fundamentals of programming languages, such as variables, functions, types, conditionals, and loops. After that, we will introduce Python for Text Analysis with the NLTK library and for Data Analysis with the Pandas library. This course has a very hands-on approach, and students are expected to engage with exploratory analysis both in the class and out of the class. No previous programming knowledge is required.
+
+DATA 73000 - Visualization and Design (In Person) #62036
+
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Michelle McSweeney (michelleamcsweeney@gmail.com)  
+Cross-listed with DHUM 73000
+DATA 73000 satisfies as a Data Visualization distribution core course
+
+Data is everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+By the end of this class, students will be able to:
+
+Build interactive data visualization dashboards that answer a clear and purposeful research question;
+Choose which chart type works best for different types of data;
+Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices;
+Structure thoughtful critiques and communicate technical questions and solutions; Leverage collaborative tools, including Tableau Public, Wordpress, and repositories of public data sets;
+Contribute to the broader conversation about digital practices in academic research;
+Critically read a wide range of chart types with an eye for accuracy, audience, and effectiveness;
+Identify potential weaknesses in the collection methods and structure of underlying data sets Locate the original source of a visualization and its data.
+SOC 81900 - Spatial Data Analysis (In Person), #60743
+
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Jeremy Porter (jporter@gc.cuny.edu)
+
+Note: This course is a recommended elective.
+
+Geographic Information Systems (GIS) has emerged as an essential tool for public health researchers and practitioners. The GIS for Public Health course will offer students an opportunity to gain skills in using GIS software to apply spatial analysis techniques to public health research questions. The laboratory section of the course will give students the opportunity for hands-on learning in how to use GIS systems to analyze data and produce maps and reports. These laboratory exercises will be designed to increasingly challenge the students to incorporate the analytic skills and techniques they have learned in other courses with the geospatial and spatial statistics techniques commonly used in GIS.
+
+DATA 78000 - Special Topics: "Introduction to GIS: Methods and Applications" (Online) #62037
+
+Tuesday, 6:30 - 8:30 PM, 3 Credits, Prof. Shipeng Sun (shipeng.sun@hunter.cuny.edu)
+Cross-listed with DHUM 73700
+Website
+
+This course combines an introduction to basic cartographic theory and techniques in humanities contexts with practical experience in the analysis, manipulation, and the graphical representation of spatial information. The course examines the storage, processing, compilation, and symbolization of spatial data; basic spatial analysis; and visual design principles involved in conveying spatial information. Emphasis is placed on digital mapping technologies, including online and offline computer based geographic information science tools.
+
+DATA 74000 - Data, Culture and Society (In Person) #62038
+
+Wednesday, 4:15 - 6:15 PM, 3 Credits, Prof. Kevin Ferguson (kferguson@qc.cuny.edu)
+DATA 74000 satisfies as a Data Studies distribution core course
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engines outputs, car routes, airline prices, and advertising content.
+
+In this course, we explore the social, political, and cultural impact of our society’s reliance on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, visualization, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data—statistics, visualization, data mining, and machine learning.
+
+The course will be structured around four broad concepts that inform data studies: defining data, algorithms, networks, and terms of service. This way, we will look at problems such as: how do we define data and where does it reside, what cultural values are encoded in the algorithms that present data to us, how does data travel unequally in the world, and how does big cultural data impact individuals and society.
+
+Students will be expected to participate in class discussions, contribute to a weekly course blog, to present an oral presentation on a data case study (e.g., Cambridge Analytica, net neutrality, EU’s Right to Be Forgotten, Edward Snowden, Amazon Alexa, or the Memex), and to write a final research paper.
+
+DATA 73200 - Interactive Data Visualization (Hybrid) #62039
+
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Rachel Daniell (rdaniell@gradcenter.cuny.edu)
+DATA 73200 satisfies as a Data Visualization distribution core course
+
+Note: This is a hybrid course. Virtual session dates: 2/2, 2/9, 2/16, 2/23, 3/2, 3/9, 3/16, 3/23. In-person session dates: 3/30, 4/6, 4/13, 4/27, 5/4, 5/11.
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process.
+
+As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+DATA 78000 - Special Topics: "Advanced Interactive Data Visualization Studio" (Online) #62040
+
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+DATA 78000 satisfies as a Data Visualization distribution core course
+
+Note: By permision of instructor with the Registrar.
+
+This course will offer students the opportunity to develop a professional level data visualization project of their choice. This course will be a supervised studio-style class, with the goal of helping students push forward their own design and development practice — as such, the course will support students through the process of concept development, design iteration, technical implementation, critique, and refinement. Students will pursue their individual interests while working in the context of a hands-on studio environment where they will interact and share ideas with peers.  The expectation is that students are motivated and prepared to develop their own project and goals.
+
+A portion of the semester will also consist of a series of advanced technical workshops. The topics of these workshops will be informed by the tools students need in order to push their work forward. As such, this class will be both technically and conceptually challenging. It is strongly recommended that students complete ‘Interactive Data Visualization’ prior to taking this course, or have comparable experience with Javascript, HTML, and CSS. Ultimately, the goal is for each student to finish the semester with a professional level project they feel proud of.
+
+Fall 2021
+DATA 70500 - Working with Data: Fundamentals (Online) #56538
+
+Tuesday, 6:30 - 8:30 PM, 3 Credits. Prof. Tim Shortell (Shortell@brooklyn.cuny.edu)
+DATA 73500 satisfies as a Data Analysis distribution core course
+
+Note: This course will be online with synchronous class sessions.
+
+This course covers the fundamentals of working with data. Students will be introduced to key disciplines that provide techniques used for working with small, medium and big data today—classical statistics, contemporary data science, machine learning, and data visualization. They will learn about different data types; what constitutes a valid dataset that can be analyzed quantitatively; how data should be formatted to create a valid dataset. The course will also explore fundamental theoretical questions that arise when we attempt to represent social or cultural phenomena as data. Particular attention will be focused on working with social network services data, user generated content, and other types of data about societies and individuals that have emerged recently (such as sensor data) and massive media datasets (images, video, text, sound, code, etc.). The course will explore fundamental database technologies and more recent techniques for working with real-time data flows.
+
+The “data revolution” has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data. We'll combine a critical view of data with examples that illustrate the logic of analysis.
+
+We’ll begin with a broader examination of data and society. How do data practices in contemporary institutions shape communities and society? Then we’ll take a look at some of the tools used by data analysts and data scientists to produce knowledge in various settings, including survey data, demographic data and other forms of open data relevant to public policy, and social media.
+ 
+
+DATA 70600 - Special Topics in Computational Fundamentals: JavaScript (Online) #64495
+
+Thursday, 6:30 - 7:30 PM, 1 Credit. Prof. Stephen Zweibel (Szweibel@gc.cuny.edu)
+
+Note: This is a 1-credit, 1-hour lab course, with synchronous online class sessions. 
+
+This is a basic introduction to JavaScript, which is the programming language of the web. The class is designed for anyone interested in developing a website, or creating an interactive data visualization. By the end of this course, you will be able to read JavaScript you find online, and adapt it to your needs. You will have an opportunity to work with common JavaScript libraries/tools.
+
+ 
+
+DATA 71000 - Data Analysis Methods (Online) #56337
+
+Thursday, 4:15 - 6:15 PM, 3 Credits. Prof. Howard Everson (HEverson@gc.cuny.edu)
+Website
+DATA 71000 satisfies as a Data Analysis distribution core course
+
+Note: This course will be online with synchronous class sessions. 
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference.  Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including, Excel, SPSS, Stata and R.
+ 
+
+DATA 73000 - Visualization and Design (Hybrid) #56272
+
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Michelle McSweeney 
+(michelleamcsweeney@gmail.com)  
+Cross-listed with DHUM 73000
+DATA 73000 satisfies as a Data Visualization distribution core course
+
+Note: Hybrid, with option to take purely online. In-person class dates are 8/30, 9/13, 9/20, 10/11, 10/18, 11/8, 11/15, 11/22, and 12/13. Online synchronous class dates are 10/14, 11/1, and 12/6. 
+
+Data is everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+By the end of this class, students will be able to: 
+
+Build interactive data visualization dashboards that answer a clear and purposeful research question;
+Choose which chart type works best for different types of data; 
+Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices; 
+Structure thoughtful critiques and communicate technical questions and solutions; Leverage collaborative tools, including Tableau Public, Wordpress, and repositories of public data sets;
+Contribute to the broader conversation about digital practices in academic research;
+Critically read a wide range of chart types with an eye for accuracy, audience, and effectiveness; 
+Identify potential weaknesses in the collection methods and structure of underlying data sets Locate the original source of a visualization and its data.
+
+ 
+
+DATA 73200 - Interactive Data Visualization (Hybrid) #56335
+
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Ellie Frymire (ellie.frymire@gmail.com)
+Website: Two-N
+DATA 73200 satisfies as a Data Visualization distribution core course
+
+Note: In-peron class dates are 8/25, 10/27, 11/3, 11/10, 11/17, 11/24, 12/1, and 12/8. Online sessions will be synchronous.
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process. 
+As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+ 
+
+DATA 74000 - Data, Culture and Society (Online) #56336
+
+Tuesday, 4:15 - 6:15 PM, 3 Credits, Prof. Katherine Behar (katherine.behar@baruch.cuny.edu)
+DATA 74000 satisfies as a Data Studies distribution core course
+
+Note: This course will be online with synchronous class sessions.
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+in this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning. 
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions?
+
+Summer 2021
+DATA 71200 - Advanced Data Analysis Methods (Online) #12471
+
+6/1 - 6/24, 6:30 - 8:30 PM, 3 Credits, Prof. Johanna Devaney
+(Johanna.Devaney@brooklyn.cuny.edu)
+DATA 71200 satisfies as a Data Analysis distribution core course
+
+Note: Course will be entirely online, with synchronous and asynchronous class sessions. Synchronous class session dates TBA. First class session: June 1st.
+
+This course will provide students will skills necessary to apply machine learning techniques to data, and interpret and communicate their results. They will also begin to develop intuitions about when machine learning is an appropriate tool versus other statistical methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks. This is an applied machine learning class, which emphasizes the intuitions and know-how needed to get learning algorithms to work in practice, rather than mathematical derivations.
+
+The course will be taught in Python, primarily using teh scikit-learn library. The courses's main text will be the O'Reilly book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas C. Müller, along with the book's corresponding Jupyter notebooks. We will also be referencing "The Elements of Statistical Learning" by Trevor Hastie, jerome H. Friedman, Robert and Tibshirani for examining some of the topics in more depth (this book is available for free form the first author's website: https://web.stanford.edu/~hastie/Papers/ESLII.pdf [web.stanford.edu]
+
+DATA 73000 - Visualization and Design (Online) #12469
+
+6/1 - 6/24, 6:30 - 8:30 PM, 3 Credits, Prof. Michelle McSweeney (michelleamcsweeney@gmail.com)  
+Cross-listed with DHUM 73000
+DATA 73000 satisfies as a Data Visualization core course
+
+Note: Course will be entirely online, with synchronous and asynchronous class sessions. First class session: June 1st.
+
+Synchronous class dates: 6/1, 6/3, 6/8, 6/10, 6/15, 6/17, 6/22, 6/24
+Asynchronous class dates: 6/2, 6/7, 6/9, 6/14, 6/16, 6/21, 6/23
+
+Data is everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+By the end of this class, students will be able to:
+
+Build interactive data visualization dashboards that answer a clear and purposeful research question;
+Choose which chart type works best for different types of data;
+Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices;
+Structure thoughtful critiques and communicate technical questions and solutions; Leverage collaborative tools, including Tableau Public, Wordpress, and repositories of public data sets;
+Contribute to the broader conversation about digital practices in academic research;
+Critically read a wide range of chart types with an eye for accuracy, audience, and effectiveness;
+Identify potential weaknesses in the collection methods and structure of underlying data sets Locate the original source of a visualization and its data.
+Spring 2021
+
+Note: All Spring 2021 courses will be online.
+
+DATA 71000 - Data Analysis Methods #64005
+Thursday, 4:15 - 6:15 PM, 3 Credits, Prof. Howard Everson (HEverson@gc.cuny.edu)
+Website
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference.  Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including, Excel, SPSS, Stata and R.
+
+DATA 73200 - Interactive Data Visualization #64006
+Monday, 6:30 - 8:30 PM, 3 Credits, Prof. Aucher Serr (aucher.serr@gmail.com)
+Website: Two-N
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process.
+
+As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+DATA 74000 - Data, Culture and Society #64007
+Tuesday, 4:15 - 6:15 PM, 3 Credits, Prof. Katherine Behar (Katherine.Behar@baruch.cuny.edu)
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+in this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning. 
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions?
+
+DATA 78000 - Special Topics: "Alternative Data Cultures" #64008
+Monday, 4:15 - 6:15 PM, 3 Credits, Prof. Kevin Ferguson (kferguson@qc.cuny.edu)
+Cross-listed with DHUM 78000 #64163
+
+This course will examine alternative trajectories of data visualization that lie outside of the traditional approaches that aim to represent data as neutrally and naturally as possible. Beginning with Lisa Samuels and Jerome McGann's concept of “deformance”—a new scholarly performance of a text that eschews solely searching for a hidden interpretation—we will survey a variety of ways that data visualization centered on humanistic inquiry can be recontextualized, remixed, and otherwise bent, broken, and glitched in order to generate new knowledge. By considering how data visualization might fruitfully embrace subjective perspectives in order to create meaning, this course will ask students to more deeply consider how and why we visualize complex data sets, including sets of objects such as literary corpora, photographs, motion pictures, and music. 
+
+Throughout the course we will explore the intersection of aesthetics, art, and alternative ways of “performing” data to reveal new insights, drawing on surrealist and other avant-garde traditions that begin with defamiliarization as a critical practice. In addition to readings and models of new perspectives on data visualization, students will complete experimental projects visualizing a variety of texts, which may include condensing feature films to single images, comparative movie “barcodes,” glitching historical images, and other experimental exploratory data visualization. Students may complete exploratory projects in ImageJ (Java), Python, and/or R, although no prior expertise is required of students.
+
+Readings may include: Johanna Drucker, Mark Sample, Zach Whalen, Jason Mittell, Deb Verhoeven, Michael J. Kramer, Stephen Ramsay, Lev Manovich, Julia Flanders, Eric Hoyt, Shane Denson, Giorgia Lupi and Stefanie Posavec, Virginia Kuhn, and Bethany Nowviskie.
+
+DATA 78000 - Special Topics: "Introduction to GIS: Methods and Applications" #64009
+Wednesday, 6:30 - 8:30 PM, 3 Credits, Prof. Shipeng Sun (shipeng.sun@hunter.cuny.edu)
+Cross-listed with DHUM 73700 #64164
+Website
+
+This course combines an introduction to basic cartographic theory and techniques in humanities contexts with practical experience in the analysis, manipulation, and the graphical representation of spatial information. The course examines the storage, processing, compilation, and symbolization of spatial data; basic spatial analysis; and visual design principles involved in conveying spatial information. Emphasis is placed on digital mapping technologies, including online and offline computer based geographic information science tools.
+
+Fall 2020
+DATA 73000: Visualization and Design #58890
+
+Professor Lev Manovich
+Monday, 4:15 - 6:15 PM 3 Credits
+Cross-listed with C SC 83060
+
+Data visualization is increasingly important today in more and more fields. Its growing popularity in the early 21st century corresponds to important cultural and technological shifts in our societies – adoption of data-centric research methods in many new areas, the availability of  massive data sets, and use of interactive digital media and the web for dissemination of information and knowledge. Data visualization techniques allow people to use perception and cognition to see patterns in data, and form research hypotheses. During last 20 years data visualization has also become an important part of contemporary visual and data cultures, visual communication, interactive media and interface design.
+
+In this course students learn the concepts and methods of data visualization. The key part of the class is learning and practicing outside. I will recommend online resources (tutorials and short online classes) suitable for students’ backgrounds and previous knowledge. To test what students learn, I will assign two practical homeworks and a final project. These assignments will be discussed and analyzed in class. 
+In addition, the class covers the following topics:
+
+Learning about data visualization field, becoming familiar with most well-known designers and data artists, classic visualization projects, relevant organizations and available software. 
+Visualization can be understand as a part of a scientific paradigm for summarizing, analyzing and predicting data that also includes statistics, data science and AI. Accordingly, students will be introduced to selected concepts from these areas so they understand how visualization interacts with them.
+Alternatively, visualization can be seen as a part of modern culture that includes languages and techniques of visual art, design, architecture, cinema, interactive art, and data art. We will devote some time to discussing these perspectives and connections. The students will be introduced to basic principles of modern design as they apply to visualization.
+Another topic which we will also cover is the use of visualization in recently emerged fields devoted to analyzing big cultural data - digital humanities, computational social science, and cultural analytics.
+DATA 73000: Visualization and Design #62253
+
+Professor Michelle McSweeney
+Monday, 6:30 - 8:30 PM
+3 Credits
+
+Data are everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work. 
+
+DATA 78000: Advanced Interactive Data Visualization Studio #64563
+
+Professor Aucher Serr
+Tuesday, 6:30 - 8:30 PM
+3 Credits
+Website
+
+This course will offer students the opportunity to develop a professional level data visualization project of their choice. This course will be a supervised studio-style class, with the goal of helping students push forward their own design and development practice — as such, the course will support students through the process of concept development, design iteration, technical implementation, critique, and refinement. Students will pursue their individual interests while working in the context of a hands-on studio environment where they will interact and share ideas with peers.  The expectation is that students are motivated and prepared to develop their own project and goals.
+
+A portion of the semester will also consist of a series of advanced technical workshops. The topics of these workshops will be informed by the tools students need in order to push their work forward. As such, this class will be both technically and conceptually challenging. It is strongly recommended that students complete ‘Interactive Data Visualization’ prior to taking this course, or have comparable experience with Javascript, HTML, and CSS. Ultimately, the goal is for each student to finish the semester with a professional level project they feel proud of. Note: By Permision of Instructor with the Registrar
+
+DATA 78000: Introduction to GIS: Methods and Applications #63300
+
+Professors Yuri Gorokhovich & Elia Machado
+Tuesday, 6:30 - 8:30 PM
+3 Credits
+Cross-listed with DHUM 73700 (#63299) and EES 79903
+
+Introduction to the fundamentals of Geographic Information Systems (GIS) including vector and raster data formats and applicable analytical techniques. Emphasis on spatial data representation, organization, analysis, and data integration including remote sensing.  Theoretical and technical concepts are reinforced through hands-on exercises illustrating GIS applications in hydrology, conservation biology, engineering, geology (topographic analysis), multicriteria-evaluation, and decision making
+
+DATA 73200: Interactive Data Visualization #62268
+
+Professor Ellie Frymire
+Wednesday, 6:30 - 8:30 PM
+3 Credits
+Website
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process.
+
+As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+DATA 71000: Data Analysis Methods #64613
+
+Professor Everson
+Thursday, 4:15 - 6:15 PM
+3 Credits
+Website
+
+This course is intended for students enrolled in the MS Program in Data Analysis & Visualization. The goal of the course is to provide students with an introduction to basic statistical techniques for analyzing numerical or quantitative data. The emphasis throughout will be on the development of statistical reasoning, i.e., thinking like a data scientist. The course will develop students’ understanding of the fundamental concepts underlying modern statistics thereby allowing for the analysis of a variety of data types and data sources, as well as gaining insights through the visualization of trends and patterns in data. To achieve these goals students will be introduced to the principles of probabilistic reasoning, sampling, experimental design, descriptive statistics and statistical inference.  Students will explore various statistical methods and techniques for analyzing data and practice applying these methods to real-world data-driven problems. Practical topics will include: descriptive and inferential statistical methods, sampling and data collection, and an array of statistical modeling techniques such as correlational analysis, multivariate regression, logistic regression, and exploratory data analysis. Students will become familiar with a variety of statistical software packages including, Excel, SPSS, Stata and R.
+
+Spring 2020
+
+DATA 71200 - Advanced Data Analysis Methods #61133
+Prof. Johanna Devaney (Johanna.Devaney@brooklyn.cuny.edu)
+
+This course will provide students will skills necessary to apply machine learning techniques to data, and interpret and communicate their results. They will also begin to develop intuitions about when machine learning is an appropriate tool versus other statistical methods. This course will cover both supervised methods (e.g., k-Nearest neighbors, naïve Bayes classifiers, decision trees, and support vector machines) and unsupervised methods (e.g., principal component analysis, non-negative matrix factorization, and k-means clustering). The supervised methods will focus primarily on "classic" machine learning techniques where features are designed rather than learned, although we briefly look at recent deep learning models with neural networks. This is an applied machine learning class, which emphasizes the intuitions and know-how needed to get learning algorithms to work in practice, rather than mathematical derivations.
+
+The course will be taught in Python, primarily using teh scikit-learn library. The courses's main text will be the O'Reilly book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas C. Müller, along with the book's corresponding Jupyter notebooks. We will also be referencing "The Elements of Statistical Learning" by Trevor Hastie, jerome H. Friedman, Robert and Tibshirani for examining some of the topics in more depth (this book is available for free form the first author's website: https://web.stanford.edu/~hastie/Papers/ESLII.pdf [web.stanford.edu]
+
+DATA 73200 - Interactive Data Visualization #61138  (Note: two sections offered--same day and time)
+Prof. Aucher Serr (aucher.serr@gmail.com)
+
+DATA 73200 - Interactive Data Visualization #64845 (Note: two sections offered--same day and time)
+Prof. Ellie Frymire (ellie.frymire@gmail.com)
+
+Website
+
+Interactive Data Visualization is one of the most important forms of communication today — allowing users to better engage with data, detect patterns, and quickly gain insight into complicated topics. This course will introduce students to the tools, skills, and concepts necessary for making state-of-the-art interactive data visualizations. Using web-based technologies including HTML, CSS, and D3.js, students will learn to create engaging and effective information displays, grounded in the science of visual perception and best practices in visual mapping and accessibility. Throughout the semester, students will work towards creating a portfolio of beautiful and analytically sound data visualizations, while also developing their own iterative design process.
+
+As this course focuses heavily on learning how to make custom charts with D3.js, it assumes that students already have a working familiarity of HTML/CSS and basic JavaScript. Additionally, it is recommended that students feel comfortable working with git-based version control (Github, Gitlab. etc.) prior to starting this course.
+
+DATA 73500 - Working with Data #66137 (Note: there are two sections on Monday)
+Prof. Timothy Shortell (dr.timothy@shortell.nyc)
+
+DATA 73500 - Working with Data #61122 (Note: there are two sections on Monday)
+Prof. Timothy Shortell (dr.timothy@shortell.nyc)
+
+This course covers the fundamentals of working with data. Students will be introduced to key disciplines that provide techniques used for working with small, medium and big data today--classical statistics, contemporary data science, machine learning, and data visualization. They will learn about different data types; what constitutes a valid dataset that can be analyzed quantitatively; how data should be formatted to create a valid dataset. The course will also explore fundamental theoretical questions that arise when we attempt to represent social or cultural phenomena as data. Particular attention will be focussed on working with social network services data, user generated content, and other types of data about societies and individuals that have emerged recently (such as sensor data) and massive media datasets (images, video, text, sound, code, etc.). The course will explore fundamental database technologies and more recent techniques for working with real-time data flows. 
+
+The "data revolution" has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics, and medicine. These developments have also led to the emergene of a number of new research fields in the end of the 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data.
+
+We'll begin with a broader examination of data and society. Then, we'll take a look at some of the tools used by data analysts and data scientists to produce knowledge in various settings. We'll focus mainly on analysis of text in our coding work; this is the best place to begin to understand the choices we make as researchers and analysts in applied settings. 
+
+Students will learn the most fundamental concepts and skills of data analysis, required before they can use more advanced analysis techniques, and also do data visualization. While focusing on fundamentals, the course also introduces students to new ideas for data analysis, new types and sources of data, and recently emerged fields that are taking advantage of these sources, increasing computer power for data processing and new open source comprehensive data analysis programming environments. After taking this course, students will be able to: 
+
+* have a general understanding of how to use quantitative data to research topics in many fields; 
+* understand both the benefits and limitations of using quantitative methods in research; 
+* learn concepts and practical techniques for downloading data from various sources, cleaning data, managing and structruing datasets using tools such as Google Sheets and the R data analysis programming language. 
+* students will acquire working knowledge of a language such as R or Python, including importing and exporting data in different formats, data management, selecting parts of a dataset using various conditions, combining data sets, and creating basic graphs. 
+ 
+DATA 74000 - Data, Culture, and Society #61128
+Prof. Katherine Behar (Katherine.Behar@baruch.cuny.edu)
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education, and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engine inputs, car routes, airline prices, etc.
+
+in this course, we explore the social, political, and cultural impact of reliance of our society on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data--statistics, visualization, data mining, and machine learning. 
+
+Finally, we also want to ask general questions about society and culture in a data-centric society. The arrival of social media and the gradual move of knowledge and media distribution and cultural communication to digital networks in the early 21st century has created a new digital landscape which challenges our existing methods for the study of and assumptions about culture. What new theoretical concepts do we need to deal with the new scale of born-digital culture? What data analysis and visualization techniques developed by industry and sciences are most useful for cultural analysis? How can we use big cultural data to question what we know about culture and generate new questions? 
+
+DATA 74200 - Media Theory and History #61130
+Prof. Lev Manovich (lmanovich@gc.cuny.edu)
+
+The topics course is designed to introduce students to many influential ideas and works by key modern and contemporary thinkers about media and technology. Because historically these ideas were developed in relation to particular technologies and media that came into prominence in different periods, we will also explore aspects of media history including photography, film, radio, television, Internet, social media, artificial intelligence, big data and data art. Some of the discussions will use as starting points Manovich's own selected articles and chapters from his books The Language of New Media, Software Takes Command, Instagram and Contemporary Image, and Cultural Analytics (forthcoming). all texts used in the class are freely available online.
+
+DATA 78000 - Geospatial Humanities #61134
+Prof. Jonathan Peters (jonathan.peters@csi.cuny.edu)
+Cross-listed with DHUM 73700
+
+This course combines an introduction to basic cartographic theory and techniques in humanities contexts with practical experience in the analysis, manipulation, and the graphical representation of spatial information in a fun and engaging way. The course examines the storage, processing, compilation, and symbolization of spatial data; basic spatial analysis and spatial statistics; and the visual design principles involved in conveying spatial information. Emphasis is placed on digital mapping technologies, including online and offline computer based geographic information science tools. Students will develop original maps using various forms of data collection, analysis and historical resources.
+ 
+The overarching objective of this course is to familiarize students with GIS and spatial analysis tools and techniques used in professional and scholarly fields. By the conclusion of this course, students will be able to:
+* gather and manipulate geospatial data;
+* interact with geospatial data stored in a database;
+* interact with geospatial data stored in hierarchical data formats;
+* explore historical geospatial data resources and understand variations in data reporting based upon time period and location;
+* collect geospatial data in field using GPS technology and map as needed;
+* use cartographic theory to design effective graphical representations of geospatial data;
+* use cartographic theory to interpret, analyze, and critique graphical representations of spatial phenomena;
+* and create both static and interactive maps containing different representations of geospatial information. 
+
+Texts:
+Mastering ArcGIS by Maribeth H. Price – Seventh Edition.  ISBN-13: 978-0078095146 $78.25 MSRP
+Getting to Know ArcGIS Desktop Second Edition, for ArcGIS 10 Edition by Tim Ormsby, Eileen J. Napoleon, Robert Burke, Carolyn Groessl ISBN-13: 978-1589482609 $25.00 MSRP.
+Lost City of the Monkey God by Douglas Preston ISBN 9781455569410 – selected chapters as noted
+Topics / Academic Papers as noted
+
+Fall 2019
+DATA 73300 - Visualization and Design: Fundamentals #62520
+
+Professor Michelle McSweeney
+
+Data are everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+Summer 2019
+DATA 73300 - Visualization and Design: Fundamentals #62520
+
+Prof. Michelle McSweeney
+
+Data are everywhere and the ability to manipulate, visualize, and communicate with data effectively is an essential skill for nearly every sector—public, private, academic, and beyond. Grounded in both theory and practice, this course will empower students to visualize data through hands-on experience with industry-standard tools and techniques and equip students with the knowledge to justify data analysis strategies and design decisions.
+
+Using Tableau Software, students will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identify which chart types work best for different types of data, and unpack the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussions will be geared towards humanities and social science research. Regardless of academic concentration, students develop a portfolio of interactive and dynamic data visualization dashboards and an interdisciplinary skill set ready to leverage in academic and professional work.
+
+Spring 2019
+DATA 71000 - Data Analysis Methods #59983
+
+Professor Mariya Bessonov
+
+The goal of this course is to provide students with an introduction to basic statistical techniques for analyzing data. Students will develop an understanding of concepts underlying modern statistics and statistical reasoning that will equip them with tools to analyze variety of data types and data sources and also visualize it. We will first learn principles of descriptive statistics. Next, we will cover principles and techniques of inferential statistics, and design of experiments. Students will explore various statistical measures and techniques for analyzing data, and practice applying this knowledge to real-world data problems. Practical topics include: descriptive and inferential statistics, sampling, experimental design, statistical models, parametric and non-parametric tests, ordinary least squares regression, logistic regression, and explorative data analysis.
+
+DHUM 73700 - Geospatial Humanities #59981
+
+Professor Jeremy Porter
+
+This course aims to familiarize students with GIS and spatial analysis tools and techniques used in the visualization, management, analysis, and presentation of geo-spatial data. The course will be a hand's on applied course in which students will learn to work with publicly available geo-spatial data in open-source software packages, including but not limited too: R, Python, QGIS, and CartoDB. Topics covered include, Data Acquisition, Geo-Processing, Data Visualization, Cartography, Spatial Statistics, and Web-Mapping.
+
+Fall 2018
+DATA 73000 - Visualization and Design: Fundamentals
+
+Professor Lev Manovich
+
+Data visualization is increasingly important today in more and more fields. Its growing popularity in the early 21st century corresponds to important cultural and technological shifts in our societies – adoption of data-centric research methods in many new areas, the availability of  massive data sets, and use of interactive digital media and the web for dissemination of information and knowledge. Data visualization techniques allow people to use perception and cognition to see patterns in data, and form research hypotheses. During last 20 years data visualization has also become an important part of contemporary visual and data cultures, entering the worlds of art, visual communication, interactives and interface design.
+
+In this course students learn the concepts and methods of data visualization. They practice these methods by completing four practical assignments and a final project. These assignments  will be discussed and analyzed in class.  In addition, the class covers the following four topics:
+
+1) Learning about data visualization field, becoming familiar with most well-known designers and data artists, classic visualization projects, relevant organizations and available software.
+
+2) Visualization can be understand as a part of a scientific paradigm for summarizing, analyzing and predicting data that also includes statistics, data science and AI. Accordingly, students will be introduced to selected concepts from these areas so they understand how data visualization interacts with these fields.
+
+3) Alternatively, visualization can be seen as a part of modern culture that includes languages and techniques of visual art, design, architecture, cinema, interactive art, and data art. We will devote some time to considering these perspectives and links.
+
+4) Another topic which we will also cover is the use of visualization in recently emerged fields devoted to analyzing big cultural data - digital humanities, computational social science, and cultural analytics.
+
+DATA 73500 - Working with Data: Fundamentals
+
+Professor Delaram Kahrobaei
+
+This course covers the fundamentals of working with data. Students will be introduced to key disciplines that provide techniques used for working with small, medium and big data today - classical statistics, contemporary data science, machine learning, and data visualization. They will learn about different data types; what constitutes a valid dataset that can be analyzed quantitatively; how data should be formatted to create a valid dataset. The course will also explore fundamental theoretical questions that arise when we attempt to represent social or cultural phenomena as data. Particular attention will be focused on working with social network services data, user generated content, and other types of data about societies and individuals that have emerged recently (such as sensor data) and massive media datasets (images, video, text, sound, code, etc.),. The course will explore fundamental database technologies and more recent techniques for working with real-time data flows. 
+
+The ‘data revolution’ has transformed the way we understand and interact with the world around us. The availability of large datasets, progress in computer hardware and software, and use of the web to share data and acquire it from numerous sources (including social network services, libraries, museums, city governments, non-profits, etc.) has created many new possibilities in many fields including computer science, social science, humanities, business, economics and medicine. These developments have also lead to emergence of a number of new research fields in the end of 2000s: social computing, computational social science, digital humanities, cultural analytics, and culturomics. This course introduces students to fundamental concepts and practical techniques and skills needed to work with data. 
+ 
+
+DATA 74000 - Data, Culture, and Society
+
+Professor Kevin Ferguson
+
+Big data and computational methods for its analysis are changing scientific and humanities research, financial markets, political campaigning, higher education and countless other areas, and also affect our everyday lives. Our daily existence is increasingly structured by software systems that process massive amounts of data and generate results such as music and book recommendations, search engines outputs, car routes, airline prices, and advertising content.
+
+In this course, we explore the social, political, and cultural impact of our society’s reliance on massive (and often real-time) data analysis. We will discuss the concepts behind data collection, organization, analysis, visualization, and publication. We will also discuss possibilities, limitations, and implications of using big data-centric methods in social science and humanities research, and the already developed work in computational social science, digital humanities and cultural analytics fields. Students will become familiar with the history and basic concepts of the fundamental paradigms developed by modern societies to analyze patterns in data—statistics, visualization, data mining, and machine learning. 
+
+The course will be structured around four broad concepts that inform data studies: defining data, algorithms, networks, and terms of service. This way, we will look at problems such as: how do we define data and where does it reside, what cultural values are encoded in the algorithms that present data to us, how does data travel unequally in the world, and how does big cultural data impact individuals and society. 
+
+Students will be expected to participate in class discussions, contribute to a weekly course blog, to present an oral presentation on a data case study (e.g., Cambridge Analytica, net neutrality, EU’s Right to Be Forgotten, Edward Snowden, Amazon Alexa, or the Memex), and to write a final reseach paper.
+
+Summer 2018
+DATA 73000 - VIsualization and Design: Fundamentals
+
+Professors Erin Daugherty and Michelle McSweeney
+
+As employers in every sector continue to search for candidates that can turn their data into actionable information, this course is designed to demystify data analysis by approaching it visually. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. Over the course of four weeks, we will dive into cleaning and structuring unruly data sets, identifying which chart types work best for different types of data, and unpacking the tactics behind effective visual communication. Our data sets will be geared towards humanities and social science research, and Tableau’s drag-and-drop interface will not require coding. Regardless of your academic concentration, you will walk away from this class with a portfolio of four dynamic dashboards and a new interdisciplinary skill set ready to leverage in your academic and professional work.
+  | Monday | Tuesday | Wednesday | Thursday
+4:15 - 6:15 PM |   |   | DATA 73200 Interactive Data Visualization (online) | DATA 71200 Advanced Data Analysis (online)
+6:30 - 8:30 PM | DATA 78000 Software Design Lab: “Creative Computing” (in person) | DATA 73000 Visualization and Design (in person)
+
+DATA 74000 Data, Culture and Society (hybrid) | DATA 78000 Special Topics: "Computational Discourse Analysis with Python" (online)
+
+DATA 78000 Special Topics: "Conflict Technology: Artificial Intelligence in Warfare and Surveillance” (in person) | DATA 70600 Special Topics in Computational Fundamental: "Scrollytelling with Civic Data" (1-hour lab class, hybrid)

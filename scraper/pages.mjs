@@ -1,6 +1,7 @@
 // Reads a department's course web page (or Google Sheet / Doc) and returns Spring 2027 sections.
+import { pathToFileURL } from 'url';
 import { TERM } from './sources.mjs';
-import { parseCSV, parseTable, parseCourseBlocks, termSegment, clean } from './parse.mjs';
+import { parseCSV, parseTable, parseGrid, parseCourseBlocks, mergeSections, termSegment, clean } from './parse.mjs';
 
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36';
 
@@ -44,15 +45,24 @@ async function loadPage(page, url) {
   await page.evaluate(() => {
     document.querySelectorAll('details').forEach(d => (d.open = true));
     document.querySelectorAll('[aria-expanded="false"]').forEach(b => { try { b.click(); } catch {} });
-    document.querySelectorAll('.collapse, .accordion-content, [hidden]').forEach(e => { e.style.display = 'block'; e.hidden = false; });
+    document.querySelectorAll('.collapse, .accordion-content, .accordion__content, .expand-collapse__content, [hidden]').forEach(e => { e.style.display = 'block'; e.hidden = false; });
   }).catch(() => {});
   await page.waitForTimeout(800);
   return await page.evaluate(() => {
     const root = document.querySelector('main, #main-content, [role=main], article, .region-content') || document.body;
     root.querySelectorAll('nav, header, footer, script, style, noscript').forEach(e => e.remove());
+    // Screen-reader-only labels ("Click to Open") would otherwise start every accordion heading.
+    root.querySelectorAll('.show-for-sr, .visually-hidden, .sr-only').forEach(e => e.remove());
     const tables = [...root.querySelectorAll('table')].map(t => [...t.rows].map(r => [...r.cells].map(c => c.innerText)));
     const links = [...root.querySelectorAll('a[href]')].map(a => ({ text: a.innerText.trim(), href: a.href }));
-    return { text: root.innerText, tables, links, status: 200 };
+    const text = root.innerText;
+    // The same text without tables, for reading courses written as paragraphs
+    // (table courses are read cell by cell instead).
+    const hidden = [...root.querySelectorAll('table')].map(t => [t, t.style.display]);
+    hidden.forEach(([t]) => { t.style.display = 'none'; });
+    const textNoTables = root.innerText;
+    hidden.forEach(([t, d]) => { t.style.display = d; });
+    return { text, textNoTables, tables, links, status: 200 };
   });
 }
 
@@ -60,8 +70,13 @@ async function loadPage(page, url) {
  * Scrape one or more course pages for a program.
  * Returns { status: 'posted'|'not_posted'|'unparsed'|'unavailable', sections, note, raw, url }
  */
-export async function readPages(browser, urls, log = console.log) {
+export async function readPages(browser, urls, log = console.log, opts = {}) {
   const ctx = await browser.newContext({ userAgent: UA, viewport: { width: 1280, height: 1600 } });
+  // Saved-pages mode: opts.files maps a page URL to a saved .html file. Nothing is fetched from the
+  // internet (the saved file's scripts, images and trackers are blocked), and pages that were not
+  // saved are skipped.
+  const offline = !!opts.files;
+  if (offline) await ctx.route('**/*', r => (r.request().url().startsWith('file:') ? r.continue() : r.abort()));
   const page = await ctx.newPage();
   const raws = [];
   let anyLoaded = false, sawTerm = false, blockedNote = '';
@@ -89,8 +104,9 @@ export async function readPages(browser, urls, log = console.log) {
         continue;
       }
       if (/\.pdf($|\?)/i.test(url)) { raws.push(`### ${url}\n(PDF not read)`); continue; }
+      if (offline && !opts.files[url]) { raws.push(`### ${url}\n(linked page not saved)`); continue; }
       let r;
-      try { r = await loadPage(page, url); } catch (e) { log(`  ! ${url}: ${e.message.split('\n')[0]}`); continue; }
+      try { r = await loadPage(page, offline ? pathToFileURL(opts.files[url]).href : url); } catch (e) { log(`  ! ${url}: ${e.message.split('\n')[0]}`); continue; }
       if (r.blocked || r.status >= 400) { blockedNote = `${new URL(url).host} returned ${r.status}${r.blocked ? ' (blocked by site security)' : ''}`; log(`  ! ${url}: ${blockedNote}`); continue; }
       anyLoaded = true;
       raws.push(`### ${url}\n${r.text}\n${r.tables.map(t => t.map(row => row.join(' | ')).join('\n')).join('\n\n')}`);
@@ -99,12 +115,21 @@ export async function readPages(browser, urls, log = console.log) {
       const seg = termSegment(r.text) ?? (depth > 0 ? clean(r.text) : null);
       if (seg != null) sawTerm = true;
 
-      // Tables: use tables that sit inside the Spring 2027 part (or any table on a term page).
-      // (Table text is part of the page text, so a table course belongs to Spring 2027
-      // when its code appears inside the Spring 2027 segment.)
-      if (seg != null) for (const t of r.tables)
-        sections.push(...parseTable(t, url).filter(s => seg.includes(s.code.split(' ').pop())));
-      if (seg != null && !sections.length) sections.push(...parseCourseBlocks(seg, url));
+      // Tables: use only tables that sit inside the Spring 2027 part (or any table on a term page).
+      // Table text is part of the page text, so a table is inside the segment when (nearly) all
+      // of its cells appear there. A weekly grid (days across, times down) has its own reader.
+      // Courses written as paragraphs are read too, and a course found in both places (a grid
+      // cell and its description further down) is merged into one.
+      if (seg != null) {
+        const segFlat = flat(seg);
+        for (const t of r.tables) {
+          if (depth === 0 && !tableInside(t, segFlat)) continue;
+          const grid = parseGrid(t, url, opts.subject);
+          sections.push(...(grid || parseTable(t, url)));
+        }
+        const segText = termSegment(r.textNoTables) ?? (depth > 0 ? clean(r.textNoTables) : '');
+        sections.push(...parseCourseBlocks(segText, url, opts.subject));
+      }
 
       // Follow links that point at Spring 2027 listings.
       if (depth < 1) for (const l of r.links.slice(0, 400)) {
@@ -116,13 +141,20 @@ export async function readPages(browser, urls, log = console.log) {
     }
   } finally { await ctx.close(); }
 
-  const dedup = dedupe(sections);
+  const dedup = dedupe(mergeSections(sections));
   let status;
   if (dedup.length) status = 'posted';
   else if (!anyLoaded) status = 'unavailable';
   else if (sawTerm) status = 'unparsed';
   else status = 'not_posted';
   return { status, sections: dedup, note: status === 'unavailable' ? blockedNote || 'page could not be loaded' : '', raw: raws.join('\n\n'), url: urls[0] };
+}
+
+const flat = s => String(s).replace(/\s+/g, ' ').trim();
+function tableInside(rows, segFlat) {
+  const cells = rows.flat().map(flat).filter(c => c.length > 5);
+  if (!cells.length) return false;
+  return cells.filter(c => segFlat.includes(c)).length / cells.length >= 0.8;
 }
 
 function dedupe(list) {

@@ -118,6 +118,7 @@
   function statusBadge(p) {
     if (p.sections.length) return p.stale ? '<span class="badge verify" title="Could not re-check this week; showing the last listing collected">Last week’s listing</span>' : '';
     if (p.status === 'unparsed') return '<span class="badge pending">Posted on program site</span>';
+    if (p.status === 'unavailable' || p.status === 'unknown') return '<span class="badge pending">Not checked yet</span>';
     return '<span class="badge pending">Not Yet Posted</span>';
   }
 
@@ -126,7 +127,7 @@
     const a = link ? ` <a href="${esc(link)}" target="_blank" rel="noopener">Check the program’s page</a>.` : '';
     if (p.status === 'not_posted') return `This program has not posted its ${esc(data.term)} courses yet.${a}`;
     if (p.status === 'unparsed') return `This program has posted ${esc(data.term)} courses, but in a format we can’t read automatically yet.${a}`;
-    return `Not yet posted here. We could not read this program’s course page automatically this week.${a}`;
+    return `We haven’t been able to read this program’s course page yet, so its courses aren’t listed here.${a}`;
   }
 
   function renderList(shown) {

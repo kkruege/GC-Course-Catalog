@@ -21,6 +21,25 @@ export const OVERRIDES = {
   'PHIL-GRD': { pages: ['https://www.gc.cuny.edu/philosophy/courses'] },
   'DHUM-GRD': { pages: ['https://www.gc.cuny.edu/digital-humanities/curriculum-and-degree-information/courses'] },
   'AFCP-GRD': { pages: ['https://www.gc.cuny.edu/africana-studies/courses'] },
+  // Found 2026-11-14 from pages saved by hand (their own address) and from following redirects;
+  // the guessed addresses for these were wrong or redirected.
+  'C L-GRD': { pages: ['https://www.gc.cuny.edu/comparative-literature/curriculum-and-degree-information/courses'] },
+  'AUD-GRD': { pages: ['https://www.gc.cuny.edu/audiology/curriculum-and-degree-information/courses'] },
+  'BICM-GRD': { pages: ['https://www.gc.cuny.edu/biochemistry/curriculum-and-degree-information/courses'] },
+  'CHEM-GRD': { pages: ['https://www.gc.cuny.edu/chemistry/curriculum-and-degree-information/courses'] },
+  'CLAS-GRD': { pages: ['https://www.gc.cuny.edu/classics/curriculum-and-degree-information/courses'] },
+  'CTCP-GRD': { pages: ['https://www.gc.cuny.edu/critical-theory/courses'] },
+  'DATA-GRD': { pages: ['https://www.gc.cuny.edu/data-analysis-and-visualization/curriculum-and-degree-information/courses'] },
+  'FREN-GRD': { pages: ['https://www.gc.cuny.edu/french/curriculum-and-degree-information/courses'] },
+  'HISP-GRD': { pages: ['https://www.gc.cuny.edu/latin-american-iberian-and-latino-cultures/curriculum-and-degree-information/courses'] },
+  'HIST-GRD': { pages: ['https://www.gc.cuny.edu/history/courses'] },
+  'LGTBQ-GRD': { pages: ['https://www.gc.cuny.edu/lgbtq-studies/courses'] },
+  'LING-GRD': { pages: ['https://www.gc.cuny.edu/linguistics/courses'] },
+  'MALS-GRD': { pages: ['https://www.gc.cuny.edu/liberal-studies/curriculum-and-degree-information/courses'] },
+  'PHYS-GRD': { pages: ['https://www.gc.cuny.edu/physics/curriculum-and-degree-information/courses'] },
+  'SOC-GRD': { pages: ['https://www.gc.cuny.edu/sociology/courses'] },
+  'SSW-GRD': { pages: ['https://www.gc.cuny.edu/social-welfare/curriculum-and-degree-information/courses'] },
+  'WGS-GRD': { pages: ['https://www.gc.cuny.edu/womens-and-gender-studies/courses'] },
 };
 
 // Concentrations are not catalog departments; they are listed at the bottom with certificates.
@@ -43,4 +62,5 @@ export const EXTRA_LINKS = [
 export const GUESS_PATHS = ['/curriculum-and-degree-information/courses', '/courses', '/academics/courses', '/curriculum/courses', ''];
 
 // Link to the GC AI-Assisted Coding Class course description, shown at the top of the site.
-export const CLASS_URL = '';
+// DHUM 70600-01 "AI-Assisted Programming" (Prof. Stephen Zweibel), under Fall 2026 on the DHUM courses page.
+export const CLASS_URL = 'https://www.gc.cuny.edu/digital-humanities/curriculum-and-degree-information/courses#fall-2026';

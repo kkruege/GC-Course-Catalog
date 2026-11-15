@@ -1,1 +1,6 @@
 node_modules/
+
+# Department pages saved by hand for `scrape.mjs --saved` (copies of gc.cuny.edu pages; keep local)
+saved-pages/*.html
+saved-pages/*.htm
+saved-pages/*_files/

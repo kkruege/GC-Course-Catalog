@@ -1,25 +1,45 @@
 // Weekly scrape: builds docs/data/courses.json for the website.
 //   node scraper/scrape.mjs            (all programs)
 //   node scraper/scrape.mjs ENGL-GRD   (only some programs, for testing)
+//   BROWSER_CHANNEL=chrome npm run scrape   (use your installed Chrome or Edge ("msedge")
+//                                            instead of downloading Playwright's Chromium)
+//   node scraper/scrape.mjs --saved [folder]   (read department pages from .html files saved by hand,
+//                                            default folder saved-pages/; see saved-pages/CHECKLIST.md.
+//                                            The GC catalog and Google Sheets are still read online.)
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import { chromium } from 'playwright';
 import { scrapeCatalog } from './catalog.mjs';
 import { readPages, readSheet } from './pages.mjs';
 import { TERM, OVERRIDES, CONCENTRATIONS, EXTRA_LINKS, GUESS_PATHS, CLASS_URL } from './sources.mjs';
 
-const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'docs/data/courses.json');
 const DEBUG = path.join(ROOT, 'debug');
-const only = process.argv.slice(2);
+const args = process.argv.slice(2);
+const savedAt = args.indexOf('--saved');
+const SAVED = savedAt < 0 ? null : path.resolve(ROOT, args[savedAt + 1] && !/-GRD$|-CONC$/.test(args[savedAt + 1]) ? args[savedAt + 1] : 'saved-pages');
+const only = args.filter((a, i) => a !== '--saved' && !(savedAt >= 0 && i === savedAt + 1 && path.resolve(ROOT, a) === SAVED));
+// Saved page files, keyed by program code as a file name ("C L-GRD" -> "c_l-grd"), any letter case.
+const savedFiles = new Map();
+if (SAVED) for (const f of fs.readdirSync(SAVED)) if (/\.html?$/i.test(f)) savedFiles.set(f.replace(/\.html?$/i, '').toLowerCase(), path.join(SAVED, f));
+const savedKey = code => code.replace(/\s+/g, '_').toLowerCase();
 const log = (...a) => console.log(...a);
 
 const previous = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, 'utf8')) : { programs: [] };
 const prevByCode = new Map(previous.programs.map(p => [p.code, p]));
 
-const browser = await chromium.launch();
+const browser = await chromium.launch(process.env.BROWSER_CHANNEL ? { channel: process.env.BROWSER_CHANNEL } : {});
 const catalog = await scrapeCatalog(browser, log);
 log(`catalog: ${catalog.length} departments, ${catalog.reduce((n, d) => n + d.courses.length, 0)} courses`);
+// If the catalog did not answer, the program list would be empty and every program would be dropped
+// from the output. Stop instead and keep last week's data.
+if (!catalog.length && previous.programs.length) {
+  log('catalog returned no departments; leaving docs/data/courses.json unchanged');
+  await browser.close();
+  process.exit(1);
+}
 
 // Course code -> catalog entry (for filling in missing descriptions/titles/credits).
 const catalogCourse = new Map();
@@ -43,13 +63,33 @@ const PARALLEL = 4;                     // programs read at the same time
 
 async function readProgram(p) {
   if (p.sheet) { const r = await readSheet(p.sheet); r.url = p.sheet; return r; }
+  if (SAVED) return readSaved(p);
   let urls = p.pages || [];
   if (!urls.length && p.site) urls = GUESS_PATHS.map(s => p.site.replace(/\/$/, '') + s);
   if (!urls.length) return { status: 'unknown', sections: [], note: 'no department course page known', raw: '' };
-  if (p.pages) return readPages(browser, urls, log);
+  const subject = p.code.replace(/-(GRD|CONC)$/, '');
+  if (p.pages) return readPages(browser, urls, log, { subject });
   // Guessed pages: stop at the first one that loads and is not a 404.
   let r;
-  for (const u of urls) { r = await readPages(browser, [u], log); if (r.status !== 'unavailable' || /blocked/.test(r.note)) break; }
+  for (const u of urls) { r = await readPages(browser, [u], log, { subject }); if (r.status !== 'unavailable' || /blocked/.test(r.note)) break; }
+  return r;
+}
+
+/** Read a program's page from its saved .html file instead of the live site. */
+async function readSaved(p) {
+  const file = savedFiles.get(savedKey(p.code));
+  if (!file) return { status: 'unavailable', sections: [], note: 'page not saved yet', raw: '' };
+  const html = fs.readFileSync(file, 'utf8');
+  // The page's own address, recorded in the saved file, so course links still point at gc.cuny.edu.
+  const url = (html.match(/<link rel="canonical" href="([^"]+)"/) || [])[1] || p.pages?.[0] || p.site || '';
+  // A file saved under the wrong name (e.g. the Digital Humanities page saved as ENGL-GRD.html)
+  // would put one program's courses under another. Skip it when the page belongs to another program.
+  const key = u => u.toLowerCase().replace(/^https?:\/\/(www\.)?/, '').replace(/[#?].*$/, '').replace(/\/$/, '');
+  const owner = programs.find(o => o.code !== p.code && (o.pages || []).some(u => key(u) === key(url)));
+  if (owner) return { status: 'unavailable', sections: [], note: `${path.basename(file)} is the ${owner.name} page; save this program's own page`, raw: '' };
+  const r = await readPages(browser, [url], log, { files: { [url]: file }, subject: p.code.replace(/-(GRD|CONC)$/, '') });
+  r.savedAt = fs.statSync(file).mtime.toISOString();
+  if (r.status === 'unavailable') r.note = `saved file ${path.basename(file)} could not be read`;
   return r;
 }
 
@@ -69,7 +109,7 @@ async function handle(p) {
   else entry = {
     code: p.code, name: p.name, kind: p.kind, status: r.status, note: r.note || '',
     source: r.url || p.site || '', site: p.site || '', catalogUrl: p.catalogUrl || '',
-    checked: new Date().toISOString(), sections: r.sections.map(s => fillFromCatalog(s)),
+    checked: r.savedAt || new Date().toISOString(), ...(r.savedAt ? { savedPage: true } : {}), sections: r.sections.map(s => fillFromCatalog(s)),
   };
   results.set(p.code, entry);
   log(`${p.code} ${p.name}: ${entry.status}${entry.stale ? ' (kept last week)' : ''}, ${entry.sections.length} sections ${r.note || ''} [${Math.round((Date.now() - t0) / 1000)}s]`);

@@ -1,6 +1,6 @@
 {
  "term": "Spring 2027",
- "generated": "2026-11-15T04:39:35.656Z",
+ "generated": "2026-11-16T20:35:04.466Z",
  "classUrl": "https://www.gc.cuny.edu/digital-humanities/curriculum-and-degree-information/courses#fall-2026",
  "extraLinks": [
   {
@@ -13,13 +13,12 @@
    "code": "AFCP-GRD",
    "name": "Africana Studies",
    "kind": "certificate",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/africana-studies/courses",
    "site": "https://www.gc.cuny.edu/Africanastudies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/AFCP-GRD/courses",
-   "checked": "2026-11-15T03:58:47.293Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:34:49.249Z",
    "sections": []
   },
   {
@@ -27,11 +26,11 @@
    "name": "American Studies",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Americanstudies",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Americanstudies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Americanstudies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ASCP-GRD/courses",
-   "checked": "2026-11-15T04:38:57.569Z",
+   "checked": "2026-11-16T20:34:49.279Z",
    "sections": []
   },
   {
@@ -39,7 +38,7 @@
    "name": "Anthropology",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/anthropology/courses",
    "site": "https://www.gc.cuny.edu/Anthropology",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ANTH-GRD/courses",
@@ -494,18 +493,19 @@
      "catalogTitle": "ST: Linguistic Anthropology",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "ART-GRD",
    "name": "Art History",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/ArtHistory",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/ArtHistory/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/ArtHistory",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ART-GRD/courses",
-   "checked": "2026-11-15T04:38:57.574Z",
+   "checked": "2026-11-16T20:34:49.269Z",
    "sections": []
   },
   {
@@ -513,24 +513,23 @@
    "name": "Astrophysics",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/astrophysics",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/astrophysics/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/astrophysics",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ASTR-GRD/courses",
-   "checked": "2026-11-15T04:38:57.605Z",
+   "checked": "2026-11-16T20:34:50.432Z",
    "sections": []
   },
   {
    "code": "AUD-GRD",
    "name": "Audiology",
    "kind": "department",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/audiology/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Audiology",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/AUD-GRD/courses",
-   "checked": "2026-11-15T03:59:16.576Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:34:50.502Z",
    "sections": []
   },
   {
@@ -538,11 +537,11 @@
    "name": "Biochemistry",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Biochemistry",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/biochemistry/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Biochemistry",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/BICM-GRD/courses",
-   "checked": "2026-11-15T04:38:57.606Z",
+   "checked": "2026-11-16T20:34:50.568Z",
    "sections": []
   },
   {
@@ -550,23 +549,23 @@
    "name": "Biography and Memoir",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/bam",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/bam/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/bam",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/BAM-GRD/courses",
-   "checked": "2026-11-15T04:38:57.607Z",
+   "checked": "2026-11-16T20:34:50.523Z",
    "sections": []
   },
   {
    "code": "BIO-GRD",
    "name": "Biology",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/BIO-GRD/courses",
-   "checked": "2026-11-15T04:38:57.608Z",
+   "checked": "2026-11-16T20:34:50.432Z",
    "sections": []
   },
   {
@@ -574,7 +573,7 @@
    "name": "Black, Race, & Ethnic Studies",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/black-race-and-ethnic-studies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/black-race-and-ethnic-studies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/BRES-GRD/courses",
@@ -900,18 +899,19 @@
      "catalogTitle": "Thesis Writing Course",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "BBUS-GRD",
    "name": "Business",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/BBUS-GRD/courses",
-   "checked": "2026-11-15T04:39:22.646Z",
+   "checked": "2026-11-16T20:34:50.503Z",
    "sections": []
   },
   {
@@ -919,11 +919,11 @@
    "name": "Chemistry",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Chemistry",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/chemistry/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Chemistry",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/CHEM-GRD/courses",
-   "checked": "2026-11-15T04:39:22.648Z",
+   "checked": "2026-11-16T20:34:51.760Z",
    "sections": []
   },
   {
@@ -931,7 +931,7 @@
    "name": "Classics",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/classics/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Classics",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/CLAS-GRD/courses",
@@ -1050,18 +1050,19 @@
      "catalogTitle": "ST: Roman History",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "COGNEU-GRD",
    "name": "Cognitive Neuroscience",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/cognitiveneuroscience",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/cognitiveneuroscience/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/cognitiveneuroscience",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/COGNEU-GRD/courses",
-   "checked": "2026-11-15T04:39:22.725Z",
+   "checked": "2026-11-16T20:34:51.805Z",
    "sections": []
   },
   {
@@ -1069,7 +1070,7 @@
    "name": "Comparative Literature",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/comparative-literature/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/comparative-literature",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/C%20L-GRD/courses",
@@ -1379,18 +1380,19 @@
      "catalogTitle": "Old English Literature",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "CSC-GRD",
    "name": "Computer Science",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/computerscience",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/computerscience/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/computerscience",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/CSC-GRD/courses",
-   "checked": "2026-11-15T04:39:22.731Z",
+   "checked": "2026-11-16T20:34:52.977Z",
    "sections": []
   },
   {
@@ -1398,24 +1400,23 @@
    "name": "Criminal Justice",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/CriminalJustice",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/CriminalJustice/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/CriminalJustice",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/CRJ-GRD/courses",
-   "checked": "2026-11-15T04:39:22.732Z",
+   "checked": "2026-11-16T20:34:52.984Z",
    "sections": []
   },
   {
    "code": "CTCP-GRD",
    "name": "Critical Theory",
    "kind": "certificate",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/critical-theory/courses",
    "site": "https://www.gc.cuny.edu/criticaltheory",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/CTCP-GRD/courses",
-   "checked": "2026-11-15T04:10:27.219Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:34:53.065Z",
    "sections": []
   },
   {
@@ -1423,7 +1424,7 @@
    "name": "Data Analysis and Visualization",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/data-analysis-and-visualization/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/datavis",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/DATA-GRD/courses",
@@ -1629,18 +1630,19 @@
      "catalogTitle": "Seminar in Special Topics",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "DCP-GRD",
    "name": "Demography",
    "kind": "certificate",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/DCP-GRD/courses",
-   "checked": "2026-11-15T04:39:25.689Z",
+   "checked": "2026-11-16T20:34:52.977Z",
    "sections": []
   },
   {
@@ -1648,7 +1650,7 @@
    "name": "Digital Humanities",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/digital-humanities/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/dh",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/DHUM-GRD/courses",
@@ -1787,14 +1789,15 @@
      "catalogTitle": "Seminar in Special Topics",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "EES-GRD",
    "name": "Earth and Environmental Science",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/earth-and-environmental-sciences/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/EES",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/EES-GRD/courses",
@@ -2199,18 +2202,19 @@
      "catalogTitle": "ST: Earth & Envir Sciences",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "ECON-GRD",
    "name": "Economics",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Economics",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Economics/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Economics",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ECON-GRD/courses",
-   "checked": "2026-11-15T04:39:25.890Z",
+   "checked": "2026-11-16T20:34:54.293Z",
    "sections": []
   },
   {
@@ -2218,23 +2222,23 @@
    "name": "Education Psychology",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/EducationalPsychology",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/EducationalPsychology/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/EducationalPsychology",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/EPSY-GRD/courses",
-   "checked": "2026-11-15T04:39:25.894Z",
+   "checked": "2026-11-16T20:34:55.009Z",
    "sections": []
   },
   {
    "code": "ENGR-GRD",
    "name": "Engineering",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ENGR-GRD/courses",
-   "checked": "2026-11-15T04:39:25.898Z",
+   "checked": "2026-11-16T20:34:54.161Z",
    "sections": []
   },
   {
@@ -2242,7 +2246,7 @@
    "name": "English",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/english/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/English",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ENGL-GRD/courses",
@@ -2645,18 +2649,19 @@
      "catalogTitle": "Advanced Studies in Language and Literature",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "EJCR-GRD",
    "name": "Environmental Justice/Climate Resilience",
-   "kind": "certificate",
+   "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/earth-and-environmental-sciences/advanced-certificate",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/earth-and-environmental-sciences/advanced-certificate/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/earth-and-environmental-sciences/advanced-certificate",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/EJCR-GRD/courses",
-   "checked": "2026-11-15T04:39:26.255Z",
+   "checked": "2026-11-16T20:34:55.368Z",
    "sections": []
   },
   {
@@ -2664,11 +2669,11 @@
    "name": "Film Studies",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Filmstudies",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Filmstudies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Filmstudies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/FSCP-GRD/courses",
-   "checked": "2026-11-15T04:39:26.257Z",
+   "checked": "2026-11-16T20:34:55.507Z",
    "sections": []
   },
   {
@@ -2676,11 +2681,11 @@
    "name": "French",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/French",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/french/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/French",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/FREN-GRD/courses",
-   "checked": "2026-11-15T04:39:26.263Z",
+   "checked": "2026-11-16T20:34:56.223Z",
    "sections": []
   },
   {
@@ -2688,11 +2693,11 @@
    "name": "Global Early Modern Studies",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/global-early-modern-studies",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/global-early-modern-studies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/global-early-modern-studies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/RSCP-GRD/courses",
-   "checked": "2026-11-15T04:39:26.267Z",
+   "checked": "2026-11-16T20:34:56.485Z",
    "sections": []
   },
   {
@@ -2700,11 +2705,11 @@
    "name": "History",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/History",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/history/courses",
    "site": "https://www.gc.cuny.edu/History",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/HIST-GRD/courses",
-   "checked": "2026-11-15T04:39:26.272Z",
+   "checked": "2026-11-16T20:34:56.572Z",
    "sections": []
   },
   {
@@ -2712,11 +2717,11 @@
    "name": "Interactive Tech & Pedagogy",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/itp",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/itp/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/itp",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/ITCP-GRD/courses",
-   "checked": "2026-11-15T04:39:26.275Z",
+   "checked": "2026-11-16T20:34:56.697Z",
    "sections": []
   },
   {
@@ -2724,11 +2729,11 @@
    "name": "Interdisciplinary Studies",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/academics/collaborative-and-interdisciplinary-programs",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/academics/collaborative-and-interdisciplinary-programs/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/academics/collaborative-and-interdisciplinary-programs",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/IDS-GRD/courses",
-   "checked": "2026-11-15T04:39:26.286Z",
+   "checked": "2026-11-16T20:34:57.345Z",
    "sections": []
   },
   {
@@ -2736,37 +2741,35 @@
    "name": "International Migration Studies",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/ims",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/ims/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/ims",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/INMIGR-GRD/courses",
-   "checked": "2026-11-15T04:39:26.290Z",
+   "checked": "2026-11-16T20:34:57.635Z",
    "sections": []
   },
   {
    "code": "HISP-GRD",
    "name": "Latin American, Iberian and Latino Cultures",
    "kind": "department",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/latin-american-iberian-and-latino-cultures/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/latin-american-iberian-and-latino-cultures",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/HISP-GRD/courses",
-   "checked": "2026-11-15T04:02:03.521Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:34:57.728Z",
    "sections": []
   },
   {
    "code": "LGTBQ-GRD",
    "name": "LGBTQ Studies",
-   "kind": "certificate",
-   "status": "not_posted",
-   "note": "",
+   "kind": "department",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/lgbtq-studies/courses",
    "site": "https://www.gc.cuny.edu/lgbtq-studies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/LGTBQ-GRD/courses",
-   "checked": "2026-11-15T04:02:39.914Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:34:57.870Z",
    "sections": []
   },
   {
@@ -2774,7 +2777,7 @@
    "name": "Linguistics",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/linguistics/courses",
    "site": "https://www.gc.cuny.edu/Linguistics",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/LING-GRD/courses",
@@ -3074,14 +3077,15 @@
       "credits"
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "MALS-GRD",
    "name": "MA Program in Liberal Studies",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/liberal-studies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Liberalstudies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/MALS-GRD/courses",
@@ -3674,18 +3678,19 @@
      "source": "https://www.gc.cuny.edu/liberal-studies/curriculum-and-degree-information/courses",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "MATH-GRD",
    "name": "Mathematics",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/MATH-GRD/courses",
-   "checked": "2026-11-15T04:39:29.105Z",
+   "checked": "2026-11-16T20:34:57.730Z",
    "sections": []
   },
   {
@@ -3693,11 +3698,11 @@
    "name": "Medieval Studies",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/medievalstudies",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/medievalstudies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/medievalstudies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/MSCP-GRD/courses",
-   "checked": "2026-11-15T04:39:29.109Z",
+   "checked": "2026-11-16T20:34:58.902Z",
    "sections": []
   },
   {
@@ -3705,11 +3710,11 @@
    "name": "Middle Eastern Studies",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/MAMES",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/MAMES/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/MAMES",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/MES-GRD/courses",
-   "checked": "2026-11-15T04:39:29.114Z",
+   "checked": "2026-11-16T20:34:59.034Z",
    "sections": []
   },
   {
@@ -3717,11 +3722,11 @@
    "name": "Music",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Music",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/Music/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Music",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/MUS-GRD/courses",
-   "checked": "2026-11-15T04:39:29.117Z",
+   "checked": "2026-11-16T20:34:59.588Z",
    "sections": []
   },
   {
@@ -3729,11 +3734,11 @@
    "name": "Nanoscience",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/nanoscience",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/nanoscience/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/nanoscience",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/NANO-GRD/courses",
-   "checked": "2026-11-15T04:39:29.122Z",
+   "checked": "2026-11-16T20:34:59.921Z",
    "sections": []
   },
   {
@@ -3741,36 +3746,35 @@
    "name": "Nanoscience Connected to Life",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/chemistry/advanced-certificate",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/chemistry/advanced-certificate/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/chemistry/advanced-certificate",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/CHEMNC-GRD/courses",
-   "checked": "2026-11-15T04:39:29.125Z",
+   "checked": "2026-11-16T20:35:00.082Z",
    "sections": []
   },
   {
    "code": "NURS-GRD",
    "name": "Nursing",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/NURS-GRD/courses",
-   "checked": "2026-11-15T04:39:29.129Z",
+   "checked": "2026-11-16T20:34:59.036Z",
    "sections": []
   },
   {
    "code": "PHIL-GRD",
    "name": "Philosophy",
    "kind": "department",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/philosophy/courses",
    "site": "https://gc.cuny.edu/Philosophy",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PHIL-GRD/courses",
-   "checked": "2026-11-15T04:03:26.838Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:35:00.230Z",
    "sections": []
   },
   {
@@ -3778,11 +3782,11 @@
    "name": "Physics",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/Physics",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/physics/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/Physics",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PHYS-GRD/courses",
-   "checked": "2026-11-15T04:39:30.935Z",
+   "checked": "2026-11-16T20:35:00.713Z",
    "sections": []
   },
   {
@@ -3790,23 +3794,23 @@
    "name": "Political Science",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/PoliticalScience",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/PoliticalScience/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/PoliticalScience",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PSC-GRD/courses",
-   "checked": "2026-11-15T04:39:30.938Z",
+   "checked": "2026-11-16T20:35:01.066Z",
    "sections": []
   },
   {
    "code": "PDEV-GRD",
    "name": "Professional Development",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PDEV-GRD/courses",
-   "checked": "2026-11-15T04:39:30.941Z",
+   "checked": "2026-11-16T20:35:00.085Z",
    "sections": []
   },
   {
@@ -3818,7 +3822,7 @@
    "source": "https://docs.google.com/spreadsheets/d/1a3UuUdJWjZ9HkSBuB7uxzGMx7HVvCMR5ai_S-pb1kcs/edit?usp=sharing",
    "site": "https://www.gc.cuny.edu/Psychology",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PSYC-GRD/courses",
-   "checked": "2026-11-15T04:39:31.714Z",
+   "checked": "2026-11-16T20:35:00.871Z",
    "sections": [
     {
      "code": "PSYC 70340",
@@ -5584,12 +5588,12 @@
    "code": "PUBH-GRD",
    "name": "Public Health",
    "kind": "department",
-   "status": "unavailable",
-   "note": "page not saved yet",
+   "status": "unknown",
+   "note": "no department course page known",
    "source": "",
    "site": "",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PUBH-GRD/courses",
-   "checked": "2026-11-15T04:39:31.717Z",
+   "checked": "2026-11-16T20:35:00.232Z",
    "sections": []
   },
   {
@@ -5597,11 +5601,11 @@
    "name": "Public Scholarship",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "",
-   "site": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/public-scholarship/curriculum-and-degree-information/courses",
+   "site": "https://www.gc.cuny.edu/public-scholarship",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/PUBCP-GRD/courses",
-   "checked": "2026-11-15T04:39:31.719Z",
+   "checked": "2026-11-16T20:35:01.366Z",
    "sections": []
   },
   {
@@ -5609,11 +5613,11 @@
    "name": "Qualitative Methods Concentration",
    "kind": "concentration",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "",
+   "note": "qualitativeconcentration.commons.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://qualitativeconcentration.commons.gc.cuny.edu/qualitative-methods-courses-2026-2027/",
    "site": "",
    "catalogUrl": "",
-   "checked": "2026-11-15T04:39:33.915Z",
+   "checked": "2026-11-16T20:35:04.437Z",
    "sections": []
   },
   {
@@ -5621,11 +5625,11 @@
    "name": "Quantitative Methods Concentration",
    "kind": "concentration",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/psychology/qualitative-and-quantitative-methods-concentrations",
    "site": "",
    "catalogUrl": "",
-   "checked": "2026-11-15T04:39:33.920Z",
+   "checked": "2026-11-16T20:35:04.292Z",
    "sections": []
   },
   {
@@ -5633,24 +5637,23 @@
    "name": "Quantitative Methods in the Social Sciences",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/qmss",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/qmss/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/qmss",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/QMSS-GRD/courses",
-   "checked": "2026-11-15T04:39:31.721Z",
+   "checked": "2026-11-16T20:35:01.830Z",
    "sections": []
   },
   {
    "code": "SSW-GRD",
    "name": "Social Welfare",
    "kind": "department",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/social-welfare/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/SocialWelfare",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/SSW-GRD/courses",
-   "checked": "2026-11-15T04:05:49.997Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:35:02.024Z",
    "sections": []
   },
   {
@@ -5658,7 +5661,7 @@
    "name": "Sociology",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/sociology/courses",
    "site": "https://www.gc.cuny.edu/Sociology",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/SOC-GRD/courses",
@@ -6057,18 +6060,19 @@
       "credits"
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "SPCH-GRD",
    "name": "Speech-Language-Hearing Sciences",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/SpeechandHearing",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/SpeechandHearing/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/SpeechandHearing",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/SPCH-GRD/courses",
-   "checked": "2026-11-15T04:39:32.222Z",
+   "checked": "2026-11-16T20:35:02.497Z",
    "sections": []
   },
   {
@@ -6076,24 +6080,23 @@
    "name": "Theatre and Performance",
    "kind": "department",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/theatre-and-performance",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/theatre-and-performance/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/theatre-and-performance",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/THEA-GRD/courses",
-   "checked": "2026-11-15T04:39:32.232Z",
+   "checked": "2026-11-16T20:35:02.971Z",
    "sections": []
   },
   {
    "code": "U ED-GRD",
    "name": "Urban Education",
    "kind": "department",
-   "status": "not_posted",
-   "note": "",
+   "status": "unavailable",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/urban-education/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/UrbanEducation",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/U%20ED-GRD/courses",
-   "checked": "2026-11-15T04:00:59.430Z",
-   "savedPage": true,
+   "checked": "2026-11-16T20:35:03.165Z",
    "sections": []
   },
   {
@@ -6101,7 +6104,7 @@
    "name": "Women's and Gender Studies",
    "kind": "department",
    "status": "posted",
-   "note": "",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
    "source": "https://www.gc.cuny.edu/womens-and-gender-studies/courses",
    "site": "https://www.gc.cuny.edu/womens-and-gender-studies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/WGS-GRD/courses",
@@ -6677,18 +6680,19 @@
      "source": "https://www.gc.cuny.edu/womens-and-gender-studies/courses",
      "filled": []
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "code": "WSCP-GRD",
    "name": "Women's Studies",
    "kind": "certificate",
    "status": "unavailable",
-   "note": "page not saved yet",
-   "source": "https://www.gc.cuny.edu/womenstudies",
+   "note": "www.gc.cuny.edu returned 403 (blocked by site security)",
+   "source": "https://www.gc.cuny.edu/womenstudies/curriculum-and-degree-information/courses",
    "site": "https://www.gc.cuny.edu/womenstudies",
    "catalogUrl": "https://gc.catalog.cuny.edu/departments/WSCP-GRD/courses",
-   "checked": "2026-11-15T04:39:33.904Z",
+   "checked": "2026-11-16T20:35:03.620Z",
    "sections": []
   }
  ]
